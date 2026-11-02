@@ -24,7 +24,10 @@ jobs:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
+      # A queued run must start from the latest data, not the commit that triggered it.
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
@@ -45,6 +48,7 @@ jobs:
       # status.json only carries the check time, so it is deployed but never committed.
       - name: Commit changed data
         if: always()
+        continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
