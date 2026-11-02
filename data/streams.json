@@ -1,4 +1,55 @@
 {
- "streams": [],
+ "streams": [
+  {
+   "id": "cz:15985102",
+   "platform": "chzzk",
+   "member": "terri",
+   "title": "실패시 구독권 10장) 방송이 취소된 사람의 1시간 타임 어택 방송🫡",
+   "url": "https://chzzk.naver.com/video/15985102",
+   "thumb": "https://video-phinf.pstatic.net/20261102_203/17936207610203olec_JPEG/jeBPFHG4pz_03.jpg",
+   "startedAt": "2026-11-02T10:34:22Z",
+   "endedAt": "2026-11-02T11:59:48Z"
+  },
+  {
+   "id": "cz:15980152",
+   "platform": "chzzk",
+   "member": "terri",
+   "title": "11월의 오버더월 아침라디오!✨ (w.나츠키)",
+   "url": "https://chzzk.naver.com/video/15980152",
+   "thumb": "https://video-phinf.pstatic.net/20261102_18/1793578334124pYiyn_JPEG/N3oxKVTXHl_01.jpg",
+   "startedAt": "2026-11-01T22:02:09Z",
+   "endedAt": "2026-11-02T00:11:37Z"
+  },
+  {
+   "id": "cz:15970061",
+   "platform": "chzzk",
+   "member": "terri",
+   "title": "오늘은 영도데이ㅣㅣ! (오늘은 봉누도도 가능입니다)",
+   "url": "https://chzzk.naver.com/video/15970061",
+   "thumb": "https://video-phinf.pstatic.net/20261101_293/17935340122928bE6w_JPEG/GQcY8TLxs0_03.jpg",
+   "startedAt": "2026-11-01T07:14:24Z",
+   "endedAt": "2026-11-01T11:53:27Z"
+  },
+  {
+   "id": "cz:15966409",
+   "platform": "chzzk",
+   "member": "terri",
+   "title": "광고) 니케 ost가 나왔다고 해서 달려왔습니다;;",
+   "url": "https://chzzk.naver.com/video/15966409",
+   "thumb": "https://video-phinf.pstatic.net/20261101_61/1793516757079SQ6oT_JPEG/1T8LnysDpV_04.jpg",
+   "startedAt": "2026-11-01T06:01:55Z",
+   "endedAt": "2026-11-01T07:05:55Z"
+  },
+  {
+   "id": "cz:15956069",
+   "platform": "chzzk",
+   "member": "terri",
+   "title": "츠키랑 옷 바꿔입고 로블록스 공포게임하기! (글로벌 프로젝트 와일드카드 클럽에 팀 아이언마우스가 된 오늘 커버곡을 발표한 테리입니다!🥰)",
+   "url": "https://chzzk.naver.com/video/15956069",
+   "thumb": "https://video-phinf.pstatic.net/20261101_237/1793464154937TYz7c_JPEG/JdS031azrJ_08.jpg",
+   "startedAt": "2026-10-31T10:05:56Z",
+   "endedAt": "2026-10-31T14:57:17Z"
+  }
+ ],
  "ignored": []
 }
