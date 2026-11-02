@@ -1,0 +1,34 @@
+{
+  "announcedAt": "2026-10-29T23:50:00Z",
+  "teams": [
+    { "id": "amalee", "name": "Team AmaLee", "suit": "♠", "genre": { "en": "Cinematic / Theatrical / Epic", "ja": "シネマティック / シアトリカル / エピック" } },
+    { "id": "dokibird", "name": "Team Dokibird", "suit": "♣", "genre": { "en": "Pop-punk / Rock / Girl band", "ja": "ポップパンク / ロック / ガールズバンド" } },
+    { "id": "ironmouse", "name": "Team ironmouse", "suit": "♥", "genre": { "en": "Upbeat with a Latin taste", "ja": "アップビート × ラテン" } },
+    { "id": "rin", "name": "Team Rin Penrose", "suit": "♦", "genre": { "en": "Weird / Future core / Vocaloid", "ja": "ウィアード / フューチャーコア / ボカロ" } }
+  ],
+  "members": [
+    { "id": "amalee", "name": "AmaLee", "mark": "🦋👑", "heart": "#4a90e2", "birthday": "3/13", "team": "amalee", "captain": true, "x": "LeeandLie", "youtube": "UC8THb_fnOptyVgpi3xuCd-A", "twitch": "amalee", "match": ["AmaLee", "Monarch"], "song": { "id": "QALNGSjOPXw", "title": "HEAR ME OUT", "kind": "original" } },
+    { "id": "alpha-betta", "name": "Alpha Betta", "mark": "🐟🌙", "heart": "#3b82f6", "birthday": "3/4", "team": "amalee", "x": "AlphaBettaVT", "youtube": "UCqXsdheBs0ONTTiQTJqn5QQ", "twitch": "alphabettavt", "match": ["Alpha Betta"], "song": { "id": "01ytfJqFFKE", "title": "It's Not That Deep", "kind": "original" } },
+    { "id": "kanra-deity", "name": "Kanra Deity", "mark": "🪬🩵", "heart": "#7fd8f0", "birthday": "10/29", "team": "amalee", "x": "KanraDeity", "youtube": "UCCZyXXv6cHQBqbPIBfTe1gQ", "twitch": "kanradeity", "match": ["Kanra", "甘楽"], "song": { "id": "JAcEgJhrR00", "title": "レッテル", "titleEn": "Retteru", "kind": "original" } },
+    { "id": "maefae", "name": "MaeFae", "mark": "⚡🌸", "heart": "#a766e0", "birthday": "4/20", "team": "amalee", "x": "maefae", "youtube": "UC9vINYqx4LrpK545qkKFPPg", "twitch": "maefaech", "match": ["MaeFae"], "song": { "id": "XMwXjeDp6U8", "title": "God-ish", "kind": "cover" } },
+    { "id": "rio-fukai", "name": "Rio Fukai", "mark": "🍣🦁", "heart": "#ff8c42", "birthday": "9/19", "team": "amalee", "x": "RioFukai", "youtube": "UCe2l4Sf85ViPbr3GW2MDOtA", "twitch": "riofukai", "match": ["Rio Fukai"], "song": { "id": "YYiZ8SXF7qQ", "title": "深海恐怖症", "titleEn": "Thalassophobia", "kind": "original" } },
+
+    { "id": "dokibird", "name": "Dokibird", "mark": "🏆", "heart": "#f5c518", "birthday": "7/4", "team": "dokibird", "captain": true, "x": "dokibird", "youtube": "UComInW10MkHJs-_vi4rHQCQ", "twitch": "dokibird", "match": ["Dokibird", "Doki"], "song": { "id": "I9Bhpy8mD4k", "title": "Girlfriend", "kind": "cover" } },
+    { "id": "kirispica", "name": "kirispica", "mark": "💭💗", "heart": "#ff7fb0", "birthday": "4/15", "team": "dokibird", "x": "kirispicaa", "youtube": "UCbrbFKFhyHD4bMJbEcXZz1g", "twitch": "kirispica", "match": ["kirispica", "Spica"], "song": { "id": "G80hCdoZfdg", "title": "Interstellar Clouds", "kind": "original" } },
+    { "id": "monii", "name": "monii", "mark": "🥯", "heart": "#a766e0", "birthday": "5/19", "team": "dokibird", "x": "Monii_Bagel", "youtube": "UCfTjT67uIy1hcAJFO7_AqOQ", "twitch": "moniibagel", "match": ["monii"], "song": { "id": "QI9h7mwSYSw", "title": "runaway", "kind": "original" } },
+    { "id": "tsunamicat", "name": "TsunamiCat", "mark": "🌊🐈‍⬛", "heart": "#2fa8c9", "birthday": "12/5", "team": "dokibird", "x": "TsunamiCatVT", "youtube": "UC62ZEUM6JGZfb8poeIx0ypA", "twitch": "tsunamicat", "match": ["TsunamiCat"], "song": { "id": "z0Br6ahCzKI", "title": "Decode", "kind": "cover" } },
+
+    { "id": "ironmouse", "name": "ironmouse", "mark": "😈💖", "heart": "#ff5fa2", "birthday": "1/11", "team": "ironmouse", "captain": true, "x": "ironmouse", "youtube": "UChgPVLjqugDQpRLWvC7zzig", "twitch": "ironmouse", "match": ["ironmouse"], "song": { "id": "toszx8snZJE", "title": "Time to Feast", "kind": "original" } },
+    { "id": "eerie", "name": "eerie", "mark": "🌊🎧", "heart": "#7fd8f0", "birthday": "11/11", "team": "ironmouse", "x": "eeriebpm", "youtube": "UCWlcJ0eXhGTeZ0fGk53xhLA", "twitch": "eerie", "match": ["eeriebpm"], "song": { "id": "b5uzf9nN3hA", "title": "hanabi", "kind": "original" } },
+    { "id": "idna", "name": "IDN/A", "mark": "🧬⛓️", "heart": "#3b82f6", "birthday": "11/10", "team": "ironmouse", "x": "whoisIDNA", "youtube": "UCZH4cojm2zFKKZgaMXNzGkA", "twitch": "whoisidna", "match": ["IDN/A", "IDNA"], "song": { "id": "PLHbX3wVktY", "title": "NEW VIBE", "kind": "original" } },
+    { "id": "michi-mochievee", "name": "Michi Mochievee", "mark": "💍", "heart": "#a766e0", "birthday": "3/27", "team": "ironmouse", "x": "MichiMochievee", "youtube": "UCnS5IYNyGKOti9cFlK5SefQ", "twitch": "michimochievee", "match": ["Michi Mochievee", "Michi"], "song": { "id": "_JomDDB-y78", "title": "Nothing More", "kind": "original" } },
+    { "id": "terri", "name": "Terri", "mark": "✝️", "heart": "#f2f2f2", "birthday": "9/6", "team": "ironmouse", "x": "Terri_Nunna", "youtube": "UC0Yq1Xn1e6vz6pFP78UdGqQ", "chzzk": "0a2020b09b8cc7f2285b7ae5de2ce4d3", "match": ["Terri", "테리"], "song": { "id": "qcnGtDTYlwo", "title": "僕のこと", "titleEn": "Boku no Koto", "kind": "cover" } },
+
+    { "id": "rin-penrose", "name": "Rin Penrose", "mark": "👑🌌", "heart": "#9b6be0", "birthday": "2/4", "team": "rin", "captain": true, "x": "RinPenrose", "youtube": "UCpZIbzoEC_3rZglErpQkbDg", "twitch": "rinpenrose", "match": ["Rin Penrose"], "song": { "id": "c7Kh0ie2Ots", "title": "Golden Age", "kind": "original" } },
+    { "id": "hackerling", "name": "hackerling", "mark": "🐙💻", "heart": "#7fd8f0", "birthday": "11/6", "team": "rin", "x": "hackerling_", "youtube": "UCkXyp_d13CyeR8JKT1dHx1w", "twitch": "hackerling", "match": ["hackerling"], "song": { "id": "sB2nJzb9Tz8", "title": "Down by the River", "kind": "cover" } },
+    { "id": "hypa-vox", "name": "HYPA VOX", "mark": "⚡️⚠️", "heart": "#ffd400", "birthday": "6/2", "team": "rin", "x": "HYPAVOX", "youtube": "UC0cYJvHdYRj-xuvSBzFPkEw", "twitch": "hypavox", "match": ["HYPA VOX", "Hypa"], "song": { "id": "qv0h6odSgaM", "title": "Unravel", "kind": "cover" } },
+    { "id": "mage-mimi", "name": "Mage Mimi", "mark": "💜☂️", "heart": "#b388eb", "birthday": "9/17", "team": "rin", "x": "meotashie", "youtube": "UC-YqYze6l5hwNbyY6HFzC7A", "match": ["Mage Mimi"], "song": { "id": "Jp2QefXzfCk", "title": "In Vain", "kind": "original" } },
+    { "id": "phoebe", "name": "Phoebe", "mark": "🐝🌸", "heart": "#ff6fae", "birthday": "10/28", "team": "rin", "x": "feebeechanchibi", "youtube": "UCTOQQLzatFOM3R91G8ZIyxw", "twitch": "feebee", "match": ["Phoebe", "Feebee"], "song": { "id": "26dF6zoJHJU", "title": "All of My Life", "kind": "original" } },
+    { "id": "rachie", "name": "rachie", "mark": "🎀💌", "heart": "#c79bff", "birthday": "6/23", "team": "rin", "x": "splendiferachie", "youtube": "UCRbsmnDTHD9-4pEIuG7zYRw", "twitch": "rachie", "match": ["rachie"], "song": { "id": "l2xmHR6TupI", "title": "one-room dreamy days", "kind": "original" } }
+  ]
+}
