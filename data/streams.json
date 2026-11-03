@@ -1,6 +1,16 @@
 {
  "streams": [
   {
+   "id": "tw:316290385258",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【Zatsu】Making my character lore for DistrictV!!!【RioFukai】 !original !cover !social",
+   "url": "https://www.twitch.tv/videos/2918347526",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/b4989fe0dd49d14eccac_riofukai_316290385258_1793703772//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-03T11:02:59Z",
+   "endedAt": "2026-11-03T14:41:46Z"
+  },
+  {
    "id": "yt:1Ltldnudvho",
    "platform": "youtube",
    "member": "rio-fukai",
@@ -11,6 +21,16 @@
    "endedAt": "2026-11-03T14:41:55Z"
   },
   {
+   "id": "tw:316227425000",
+   "platform": "twitch",
+   "member": "kirispica",
+   "title": "【SONGWRITING Q&A】Ask me anything about songwriting and music!! Chatting about my new original song: \"Devil-Angel Dare\"!",
+   "url": "https://www.twitch.tv/videos/2918243971",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/a5254e20ab19b3b050ae_kirispica_316227425000_1793685595//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-03T06:00:04Z",
+   "endedAt": "2026-11-03T08:20:21Z"
+  },
+  {
    "id": "yt:mQzbgnMmPpE",
    "platform": "youtube",
    "member": "kirispica",
@@ -19,6 +39,26 @@
    "thumb": "https://i.ytimg.com/vi/mQzbgnMmPpE/mqdefault.jpg",
    "startedAt": "2026-11-03T05:50:36Z",
    "endedAt": "2026-11-03T08:20:10Z"
+  },
+  {
+   "id": "tw:316227393640",
+   "platform": "twitch",
+   "member": "kirispica",
+   "title": "【SONGWRITING Q&A】Ask me anything about songwriting and music!! Chatting about my new original song: \"Devil-Angel Dare\"!",
+   "url": "https://www.twitch.tv/videos/2918240218",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/fc97293293f7a0545cb9_kirispica_316227393640_1793685023//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-03T05:50:32Z",
+   "endedAt": "2026-11-03T05:55:05Z"
+  },
+  {
+   "id": "tw:319778648023",
+   "platform": "twitch",
+   "member": "ironmouse",
+   "title": "Let’s play #HelloKittyPartyLand | #ad | !hellokitty",
+   "url": "https://www.twitch.tv/videos/2918079093",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/4ca73b2f09cfcb22a73e_ironmouse_319778648023_1793668905//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-03T01:21:50Z",
+   "endedAt": "2026-11-03T14:25:15Z"
   },
   {
    "id": "yt:15HwMGvi-k4",
@@ -41,6 +81,46 @@
    "endedAt": "2026-11-03T00:01:11Z"
   },
   {
+   "id": "tw:319183519717",
+   "platform": "twitch",
+   "member": "idna",
+   "title": "Drawing my team!",
+   "url": "https://www.twitch.tv/videos/2917878194",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/2ffc24b37c628e66536b_whoisidna_319183519717_1793653300//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-02T21:01:45Z",
+   "endedAt": "2026-11-03T00:01:05Z"
+  },
+  {
+   "id": "tw:318184237410",
+   "platform": "twitch",
+   "member": "rin-penrose",
+   "title": "Rin Penrose from The Wildcard Club and also Poland and also everywhere else ✧ !discord !longs !merch",
+   "url": "https://www.twitch.tv/videos/2917876098",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/9f8b8fdd4fc0652020de_rinpenrose_318184237410_1793653175//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-02T20:59:42Z",
+   "endedAt": "2026-11-03T01:15:18Z"
+  },
+  {
+   "id": "tw:316225309288",
+   "platform": "twitch",
+   "member": "rachie",
+   "title": "hot girl tummy issues #67: wildcard club + comifuro weekend! | !pc !album !social !orisong",
+   "url": "https://www.twitch.tv/videos/2917580921",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/448cf77ac16d49212813_rachie_316225309288_1793630396//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-02T14:40:02Z",
+   "endedAt": "2026-11-02T17:02:32Z"
+  },
+  {
+   "id": "tw:316286230890",
+   "platform": "twitch",
+   "member": "michi-mochievee",
+   "title": "Day 1 NMN~ The sun has started to set sooner.... | !original !cover !stoneforged !gg !tts !socials",
+   "url": "https://www.twitch.tv/videos/2917533972",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d09bc4a34c99e8500d68_michimochievee_316286230890_1793625351//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-02T13:15:57Z",
+   "endedAt": "2026-11-02T19:11:09Z"
+  },
+  {
    "id": "cz:15985102",
    "platform": "chzzk",
    "member": "terri",
@@ -59,6 +139,26 @@
    "thumb": "https://i.ytimg.com/vi/QOFlcjMJY4Y/mqdefault.jpg",
    "startedAt": "2026-11-02T10:27:39Z",
    "endedAt": "2026-11-02T12:31:40Z"
+  },
+  {
+   "id": "tw:316224429160",
+   "platform": "twitch",
+   "member": "kirispica",
+   "title": "let's have some fun!! it's singing time!",
+   "url": "https://www.twitch.tv/videos/2917459710",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/c6d24c9cb6e347a0ad81_kirispica_316224429160_1793615242//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-02T10:27:32Z",
+   "endedAt": "2026-11-02T12:31:52Z"
+  },
+  {
+   "id": "tw:318515825368",
+   "platform": "twitch",
+   "member": "ironmouse",
+   "title": "SO MANY THINGS ARE HAPPENING AHHHHHHHHHHHH| !twitchcon !glamb !youtooz !omocat !fox !cheeky !ht !starforge !tts !merch !razer",
+   "url": "https://www.twitch.tv/videos/2917238682",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/548c58675e94336443a2_ironmouse_318515825368_1793583968//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-02T01:46:13Z",
+   "endedAt": "2026-11-02T13:01:36Z"
   },
   {
    "id": "cz:15980152",
@@ -81,6 +181,26 @@
    "endedAt": "2026-11-01T21:04:11Z"
   },
   {
+   "id": "tw:317786792183",
+   "platform": "twitch",
+   "member": "phoebe",
+   "title": "【LIVE FROM U.S. IDOLFES】 Phoebe's Cozy Pajama Party Cover Club 🐝🌸 【Phoebe Chan | フィービー・チャン 】",
+   "url": "https://www.twitch.tv/videos/2916976904",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/ba0812987d9aea56dece_feebee_317786792183_1793562995//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-01T19:56:39Z",
+   "endedAt": "2026-11-01T21:04:12Z"
+  },
+  {
+   "id": "tw:320912597470",
+   "platform": "twitch",
+   "member": "maefae",
+   "title": "I THINK I JUST FOUND MY NEW FAVORITE ALT-IDOL GROUP!【M⭐VT DEBUT WATCH-A-LONG】",
+   "url": "https://www.twitch.tv/videos/2916876084",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d2vi6trrdongqn/4a07b0a1f7fede92f567_maefaech_320912597470_1793556149//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-01T18:02:38Z",
+   "endedAt": "2026-11-01T20:33:11Z"
+  },
+  {
    "id": "yt:kHWnK6a39Jk",
    "platform": "youtube",
    "member": "maefae",
@@ -101,6 +221,16 @@
    "endedAt": "2026-11-01T11:53:27Z"
   },
   {
+   "id": "tw:317783417463",
+   "platform": "twitch",
+   "member": "dokibird",
+   "title": "Born to Rem forced to fruit fly.... Coaching/tips appreciated!! | !song !merch !newvid",
+   "url": "https://www.twitch.tv/videos/2916477717",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/3e0e4ae8e79a889c0ac7_dokibird_317783417463_1793515038//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-01T06:37:23Z",
+   "endedAt": "2026-11-01T13:55:38Z"
+  },
+  {
    "id": "cz:15966409",
    "platform": "chzzk",
    "member": "terri",
@@ -119,6 +249,16 @@
    "thumb": "https://i.ytimg.com/vi/vWiD1q3Y5qU/mqdefault.jpg",
    "startedAt": "2026-11-01T03:21:12Z",
    "endedAt": "2026-11-01T06:58:54Z"
+  },
+  {
+   "id": "tw:319759882711",
+   "platform": "twitch",
+   "member": "tsunamicat",
+   "title": "🌊 HAPPY HALLOWEEN! 🌊 LAST DAY OF TSUBATHON 🌊 !wildcardclub  !newsong !subathon",
+   "url": "https://www.twitch.tv/videos/2916376810",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/d6928e393f280c0dde26_tsunamicat_319759882711_1793502613//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-01T03:10:18Z",
+   "endedAt": "2026-11-01T06:58:58Z"
   },
   {
    "id": "yt:0N6KImE_uWc",
@@ -151,6 +291,26 @@
    "endedAt": "2026-11-01T02:59:21Z"
   },
   {
+   "id": "tw:316664344178",
+   "platform": "twitch",
+   "member": "alpha-betta",
+   "title": "halloween karaoke - !cover !music !555 !dono !throne !secret",
+   "url": "https://www.twitch.tv/videos/2916288142",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/8bee2d104a6872297dac_alphabettavt_316664344178_1793494868//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-01T01:01:17Z",
+   "endedAt": "2026-11-01T02:59:23Z"
+  },
+  {
+   "id": "tw:316252143209",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【Karaoke歌枠】Merry Christmas ig【RioFukai】 !original !cover !social",
+   "url": "https://www.twitch.tv/videos/2916257683",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/67597880d8670111751a_riofukai_316252143209_1793492312//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-01T00:18:38Z",
+   "endedAt": "2026-11-01T02:59:51Z"
+  },
+  {
    "id": "yt:3LFRaexIq6U",
    "platform": "youtube",
    "member": "rio-fukai",
@@ -161,6 +321,16 @@
    "endedAt": "2026-11-01T02:59:58Z"
   },
   {
+   "id": "tw:316217367400",
+   "platform": "twitch",
+   "member": "kirispica",
+   "title": "New original song!! Airi Spica Collab!",
+   "url": "https://www.twitch.tv/videos/2916199068",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/991e82168dfcd383be55_kirispica_316217367400_1793487536//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-10-31T22:59:05Z",
+   "endedAt": "2026-10-31T23:01:39Z"
+  },
+  {
    "id": "yt:viwSYsCy_7U",
    "platform": "youtube",
    "member": "kirispica",
@@ -169,6 +339,36 @@
    "thumb": "https://i.ytimg.com/vi/viwSYsCy_7U/mqdefault.jpg",
    "startedAt": "2026-10-31T22:58:59Z",
    "endedAt": "2026-11-01T00:00:02Z"
+  },
+  {
+   "id": "tw:320900403806",
+   "platform": "twitch",
+   "member": "ironmouse",
+   "title": "touching grass today happy halloween! | !twitchcon !glamb !youtooz !omocat !fox !cheeky !ht !starforge !tts !merch !razer",
+   "url": "https://www.twitch.tv/videos/2916044712",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d2vi6trrdongqn/74fdd7088ac262a12eb8_ironmouse_320900403806_1793475814//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-10-31T19:43:39Z",
+   "endedAt": "2026-11-01T12:50:44Z"
+  },
+  {
+   "id": "tw:320984234844",
+   "platform": "twitch",
+   "member": "maefae",
+   "title": "Summoning the Dead with SCARY Rock & Metal Music!【KARAOKE】",
+   "url": "https://www.twitch.tv/videos/2915954263",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d2vi6trrdongqn/1fda8f86b445a6d467a0_maefaech_320984234844_1793469793//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-10-31T18:03:23Z",
+   "endedAt": "2026-10-31T20:59:50Z"
+  },
+  {
+   "id": "tw:316215974632",
+   "platform": "twitch",
+   "member": "michi-mochievee",
+   "title": "SHORT STREAM FOR ABIT TO HANG BEFORE BED? :'3 | !original !cover !stoneforged !gg !tts !socials",
+   "url": "https://www.twitch.tv/videos/2915762754",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/081a69b3bd2297fbe867_michimochievee_316215974632_1793455461//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-10-31T14:04:28Z",
+   "endedAt": "2026-10-31T18:46:21Z"
   },
   {
    "id": "cz:15956069",
@@ -191,6 +391,16 @@
    "endedAt": "2026-10-31T07:20:54Z"
   },
   {
+   "id": "tw:321086438880",
+   "platform": "twitch",
+   "member": "maefae",
+   "title": "ONE YEAR OF FIGHTING GAMES CELEBRATION! (Modded Viewer Matches)【TEKKEN 8】",
+   "url": "https://www.twitch.tv/videos/2915401267",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d2vi6trrdongqn/815c5c490cedd594026e_maefaech_321086438880_1793412113//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-10-31T02:02:02Z",
+   "endedAt": "2026-10-31T04:01:10Z"
+  },
+  {
    "id": "yt:lVmkb8S-dTY",
    "platform": "youtube",
    "member": "maefae",
@@ -199,6 +409,16 @@
    "thumb": "https://i.ytimg.com/vi/lVmkb8S-dTY/mqdefault.jpg",
    "startedAt": "2026-10-31T02:01:57Z",
    "endedAt": "2026-10-31T04:01:02Z"
+  },
+  {
+   "id": "tw:319748507863",
+   "platform": "twitch",
+   "member": "tsunamicat",
+   "title": "🌊 SPOOKY TIME FOR A SCAREDY CATGIRL 🌊 LAST 2 DAYS OF TSUBATHON 🌊 !wildcardclub  !newsong !subathon",
+   "url": "https://www.twitch.tv/videos/2915395440",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/07c68708e88ec783eb71_tsunamicat_319748507863_1793411712//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-10-31T01:55:17Z",
+   "endedAt": "2026-10-31T07:20:57Z"
   },
   {
    "id": "yt:9yuaQRGYEjE",
@@ -211,6 +431,16 @@
    "endedAt": "2026-10-30T20:59:53Z"
   },
   {
+   "id": "tw:319146131429",
+   "platform": "twitch",
+   "member": "idna",
+   "title": "[ I joined The Wildcard Club.. ] Who is IDN/A? Introduction stream!",
+   "url": "https://www.twitch.tv/videos/2915044624",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/23ef2c345816a95543be_whoisidna_319146131429_1793386925//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-10-30T19:02:11Z",
+   "endedAt": "2026-10-30T20:59:44Z"
+  },
+  {
    "id": "yt:hO-_d7m7gkA",
    "platform": "youtube",
    "member": "mage-mimi",
@@ -219,6 +449,16 @@
    "thumb": "https://i.ytimg.com/vi/hO-_d7m7gkA/mqdefault.jpg",
    "startedAt": "2026-10-30T16:01:07Z",
    "endedAt": "2026-10-30T17:35:24Z"
+  },
+  {
+   "id": "tw:316211667688",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【I'm in The Wildcard Club!】Hop in if you are curious about me!【RioFukai】 !original !cover !social",
+   "url": "https://www.twitch.tv/videos/2914819189",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/cbed83e7fd2093de6b37_riofukai_316211667688_1793368817/thumb/custom-def4a9f2-fd1d-4346-984a-266a0c261ceb-320x180.jpeg",
+   "startedAt": "2026-10-30T14:00:23Z",
+   "endedAt": "2026-10-30T15:55:53Z"
   },
   {
    "id": "yt:ZqsfcxfxLnQ",
@@ -251,6 +491,16 @@
    "endedAt": "2026-10-30T16:22:11Z"
   },
   {
+   "id": "tw:316645307377",
+   "platform": "twitch",
+   "member": "alpha-betta",
+   "title": "the wildcard club feesh is here - !cover !music !555 !dono !throne !secret",
+   "url": "https://www.twitch.tv/videos/2914752368",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/2177d7e9d5b89d341e5a_alphabettavt_316645307377_1793361706//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-10-30T12:01:56Z",
+   "endedAt": "2026-10-30T16:22:15Z"
+  },
+  {
    "id": "yt:ZFr-1Zi4LMU",
    "platform": "youtube",
    "member": "kirispica",
@@ -261,6 +511,16 @@
    "endedAt": "2026-10-30T05:49:55Z"
   },
   {
+   "id": "tw:316209477096",
+   "platform": "twitch",
+   "member": "kirispica",
+   "title": "I got chosen for the Wildcard Club! Team Dokibird!! Singing & Piano - Request a song! !songlist",
+   "url": "https://www.twitch.tv/videos/2914527463",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/5cbc0ee0f22e6e4a9945_kirispica_316209477096_1793327927//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-10-30T02:38:57Z",
+   "endedAt": "2026-10-30T05:50:36Z"
+  },
+  {
    "id": "yt:tlKXI7Qb0DY",
    "platform": "youtube",
    "member": "tsunamicat",
@@ -269,6 +529,16 @@
    "thumb": "https://i.ytimg.com/vi/tlKXI7Qb0DY/mqdefault.jpg",
    "startedAt": "2026-10-30T01:59:23Z",
    "endedAt": "2026-10-30T03:04:35Z"
+  },
+  {
+   "id": "tw:322062387290",
+   "platform": "twitch",
+   "member": "tsunamicat",
+   "title": "🌊 ANNOUNCEMENT TIME! 🌊 !wildcardclub  !newsong !subathon",
+   "url": "https://www.twitch.tv/videos/2914493093",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/f88581219c82d40d9d2e_tsunamicat_322062387290_1793325003//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-10-30T01:50:08Z",
+   "endedAt": "2026-10-30T03:04:38Z"
   }
  ],
  "ignored": [
