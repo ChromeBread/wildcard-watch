@@ -1,5 +1,26 @@
 {
- "youtube": [],
+ "youtube": [
+  {
+   "id": "yt:C3V0oySJ88A",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "A Fish Sings Your Requests💙【KARAOKE】 #karaoke #歌枠",
+   "url": "https://www.youtube.com/watch?v=C3V0oySJ88A",
+   "thumb": "https://i.ytimg.com/vi/C3V0oySJ88A/mqdefault.jpg",
+   "startedAt": "2026-11-08T12:00:00Z",
+   "state": "upcoming"
+  },
+  {
+   "id": "yt:ZNn774cIka4",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "Have You Heard of This FEESH?【CHATTING】",
+   "url": "https://www.youtube.com/watch?v=ZNn774cIka4",
+   "thumb": "https://i.ytimg.com/vi/ZNn774cIka4/mqdefault.jpg",
+   "startedAt": "2026-11-04T12:00:00Z",
+   "state": "upcoming"
+  }
+ ],
  "twitch": [],
  "chzzk": []
 }

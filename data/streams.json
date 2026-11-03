@@ -1,6 +1,46 @@
 {
  "streams": [
   {
+   "id": "yt:1Ltldnudvho",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【Zatsu】Making my character lore for DistrictV!!!【RioFukai｜深海璃零】",
+   "url": "https://www.youtube.com/watch?v=1Ltldnudvho",
+   "thumb": "https://i.ytimg.com/vi/1Ltldnudvho/mqdefault.jpg",
+   "startedAt": "2026-11-03T11:02:15Z",
+   "endedAt": "2026-11-03T14:41:55Z"
+  },
+  {
+   "id": "yt:mQzbgnMmPpE",
+   "platform": "youtube",
+   "member": "kirispica",
+   "title": "【SONGWRITING Q&A】Ask me anything about our new song, \"Devil-Angel Dare\"!",
+   "url": "https://www.youtube.com/watch?v=mQzbgnMmPpE",
+   "thumb": "https://i.ytimg.com/vi/mQzbgnMmPpE/mqdefault.jpg",
+   "startedAt": "2026-11-03T05:50:36Z",
+   "endedAt": "2026-11-03T08:20:10Z"
+  },
+  {
+   "id": "yt:15HwMGvi-k4",
+   "platform": "youtube",
+   "member": "dokibird",
+   "title": "【DEADLOCK TOURNAMENT】Manhattan Mayhem Day 1【Dokibird】",
+   "url": "https://www.youtube.com/watch?v=15HwMGvi-k4",
+   "thumb": "https://i.ytimg.com/vi/15HwMGvi-k4/mqdefault.jpg",
+   "startedAt": "2026-11-03T00:03:53Z",
+   "endedAt": "2026-11-03T05:20:58Z"
+  },
+  {
+   "id": "yt:whmA-uip5gc",
+   "platform": "youtube",
+   "member": "idna",
+   "title": "[ ART ] Drawing my team! ❤︎⁠",
+   "url": "https://www.youtube.com/watch?v=whmA-uip5gc",
+   "thumb": "https://i.ytimg.com/vi/whmA-uip5gc/mqdefault.jpg",
+   "startedAt": "2026-11-02T21:01:47Z",
+   "endedAt": "2026-11-03T00:01:11Z"
+  },
+  {
    "id": "cz:15985102",
    "platform": "chzzk",
    "member": "terri",
@@ -11,6 +51,16 @@
    "endedAt": "2026-11-02T11:59:48Z"
   },
   {
+   "id": "yt:QOFlcjMJY4Y",
+   "platform": "youtube",
+   "member": "kirispica",
+   "title": "let's have some fun singing!! 【Karaoke】#karaoke #歌枠",
+   "url": "https://www.youtube.com/watch?v=QOFlcjMJY4Y",
+   "thumb": "https://i.ytimg.com/vi/QOFlcjMJY4Y/mqdefault.jpg",
+   "startedAt": "2026-11-02T10:27:39Z",
+   "endedAt": "2026-11-02T12:31:40Z"
+  },
+  {
    "id": "cz:15980152",
    "platform": "chzzk",
    "member": "terri",
@@ -19,6 +69,26 @@
    "thumb": "https://video-phinf.pstatic.net/20261102_18/1793578334124pYiyn_JPEG/N3oxKVTXHl_01.jpg",
    "startedAt": "2026-11-01T22:02:09Z",
    "endedAt": "2026-11-02T00:11:37Z"
+  },
+  {
+   "id": "yt:G4TTrO_qiSs",
+   "platform": "youtube",
+   "member": "phoebe",
+   "title": "【LIVE FROM U.S. IDOLFES】 Phoebe's Cozy Pajama Party Cover Club 🐝🌸 【Phoebe Chan | フィービー・チャン 】",
+   "url": "https://www.youtube.com/watch?v=G4TTrO_qiSs",
+   "thumb": "https://i.ytimg.com/vi/G4TTrO_qiSs/mqdefault.jpg",
+   "startedAt": "2026-11-01T19:56:44Z",
+   "endedAt": "2026-11-01T21:04:11Z"
+  },
+  {
+   "id": "yt:kHWnK6a39Jk",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "I THINK I JUST FOUND MY NEW FAVORITE ALT-IDOL GROUP!【M⭐VT DEBUT WATCH-A-LONG】",
+   "url": "https://www.youtube.com/watch?v=kHWnK6a39Jk",
+   "thumb": "https://i.ytimg.com/vi/kHWnK6a39Jk/mqdefault.jpg",
+   "startedAt": "2026-11-01T18:00:43Z",
+   "endedAt": "2026-11-01T20:33:32Z"
   },
   {
    "id": "cz:15970061",
@@ -41,6 +111,66 @@
    "endedAt": "2026-11-01T07:05:55Z"
   },
   {
+   "id": "yt:vWiD1q3Y5qU",
+   "platform": "youtube",
+   "member": "tsunamicat",
+   "title": "[LIVE] HORROR GAME NIGHT!",
+   "url": "https://www.youtube.com/watch?v=vWiD1q3Y5qU",
+   "thumb": "https://i.ytimg.com/vi/vWiD1q3Y5qU/mqdefault.jpg",
+   "startedAt": "2026-11-01T03:21:12Z",
+   "endedAt": "2026-11-01T06:58:54Z"
+  },
+  {
+   "id": "yt:0N6KImE_uWc",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "I SOLO QUEUED FIRESTARTER - K/DA Cover ✦ League of Legends",
+   "url": "https://www.youtube.com/watch?v=0N6KImE_uWc",
+   "thumb": "https://i.ytimg.com/vi/0N6KImE_uWc/mqdefault.jpg",
+   "startedAt": "2026-11-01T03:00:07Z",
+   "endedAt": "2026-11-01T03:05:11Z"
+  },
+  {
+   "id": "yt:YKzQI-_myZg",
+   "platform": "youtube",
+   "member": "dokibird",
+   "title": "【SPECIAL HALLOWEEN】Spooky special announcement【Dokibird】",
+   "url": "https://www.youtube.com/watch?v=YKzQI-_myZg",
+   "thumb": "https://i.ytimg.com/vi/YKzQI-_myZg/mqdefault.jpg",
+   "startedAt": "2026-11-01T02:36:13Z",
+   "endedAt": "2026-11-01T04:57:59Z"
+  },
+  {
+   "id": "yt:09BGdkT--wk",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "Request Spooky Tunes!【KARAOKE】 #karaoke #歌枠",
+   "url": "https://www.youtube.com/watch?v=09BGdkT--wk",
+   "thumb": "https://i.ytimg.com/vi/09BGdkT--wk/mqdefault.jpg",
+   "startedAt": "2026-11-01T01:01:25Z",
+   "endedAt": "2026-11-01T02:59:21Z"
+  },
+  {
+   "id": "yt:3LFRaexIq6U",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【Karaoke歌枠】Merry Christmas ig【RioFukai｜深海璃零】",
+   "url": "https://www.youtube.com/watch?v=3LFRaexIq6U",
+   "thumb": "https://i.ytimg.com/vi/3LFRaexIq6U/mqdefault.jpg",
+   "startedAt": "2026-11-01T00:18:35Z",
+   "endedAt": "2026-11-01T02:59:58Z"
+  },
+  {
+   "id": "yt:viwSYsCy_7U",
+   "platform": "youtube",
+   "member": "kirispica",
+   "title": "【New OriSong Out Soon!!】Spica x Airi Tier List Battle?!",
+   "url": "https://www.youtube.com/watch?v=viwSYsCy_7U",
+   "thumb": "https://i.ytimg.com/vi/viwSYsCy_7U/mqdefault.jpg",
+   "startedAt": "2026-10-31T22:58:59Z",
+   "endedAt": "2026-11-01T00:00:02Z"
+  },
+  {
    "id": "cz:15956069",
    "platform": "chzzk",
    "member": "terri",
@@ -49,7 +179,125 @@
    "thumb": "https://video-phinf.pstatic.net/20261101_237/1793464154937TYz7c_JPEG/JdS031azrJ_08.jpg",
    "startedAt": "2026-10-31T10:05:56Z",
    "endedAt": "2026-10-31T14:57:17Z"
+  },
+  {
+   "id": "yt:iek2FzgmM44",
+   "platform": "youtube",
+   "member": "tsunamicat",
+   "title": "[LIVE] HORROR GAME NIGHT",
+   "url": "https://www.youtube.com/watch?v=iek2FzgmM44",
+   "thumb": "https://i.ytimg.com/vi/iek2FzgmM44/mqdefault.jpg",
+   "startedAt": "2026-10-31T02:12:04Z",
+   "endedAt": "2026-10-31T07:20:54Z"
+  },
+  {
+   "id": "yt:lVmkb8S-dTY",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "I Didn't Think I'd Actually Get In The Wildcard Club #TeamAmaLee【CHATTING】",
+   "url": "https://www.youtube.com/watch?v=lVmkb8S-dTY",
+   "thumb": "https://i.ytimg.com/vi/lVmkb8S-dTY/mqdefault.jpg",
+   "startedAt": "2026-10-31T02:01:57Z",
+   "endedAt": "2026-10-31T04:01:02Z"
+  },
+  {
+   "id": "yt:9yuaQRGYEjE",
+   "platform": "youtube",
+   "member": "idna",
+   "title": "[ I joined The Wildcard Club.. ] Who is IDN/A? Introduction stream!",
+   "url": "https://www.youtube.com/watch?v=9yuaQRGYEjE",
+   "thumb": "https://i.ytimg.com/vi/9yuaQRGYEjE/mqdefault.jpg",
+   "startedAt": "2026-10-30T19:02:15Z",
+   "endedAt": "2026-10-30T20:59:53Z"
+  },
+  {
+   "id": "yt:hO-_d7m7gkA",
+   "platform": "youtube",
+   "member": "mage-mimi",
+   "title": "【 Chatting 】Exciting News!!💜",
+   "url": "https://www.youtube.com/watch?v=hO-_d7m7gkA",
+   "thumb": "https://i.ytimg.com/vi/hO-_d7m7gkA/mqdefault.jpg",
+   "startedAt": "2026-10-30T16:01:07Z",
+   "endedAt": "2026-10-30T17:35:24Z"
+  },
+  {
+   "id": "yt:ZqsfcxfxLnQ",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【I'm in The Wildcard Club!】Hop in if you are curious about me!【RioFukai｜深海璃零】",
+   "url": "https://www.youtube.com/watch?v=ZqsfcxfxLnQ",
+   "thumb": "https://i.ytimg.com/vi/ZqsfcxfxLnQ/mqdefault.jpg",
+   "startedAt": "2026-10-30T14:00:20Z",
+   "endedAt": "2026-10-30T15:55:50Z"
+  },
+  {
+   "id": "yt:pokI_X2EYvs",
+   "platform": "youtube",
+   "member": "kanra-deity",
+   "title": "【緊急】HYBEが管理しているプロジェクトに加入した！✨Joined The Wildcard Club !【#甘楽デイティー 】",
+   "url": "https://www.youtube.com/watch?v=pokI_X2EYvs",
+   "thumb": "https://i.ytimg.com/vi/pokI_X2EYvs/mqdefault.jpg",
+   "startedAt": "2026-10-30T12:31:29Z",
+   "endedAt": "2026-10-30T14:14:48Z"
+  },
+  {
+   "id": "yt:_W1s0U9Nzb4",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "I Got Some Explaining and Singing to Do【KARAOKE】 #karaoke #歌枠",
+   "url": "https://www.youtube.com/watch?v=_W1s0U9Nzb4",
+   "thumb": "https://i.ytimg.com/vi/_W1s0U9Nzb4/mqdefault.jpg",
+   "startedAt": "2026-10-30T12:02:23Z",
+   "endedAt": "2026-10-30T16:22:11Z"
+  },
+  {
+   "id": "yt:ZFr-1Zi4LMU",
+   "platform": "youtube",
+   "member": "kirispica",
+   "title": "I got chosen for the Wildcard Club! Team Dokibird!【Singing & Piano】 Hi! I'm Spica! Request a song!",
+   "url": "https://www.youtube.com/watch?v=ZFr-1Zi4LMU",
+   "thumb": "https://i.ytimg.com/vi/ZFr-1Zi4LMU/mqdefault.jpg",
+   "startedAt": "2026-10-30T02:38:58Z",
+   "endedAt": "2026-10-30T05:49:55Z"
+  },
+  {
+   "id": "yt:tlKXI7Qb0DY",
+   "platform": "youtube",
+   "member": "tsunamicat",
+   "title": "[LIVE] ANNOUNCEMENT TIME!!",
+   "url": "https://www.youtube.com/watch?v=tlKXI7Qb0DY",
+   "thumb": "https://i.ytimg.com/vi/tlKXI7Qb0DY/mqdefault.jpg",
+   "startedAt": "2026-10-30T01:59:23Z",
+   "endedAt": "2026-10-30T03:04:35Z"
   }
  ],
- "ignored": []
+ "ignored": [
+  "1oMhT7X84zo",
+  "3CtkJClqlnE",
+  "3Ri1m0Kjb_Y",
+  "5kL_QjfmgIk",
+  "BKWq-7iMS2M",
+  "CFPZE-NMQ1Y",
+  "HGMim8Co2o4",
+  "KXMon2WbnuQ",
+  "MFRFInO6eDo",
+  "MxUnZqjb_gQ",
+  "RfAw5X01aws",
+  "Rgyv1V6oP-w",
+  "UiCBfKiz6HY",
+  "WS5z6z_sikM",
+  "bVss1GjR4fQ",
+  "fJIuNCU_zlY",
+  "gCqIwjSRY4Y",
+  "hyiIR9nXSRs",
+  "j9AncyQywZE",
+  "jT34qS3Q1Jk",
+  "k2G909Ylc4M",
+  "ly-vhX6UUvs",
+  "qcnGtDTYlwo",
+  "t5ys6Mogm9g",
+  "uTsfqcExGgk",
+  "w5DzWQk2lnc",
+  "xv8n5O_EgoI"
+ ]
 }
