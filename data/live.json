@@ -19,9 +19,40 @@
    "thumb": "https://i.ytimg.com/vi/ZNn774cIka4/mqdefault.jpg",
    "startedAt": "2026-11-04T12:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:PTIa-W8SF2o",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【The Wildcard Club!】Locker decor and talk abt dreams! ft. IDN/A,Eerie【RioFukai｜深海璃零】",
+   "url": "https://www.youtube.com/watch?v=PTIa-W8SF2o",
+   "thumb": "https://i.ytimg.com/vi/PTIa-W8SF2o/mqdefault.jpg",
+   "startedAt": "2026-11-03T18:15:22Z",
+   "state": "live"
+  },
+  {
+   "id": "yt:lvx_rfv3-pw",
+   "platform": "youtube",
+   "member": "idna",
+   "title": "[ COLLAB ] Chatting about our dreams with Eerie & Rio!!",
+   "url": "https://www.youtube.com/watch?v=lvx_rfv3-pw",
+   "thumb": "https://i.ytimg.com/vi/lvx_rfv3-pw/mqdefault.jpg",
+   "startedAt": "2026-11-03T18:06:31Z",
+   "state": "live"
   }
  ],
  "twitch": [
+  {
+   "id": "tw:319785780183",
+   "platform": "twitch",
+   "member": "hackerling",
+   "title": "hackerling is in the wildcard club! !TWC",
+   "game": "Voices of the Void",
+   "url": "https://www.twitch.tv/hackerling",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hackerling-320x180.jpg",
+   "startedAt": "2026-11-03T18:27:35Z",
+   "state": "live"
+  },
   {
    "id": "tw:318189501410",
    "platform": "twitch",
@@ -31,6 +62,28 @@
    "url": "https://www.twitch.tv/eerie",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eerie-320x180.jpg",
    "startedAt": "2026-11-03T16:01:56Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:316262855401",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【The Wildcard Club】Locker decor + Talk abt our dreams! ft.  @whoisIDNA   @eerie 【RioFukai】 !original !cover !social",
+   "game": "Just Chatting",
+   "url": "https://www.twitch.tv/riofukai",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
+   "startedAt": "2026-11-03T18:15:17Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:319253481702",
+   "platform": "twitch",
+   "member": "idna",
+   "title": "COLLAB WITH EERIE & RIO",
+   "game": "Just Chatting",
+   "url": "https://www.twitch.tv/whoisidna",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whoisidna-320x180.jpg",
+   "startedAt": "2026-11-03T18:06:23Z",
    "state": "live"
   }
  ],
