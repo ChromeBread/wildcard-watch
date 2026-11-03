@@ -1,6 +1,55 @@
 {
  "streams": [
   {
+   "id": "tw:319787832791",
+   "platform": "twitch",
+   "member": "amalee",
+   "title": "🦋⚠️ NEW MODEL DEBUT⚠️ Loading... \"Malware Monarch\" your *completely safe* AI assistant | brand new !merch",
+   "game": "Special Events",
+   "url": "https://www.twitch.tv/amalee",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
+   "startedAt": "2026-11-03T23:13:45Z"
+  },
+  {
+   "id": "yt:t6bBjhEnTgM",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【#DistricyV2 - Day1】Nya Ting is gonna work.【RioFukai｜深海璃零】",
+   "url": "https://www.youtube.com/watch?v=t6bBjhEnTgM",
+   "thumb": "https://i.ytimg.com/vi/t6bBjhEnTgM/mqdefault.jpg",
+   "startedAt": "2026-11-03T23:00:50Z"
+  },
+  {
+   "id": "tw:316263386089",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【#DistricyV2 - Day1】Nya Ting is gonna work.【RioFukai】 !original !cover !social",
+   "game": "Grand Theft Auto V",
+   "url": "https://www.twitch.tv/riofukai",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
+   "startedAt": "2026-11-03T23:00:45Z"
+  },
+  {
+   "id": "tw:319787720919",
+   "platform": "twitch",
+   "member": "amalee",
+   "title": "🦋⚠️ NEW MODEL DEBUT⚠️ Loading... \"Malware Monarch\" your *completely safe* AI assistant | brand new !merch",
+   "url": "https://www.twitch.tv/videos/2918835771",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/d4bf831c54320401e823_amalee_319787720919_1793746815//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-03T23:00:20Z",
+   "endedAt": "2026-11-03T23:06:01Z"
+  },
+  {
+   "id": "tw:316263096169",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【The Wildcard Club】Locker decor + Talk abt our dreams! ft.  @whoisIDNA   @eerie 【RioFukai】 !original !cover !social",
+   "url": "https://www.twitch.tv/videos/2918716598",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/396241aed8b689ef2c66_riofukai_316263096169_1793737356//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-03T20:22:43Z",
+   "endedAt": "2026-11-03T20:22:57Z"
+  },
+  {
    "id": "tw:319785780183",
    "platform": "twitch",
    "member": "hackerling",
@@ -11,23 +60,24 @@
    "startedAt": "2026-11-03T18:27:35Z"
   },
   {
+   "id": "tw:316262855401",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【The Wildcard Club】Locker decor + Talk abt our dreams! ft.  @whoisIDNA   @eerie 【RioFukai】 !original !cover !social",
+   "url": "https://www.twitch.tv/videos/2918609088",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/4a5e8436d0fdb597e8d6_riofukai_316262855401_1793729717//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-03T18:15:24Z",
+   "endedAt": "2026-11-03T20:22:35Z"
+  },
+  {
    "id": "yt:PTIa-W8SF2o",
    "platform": "youtube",
    "member": "rio-fukai",
    "title": "【The Wildcard Club!】Locker decor and talk abt dreams! ft. IDN/A,Eerie【RioFukai｜深海璃零】",
    "url": "https://www.youtube.com/watch?v=PTIa-W8SF2o",
    "thumb": "https://i.ytimg.com/vi/PTIa-W8SF2o/mqdefault.jpg",
-   "startedAt": "2026-11-03T18:15:22Z"
-  },
-  {
-   "id": "tw:316262855401",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "【The Wildcard Club】Locker decor + Talk abt our dreams! ft.  @whoisIDNA   @eerie 【RioFukai】 !original !cover !social",
-   "game": "Just Chatting",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-03T18:15:17Z"
+   "startedAt": "2026-11-03T18:15:22Z",
+   "endedAt": "2026-11-03T20:23:00Z"
   },
   {
    "id": "yt:lvx_rfv3-pw",
@@ -36,27 +86,28 @@
    "title": "[ COLLAB ] Chatting about our dreams with Eerie & Rio!!",
    "url": "https://www.youtube.com/watch?v=lvx_rfv3-pw",
    "thumb": "https://i.ytimg.com/vi/lvx_rfv3-pw/mqdefault.jpg",
-   "startedAt": "2026-11-03T18:06:31Z"
+   "startedAt": "2026-11-03T18:06:31Z",
+   "endedAt": "2026-11-03T20:23:03Z"
   },
   {
    "id": "tw:319253481702",
    "platform": "twitch",
    "member": "idna",
-   "title": "COLLAB WITH EERIE & RIO",
-   "game": "Just Chatting",
-   "url": "https://www.twitch.tv/whoisidna",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whoisidna-320x180.jpg",
-   "startedAt": "2026-11-03T18:06:23Z"
+   "title": "[ COLLAB ] Chatting about music & dreams with eerie & Rio!!",
+   "url": "https://www.twitch.tv/videos/2918601661",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/72fe43efa8697cffb478_whoisidna_319253481702_1793729183//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-03T18:06:28Z",
+   "endedAt": "2026-11-03T20:22:52Z"
   },
   {
    "id": "tw:318189501410",
    "platform": "twitch",
    "member": "eerie",
    "title": "WILDCARD EERIE hops onto the scene! welcome party! 🎈",
-   "game": "Just Chatting",
-   "url": "https://www.twitch.tv/eerie",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eerie-320x180.jpg",
-   "startedAt": "2026-11-03T16:01:56Z"
+   "url": "https://www.twitch.tv/videos/2918506138",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/7daa72d54652968436e0_eerie_318189501410_1793721716//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-03T16:02:02Z",
+   "endedAt": "2026-11-03T20:48:19Z"
   },
   {
    "id": "tw:316290385258",
@@ -618,6 +669,7 @@
   "fJIuNCU_zlY",
   "gCqIwjSRY4Y",
   "hyiIR9nXSRs",
+  "ihn-E59dJSs",
   "j9AncyQywZE",
   "jT34qS3Q1Jk",
   "k2G909Ylc4M",
