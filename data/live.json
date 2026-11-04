@@ -59,6 +59,26 @@
    "thumb": "https://i.ytimg.com/vi/74sQ8VYWl6M/mqdefault.jpg",
    "startedAt": "2026-11-05T01:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:LrTJyjfsADY",
+   "platform": "youtube",
+   "member": "phoebe",
+   "title": "【The Legend of Zelda: Ocarina of Time REMAKE】 RELEASE DAY! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
+   "url": "https://www.youtube.com/watch?v=LrTJyjfsADY",
+   "thumb": "https://i.ytimg.com/vi/LrTJyjfsADY/mqdefault.jpg",
+   "startedAt": "2026-11-05T22:00:00Z",
+   "state": "upcoming"
+  },
+  {
+   "id": "yt:CMVIHqp1DwY",
+   "platform": "youtube",
+   "member": "phoebe",
+   "title": "【CHATTING】 Post- U.S. IdolFes Yapping and Recap! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
+   "url": "https://www.youtube.com/watch?v=CMVIHqp1DwY",
+   "thumb": "https://i.ytimg.com/vi/CMVIHqp1DwY/mqdefault.jpg",
+   "startedAt": "2026-11-04T23:00:00Z",
+   "state": "upcoming"
   }
  ],
  "twitch": [],
