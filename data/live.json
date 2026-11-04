@@ -21,6 +21,46 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:M8wHNd_WSUQ",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "You All Have One Job... BREAK ME! (Viewer Matches)【TEKKEN 8】",
+   "url": "https://www.youtube.com/watch?v=M8wHNd_WSUQ",
+   "thumb": "https://i.ytimg.com/vi/M8wHNd_WSUQ/mqdefault.jpg",
+   "startedAt": "2026-11-07T19:00:00Z",
+   "state": "upcoming"
+  },
+  {
+   "id": "yt:G_wRnunb3Xg",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "This Fighting Game Has NO BUSINESS Having a Good Story Mode!【MORTAL KOMBAT 1】",
+   "url": "https://www.youtube.com/watch?v=G_wRnunb3Xg",
+   "thumb": "https://i.ytimg.com/vi/G_wRnunb3Xg/mqdefault.jpg",
+   "startedAt": "2026-11-07T01:00:00Z",
+   "state": "upcoming"
+  },
+  {
+   "id": "yt:GlE8vTr6VoU",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "Fight Night with Maeflowers! MULTIPLE SETS!【TEKKEN 8 | MEMBERS ONLY】",
+   "url": "https://www.youtube.com/watch?v=GlE8vTr6VoU",
+   "thumb": "https://i.ytimg.com/vi/GlE8vTr6VoU/mqdefault.jpg",
+   "startedAt": "2026-11-06T01:00:00Z",
+   "state": "upcoming"
+  },
+  {
+   "id": "yt:74sQ8VYWl6M",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "My Coach Teaches Me How to Get Inside Your Head! Ft @HeavenlyUchiha 【TEKKEN 8】",
+   "url": "https://www.youtube.com/watch?v=74sQ8VYWl6M",
+   "thumb": "https://i.ytimg.com/vi/74sQ8VYWl6M/mqdefault.jpg",
+   "startedAt": "2026-11-05T01:00:00Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:t6bBjhEnTgM",
    "platform": "youtube",
    "member": "rio-fukai",
@@ -37,21 +77,10 @@
    "platform": "twitch",
    "member": "amalee",
    "title": "🦋⚠️ NEW MODEL DEBUT⚠️ Loading... \"Malware Monarch\" your *completely safe* AI assistant | brand new !merch",
-   "game": "Special Events",
+   "game": "Just Chatting",
    "url": "https://www.twitch.tv/amalee",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
    "startedAt": "2026-11-03T23:13:45Z",
-   "state": "live"
-  },
-  {
-   "id": "tw:319785780183",
-   "platform": "twitch",
-   "member": "hackerling",
-   "title": "hackerling is in the wildcard club! !TWC",
-   "game": "Voices of the Void",
-   "url": "https://www.twitch.tv/hackerling",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hackerling-320x180.jpg",
-   "startedAt": "2026-11-03T18:27:35Z",
    "state": "live"
   },
   {
