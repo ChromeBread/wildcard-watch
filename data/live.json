@@ -21,6 +21,16 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:4FyuHQ5U2oM",
+   "platform": "youtube",
+   "member": "kanra-deity",
+   "title": "【#ゼルダの伝説時のオカリナ 】人生初のゲーム！✨大人になった私がもう一度やるぞ！【#甘楽デイティー 】",
+   "url": "https://www.youtube.com/watch?v=4FyuHQ5U2oM",
+   "thumb": "https://i.ytimg.com/vi/4FyuHQ5U2oM/mqdefault.jpg",
+   "startedAt": "2026-11-05T09:30:00Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:M8wHNd_WSUQ",
    "platform": "youtube",
    "member": "maefae",
@@ -59,41 +69,8 @@
    "thumb": "https://i.ytimg.com/vi/74sQ8VYWl6M/mqdefault.jpg",
    "startedAt": "2026-11-05T01:00:00Z",
    "state": "upcoming"
-  },
-  {
-   "id": "yt:t6bBjhEnTgM",
-   "platform": "youtube",
-   "member": "rio-fukai",
-   "title": "【#DistricyV2 - Day1】Nya Ting is gonna work.【RioFukai｜深海璃零】",
-   "url": "https://www.youtube.com/watch?v=t6bBjhEnTgM",
-   "thumb": "https://i.ytimg.com/vi/t6bBjhEnTgM/mqdefault.jpg",
-   "startedAt": "2026-11-03T23:00:50Z",
-   "state": "live"
   }
  ],
- "twitch": [
-  {
-   "id": "tw:319787832791",
-   "platform": "twitch",
-   "member": "amalee",
-   "title": "🦋⚠️ NEW MODEL DEBUT⚠️ Loading... \"Malware Monarch\" your *completely safe* AI assistant | brand new !merch",
-   "game": "Just Chatting",
-   "url": "https://www.twitch.tv/amalee",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
-   "startedAt": "2026-11-03T23:13:45Z",
-   "state": "live"
-  },
-  {
-   "id": "tw:316263386089",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "【#DistricyV2 - Day1】Nya Ting is gonna work.【RioFukai】 !original !cover !social",
-   "game": "Grand Theft Auto V",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-03T23:00:45Z",
-   "state": "live"
-  }
- ],
+ "twitch": [],
  "chzzk": []
 }

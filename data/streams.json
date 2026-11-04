@@ -1,14 +1,64 @@
 {
  "streams": [
   {
+   "id": "tw:316231673448",
+   "platform": "twitch",
+   "member": "kirispica",
+   "title": "Playing ukulele and singing... in 3D!",
+   "url": "https://www.twitch.tv/videos/2919168282",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d2f86ed6e9b0164ca387_kirispica_316231673448_1793779970//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-04T08:13:00Z",
+   "endedAt": "2026-11-04T10:49:03Z"
+  },
+  {
+   "id": "yt:CdNO_j_oa6U",
+   "platform": "youtube",
+   "member": "kirispica",
+   "title": "【Ukulele & Singing】it's been a while since the last ukulele stream!! #karaoke #歌枠",
+   "url": "https://www.youtube.com/watch?v=CdNO_j_oa6U",
+   "thumb": "https://i.ytimg.com/vi/CdNO_j_oa6U/mqdefault.jpg",
+   "startedAt": "2026-11-04T08:12:58Z",
+   "endedAt": "2026-11-04T10:48:52Z"
+  },
+  {
+   "id": "tw:316293291754",
+   "platform": "twitch",
+   "member": "hypa-vox",
+   "title": "⚡️⚠️The wildcard club!? MOVED HOUSE!? let's talk | !fortnite !merch !avatar sparkz !kofi !socials | !throne |",
+   "url": "https://www.twitch.tv/videos/2919120691",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/c2d7d015d878281324fe_hypavox_316293291754_1793771740//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-04T05:55:47Z",
+   "endedAt": "2026-11-04T07:48:57Z"
+  },
+  {
+   "id": "tw:316264138217",
+   "platform": "twitch",
+   "member": "hypa-vox",
+   "title": "⚡️⚠️The wildcard club!? MOVED HOUSE!? let's talk | !fortnite !merch !avatar sparkz !kofi !socials | !throne |",
+   "url": "https://www.twitch.tv/videos/2919092417",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/630219d3d6b940572547_hypavox_316264138217_1793767788//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-04T04:49:55Z",
+   "endedAt": "2026-11-04T05:35:55Z"
+  },
+  {
    "id": "tw:319787832791",
    "platform": "twitch",
    "member": "amalee",
    "title": "🦋⚠️ NEW MODEL DEBUT⚠️ Loading... \"Malware Monarch\" your *completely safe* AI assistant | brand new !merch",
-   "game": "Just Chatting",
-   "url": "https://www.twitch.tv/amalee",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
-   "startedAt": "2026-11-03T23:13:45Z"
+   "url": "https://www.twitch.tv/videos/2918846925",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/7c11c123027f08b812b6_amalee_319787832791_1793747625//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-03T23:13:50Z",
+   "endedAt": "2026-11-04T03:26:12Z"
+  },
+  {
+   "id": "tw:316263386089",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【#DistricyV2 - Day1】Nya Ting is gonna work.【RioFukai】 !original !cover !social",
+   "url": "https://www.twitch.tv/videos/2918836395",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/73dc2d44610de6cd1a90_riofukai_316263386089_1793746845//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-03T23:00:53Z",
+   "endedAt": "2026-11-04T04:42:36Z"
   },
   {
    "id": "yt:t6bBjhEnTgM",
@@ -17,17 +67,8 @@
    "title": "【#DistricyV2 - Day1】Nya Ting is gonna work.【RioFukai｜深海璃零】",
    "url": "https://www.youtube.com/watch?v=t6bBjhEnTgM",
    "thumb": "https://i.ytimg.com/vi/t6bBjhEnTgM/mqdefault.jpg",
-   "startedAt": "2026-11-03T23:00:50Z"
-  },
-  {
-   "id": "tw:316263386089",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "【#DistricyV2 - Day1】Nya Ting is gonna work.【RioFukai】 !original !cover !social",
-   "game": "Grand Theft Auto V",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-03T23:00:45Z"
+   "startedAt": "2026-11-03T23:00:50Z",
+   "endedAt": "2026-11-04T04:42:43Z"
   },
   {
    "id": "tw:319787720919",
@@ -655,6 +696,7 @@
   "3CtkJClqlnE",
   "3Ri1m0Kjb_Y",
   "5kL_QjfmgIk",
+  "5q-jp_0mAj4",
   "6CtYZTReViQ",
   "BKWq-7iMS2M",
   "CFPZE-NMQ1Y",
