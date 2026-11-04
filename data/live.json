@@ -91,6 +91,18 @@
    "state": "upcoming"
   }
  ],
- "twitch": [],
+ "twitch": [
+  {
+   "id": "tw:318240132836",
+   "platform": "twitch",
+   "member": "rin-penrose",
+   "title": "First time playing. Excited to dig my own grave ✧ !discord !longs !merch",
+   "game": "Slay the Spire II",
+   "url": "https://www.twitch.tv/rinpenrose",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rinpenrose-320x180.jpg",
+   "startedAt": "2026-11-04T21:01:02Z",
+   "state": "live"
+  }
+ ],
  "chzzk": []
 }
