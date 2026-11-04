@@ -1,16 +1,6 @@
 {
  "youtube": [
   {
-   "id": "yt:ZNn774cIka4",
-   "platform": "youtube",
-   "member": "alpha-betta",
-   "title": "Have You Heard of This FEESH?【CHATTING】",
-   "url": "https://www.youtube.com/watch?v=ZNn774cIka4",
-   "thumb": "https://i.ytimg.com/vi/ZNn774cIka4/mqdefault.jpg",
-   "startedAt": "2026-11-04T12:37:19Z",
-   "state": "live"
-  },
-  {
    "id": "yt:C3V0oySJ88A",
    "platform": "youtube",
    "member": "alpha-betta",
@@ -69,6 +59,16 @@
    "thumb": "https://i.ytimg.com/vi/74sQ8VYWl6M/mqdefault.jpg",
    "startedAt": "2026-11-05T01:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:ZNn774cIka4",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "Have You Heard of This FEESH?【CHATTING】",
+   "url": "https://www.youtube.com/watch?v=ZNn774cIka4",
+   "thumb": "https://i.ytimg.com/vi/ZNn774cIka4/mqdefault.jpg",
+   "startedAt": "2026-11-04T12:37:19Z",
+   "state": "live"
   }
  ],
  "twitch": [
@@ -81,6 +81,17 @@
    "url": "https://www.twitch.tv/alphabettavt",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alphabettavt-320x180.jpg",
    "startedAt": "2026-11-04T12:37:09Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:316266021353",
+   "platform": "twitch",
+   "member": "rachie",
+   "title": "what does an awooger look like omg | !pc !album !social !orisong",
+   "game": "Just Chatting",
+   "url": "https://www.twitch.tv/rachie",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rachie-320x180.jpg",
+   "startedAt": "2026-11-04T14:37:56Z",
    "state": "live"
   }
  ],
