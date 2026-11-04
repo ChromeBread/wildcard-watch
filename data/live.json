@@ -61,6 +61,16 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:CMVIHqp1DwY",
+   "platform": "youtube",
+   "member": "phoebe",
+   "title": "【CHATTING】 Post- U.S. IdolFes Yapping and Recap! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
+   "url": "https://www.youtube.com/watch?v=CMVIHqp1DwY",
+   "thumb": "https://i.ytimg.com/vi/CMVIHqp1DwY/mqdefault.jpg",
+   "startedAt": "2026-11-04T23:10:40Z",
+   "state": "live"
+  },
+  {
    "id": "yt:cxCJcWXZafY",
    "platform": "youtube",
    "member": "phoebe",
@@ -79,18 +89,20 @@
    "thumb": "https://i.ytimg.com/vi/LrTJyjfsADY/mqdefault.jpg",
    "startedAt": "2026-11-05T22:00:00Z",
    "state": "upcoming"
-  },
-  {
-   "id": "yt:CMVIHqp1DwY",
-   "platform": "youtube",
-   "member": "phoebe",
-   "title": "【CHATTING】 Post- U.S. IdolFes Yapping and Recap! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
-   "url": "https://www.youtube.com/watch?v=CMVIHqp1DwY",
-   "thumb": "https://i.ytimg.com/vi/CMVIHqp1DwY/mqdefault.jpg",
-   "startedAt": "2026-11-04T23:10:37Z",
-   "state": "upcoming"
   }
  ],
- "twitch": [],
+ "twitch": [
+  {
+   "id": "tw:319797454295",
+   "platform": "twitch",
+   "member": "phoebe",
+   "title": "【CHATTING】 Post- U.S. IdolFes Yapping and Recap! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
+   "game": "Just Chatting",
+   "url": "https://www.twitch.tv/feebee",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feebee-320x180.jpg",
+   "startedAt": "2026-11-04T23:10:32Z",
+   "state": "live"
+  }
+ ],
  "chzzk": []
 }
