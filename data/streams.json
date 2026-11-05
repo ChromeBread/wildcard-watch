@@ -1,6 +1,16 @@
 {
  "streams": [
   {
+   "id": "tw:319804907863",
+   "platform": "twitch",
+   "member": "amalee",
+   "title": "🦋⚠️ NEW MODEL⚠️ Drawing Pokemon from MEMORY with @yoclesh | brand new !merch",
+   "game": "Just Chatting",
+   "url": "https://www.twitch.tv/amalee",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
+   "startedAt": "2026-11-05T17:14:08Z"
+  },
+  {
    "id": "yt:lM0Qi9RD8WY",
    "platform": "youtube",
    "member": "kanra-deity",
@@ -17,17 +27,18 @@
    "title": "HEEEEEEEY!! LISTEN!!! ✧ LoZ: Ocarina of Time #1 (ft. @MachinaXFlayon )",
    "url": "https://www.youtube.com/watch?v=fbcO-rVwXpI",
    "thumb": "https://i.ytimg.com/vi/fbcO-rVwXpI/mqdefault.jpg",
-   "startedAt": "2026-11-05T12:33:37Z"
+   "startedAt": "2026-11-05T12:33:37Z",
+   "endedAt": "2026-11-05T17:19:16Z"
   },
   {
    "id": "tw:316269419625",
    "platform": "twitch",
    "member": "rachie",
    "title": "HEY!!! LISTEN!!!!!! | !pc !album !social !orisong",
-   "game": "The Legend of Zelda: Ocarina of Time",
-   "url": "https://www.twitch.tv/rachie",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rachie-320x180.jpg",
-   "startedAt": "2026-11-05T12:33:28Z"
+   "url": "https://www.twitch.tv/videos/2920175364",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/1ed13724e6a3f22b12a6_rachie_316269419625_1793882008//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-05T12:33:34Z",
+   "endedAt": "2026-11-05T17:19:14Z"
   },
   {
    "id": "cz:16039775",
