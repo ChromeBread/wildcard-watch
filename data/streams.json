@@ -1,6 +1,25 @@
 {
  "streams": [
   {
+   "id": "yt:LrTJyjfsADY",
+   "platform": "youtube",
+   "member": "phoebe",
+   "title": "【The Legend of Zelda: Ocarina of Time REMAKE】 RELEASE DAY! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
+   "url": "https://www.youtube.com/watch?v=LrTJyjfsADY",
+   "thumb": "https://i.ytimg.com/vi/LrTJyjfsADY/mqdefault.jpg",
+   "startedAt": "2026-11-05T22:00:30Z"
+  },
+  {
+   "id": "tw:319807191127",
+   "platform": "twitch",
+   "member": "phoebe",
+   "title": "【The Legend of Zelda: Ocarina of Time REMAKE】 RELEASE DAY! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
+   "game": "The Legend of Zelda: Ocarina of Time",
+   "url": "https://www.twitch.tv/feebee",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feebee-320x180.jpg",
+   "startedAt": "2026-11-05T22:00:23Z"
+  },
+  {
    "id": "tw:319804907863",
    "platform": "twitch",
    "member": "amalee",
