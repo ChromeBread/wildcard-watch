@@ -79,16 +79,6 @@
    "thumb": "https://i.ytimg.com/vi/74sQ8VYWl6M/mqdefault.jpg",
    "startedAt": "2026-11-05T01:01:19Z",
    "state": "live"
-  },
-  {
-   "id": "yt:CMVIHqp1DwY",
-   "platform": "youtube",
-   "member": "phoebe",
-   "title": "【CHATTING】 Post- U.S. IdolFes Yapping and Recap! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
-   "url": "https://www.youtube.com/watch?v=CMVIHqp1DwY",
-   "thumb": "https://i.ytimg.com/vi/CMVIHqp1DwY/mqdefault.jpg",
-   "startedAt": "2026-11-04T23:10:40Z",
-   "state": "live"
   }
  ],
  "twitch": [
@@ -101,17 +91,6 @@
    "url": "https://www.twitch.tv/amalee",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
    "startedAt": "2026-11-05T00:43:58Z",
-   "state": "live"
-  },
-  {
-   "id": "tw:319797454295",
-   "platform": "twitch",
-   "member": "phoebe",
-   "title": "【CHATTING】 Post- U.S. IdolFes Yapping and Recap! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
-   "game": "Just Chatting",
-   "url": "https://www.twitch.tv/feebee",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feebee-320x180.jpg",
-   "startedAt": "2026-11-04T23:10:32Z",
    "state": "live"
   },
   {
