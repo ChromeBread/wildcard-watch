@@ -51,6 +51,16 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:T-42PliCAAI",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【#DistricyV2 - Day2】Nya Ting is doing well.【RioFukai｜深海璃零】",
+   "url": "https://www.youtube.com/watch?v=T-42PliCAAI",
+   "thumb": "https://i.ytimg.com/vi/T-42PliCAAI/mqdefault.jpg",
+   "startedAt": "2026-11-05T04:00:00Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:cxCJcWXZafY",
    "platform": "youtube",
    "member": "phoebe",
@@ -91,6 +101,17 @@
    "url": "https://www.twitch.tv/amalee",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
    "startedAt": "2026-11-05T00:43:58Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:319800810839",
+   "platform": "twitch",
+   "member": "dokibird",
+   "title": "Last day of rank!! Born to rem, forced to collect pension. Coaching/tips appreciated!! | !song !merch !newvid",
+   "game": "Deadlock",
+   "url": "https://www.twitch.tv/dokibird",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dokibird-320x180.jpg",
+   "startedAt": "2026-11-05T03:55:11Z",
    "state": "live"
   },
   {
