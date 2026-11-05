@@ -81,16 +81,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:T-42PliCAAI",
-   "platform": "youtube",
-   "member": "rio-fukai",
-   "title": "【#DistricyV2 - Day2】Nya Ting is doing well.【RioFukai｜深海璃零】",
-   "url": "https://www.youtube.com/watch?v=T-42PliCAAI",
-   "thumb": "https://i.ytimg.com/vi/T-42PliCAAI/mqdefault.jpg",
-   "startedAt": "2026-11-05T04:01:11Z",
-   "state": "live"
-  },
-  {
    "id": "yt:74sQ8VYWl6M",
    "platform": "youtube",
    "member": "maefae",
@@ -111,17 +101,6 @@
    "url": "https://www.twitch.tv/dokibird",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dokibird-320x180.jpg",
    "startedAt": "2026-11-05T03:55:11Z",
-   "state": "live"
-  },
-  {
-   "id": "tw:316234611816",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "【#DistricyV2 - Day2】Nya Ting is going well【RioFukai】 !original !cover !social",
-   "game": "Grand Theft Auto V",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-05T04:01:06Z",
    "state": "live"
   },
   {
