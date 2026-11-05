@@ -51,16 +51,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:T-42PliCAAI",
-   "platform": "youtube",
-   "member": "rio-fukai",
-   "title": "【#DistricyV2 - Day2】Nya Ting is doing well.【RioFukai｜深海璃零】",
-   "url": "https://www.youtube.com/watch?v=T-42PliCAAI",
-   "thumb": "https://i.ytimg.com/vi/T-42PliCAAI/mqdefault.jpg",
-   "startedAt": "2026-11-05T04:01:11Z",
-   "state": "live"
-  },
-  {
    "id": "yt:cxCJcWXZafY",
    "platform": "youtube",
    "member": "phoebe",
@@ -79,6 +69,16 @@
    "thumb": "https://i.ytimg.com/vi/LrTJyjfsADY/mqdefault.jpg",
    "startedAt": "2026-11-05T22:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:T-42PliCAAI",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【#DistricyV2 - Day2】Nya Ting is doing well.【RioFukai｜深海璃零】",
+   "url": "https://www.youtube.com/watch?v=T-42PliCAAI",
+   "thumb": "https://i.ytimg.com/vi/T-42PliCAAI/mqdefault.jpg",
+   "startedAt": "2026-11-05T04:01:11Z",
+   "state": "live"
   },
   {
    "id": "yt:74sQ8VYWl6M",
