@@ -93,17 +93,6 @@
  ],
  "twitch": [
   {
-   "id": "tw:319798391511",
-   "platform": "twitch",
-   "member": "amalee",
-   "title": "🦋⚠️ NEW MODEL⚠️ Will Malware Monarch infect your PC today..... | brand new !merch",
-   "game": "Shipping Store Simulator 2037",
-   "url": "https://www.twitch.tv/amalee",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
-   "startedAt": "2026-11-05T00:43:58Z",
-   "state": "live"
-  },
-  {
    "id": "tw:319800810839",
    "platform": "twitch",
    "member": "dokibird",
@@ -115,14 +104,14 @@
    "state": "live"
   },
   {
-   "id": "tw:320954734046",
+   "id": "tw:319798391511",
    "platform": "twitch",
-   "member": "maefae",
-   "title": "My Coach Teaches Me How to Get Inside Your Head! Ft  @HeavenlyUchiha  【TEKKEN 8】",
-   "game": "TEKKEN 8",
-   "url": "https://www.twitch.tv/maefaech",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
-   "startedAt": "2026-11-05T01:01:19Z",
+   "member": "amalee",
+   "title": "🦋⚠️ NEW MODEL⚠️ Will Malware Monarch infect your PC today..... | brand new !merch",
+   "game": "Shipping Store Simulator 2037",
+   "url": "https://www.twitch.tv/amalee",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
+   "startedAt": "2026-11-05T00:43:58Z",
    "state": "live"
   },
   {
@@ -134,6 +123,17 @@
    "url": "https://www.twitch.tv/riofukai",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
    "startedAt": "2026-11-05T04:01:06Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:320954734046",
+   "platform": "twitch",
+   "member": "maefae",
+   "title": "My Coach Teaches Me How to Get Inside Your Head! Ft  @HeavenlyUchiha  【TEKKEN 8】",
+   "game": "TEKKEN 8",
+   "url": "https://www.twitch.tv/maefaech",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
+   "startedAt": "2026-11-05T01:01:19Z",
    "state": "live"
   }
  ],
