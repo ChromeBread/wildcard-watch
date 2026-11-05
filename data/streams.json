@@ -1,6 +1,15 @@
 {
  "streams": [
   {
+   "id": "yt:4FyuHQ5U2oM",
+   "platform": "youtube",
+   "member": "kanra-deity",
+   "title": "【#ゼルダの伝説時のオカリナ 】人生初のゲーム！✨大人になった私がもう一度やるぞ！【#甘楽デイティー 】",
+   "url": "https://www.youtube.com/watch?v=4FyuHQ5U2oM",
+   "thumb": "https://i.ytimg.com/vi/4FyuHQ5U2oM/mqdefault.jpg",
+   "startedAt": "2026-11-05T09:31:22Z"
+  },
+  {
    "id": "tw:316234611816",
    "platform": "twitch",
    "member": "rio-fukai",
