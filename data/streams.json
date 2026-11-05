@@ -1,6 +1,25 @@
 {
  "streams": [
   {
+   "id": "yt:74sQ8VYWl6M",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "My Coach Teaches Me How to Get Inside Your Head! Ft @HeavenlyUchiha 【TEKKEN 8】",
+   "url": "https://www.youtube.com/watch?v=74sQ8VYWl6M",
+   "thumb": "https://i.ytimg.com/vi/74sQ8VYWl6M/mqdefault.jpg",
+   "startedAt": "2026-11-05T01:01:19Z"
+  },
+  {
+   "id": "tw:320954734046",
+   "platform": "twitch",
+   "member": "maefae",
+   "title": "My Coach Teaches Me How to Get Inside Your Head! Ft  @HeavenlyUchiha  【TEKKEN 8】",
+   "game": "TEKKEN 8",
+   "url": "https://www.twitch.tv/maefaech",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
+   "startedAt": "2026-11-05T01:01:19Z"
+  },
+  {
    "id": "tw:319798391511",
    "platform": "twitch",
    "member": "amalee",
