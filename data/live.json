@@ -11,6 +11,16 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:6qZ6wCuTGd0",
+   "platform": "youtube",
+   "member": "kanra-deity",
+   "title": "【#ゼルダの伝説時のオカリナ 】ドドンゴ来たよー！🔥今日も泣きながらやるぜ！✨#2.5【#甘楽デイティー 】",
+   "url": "https://www.youtube.com/watch?v=6qZ6wCuTGd0",
+   "thumb": "https://i.ytimg.com/vi/6qZ6wCuTGd0/mqdefault.jpg",
+   "startedAt": "2026-11-06T12:40:15Z",
+   "state": "live"
+  },
+  {
    "id": "yt:M8wHNd_WSUQ",
    "platform": "youtube",
    "member": "maefae",
@@ -69,18 +79,19 @@
    "thumb": "https://i.ytimg.com/vi/cxCJcWXZafY/mqdefault.jpg",
    "startedAt": "2026-11-06T22:00:00Z",
    "state": "upcoming"
-  },
-  {
-   "id": "yt:YeSG-9hW8QM",
-   "platform": "youtube",
-   "member": "kanra-deity",
-   "title": "【#ゼルダの伝説時のオカリナ 】ドドンゴ来たよー！🔥今日も泣きながらやるぜ！✨#2【#甘楽デイティー 】",
-   "url": "https://www.youtube.com/watch?v=YeSG-9hW8QM",
-   "thumb": "https://i.ytimg.com/vi/YeSG-9hW8QM/mqdefault.jpg",
-   "startedAt": "2026-11-06T10:37:18Z",
-   "state": "live"
   }
  ],
  "twitch": [],
- "chzzk": []
+ "chzzk": [
+  {
+   "id": "cz:live22066741",
+   "platform": "chzzk",
+   "member": "terri",
+   "title": "기특한 테리에게 사랑한다고 말해주기🥰 CALL OF DUTY: MODERN WARFARE 4",
+   "url": "https://chzzk.naver.com/live/0a2020b09b8cc7f2285b7ae5de2ce4d3",
+   "thumb": null,
+   "startedAt": "2026-11-06T12:31:08Z",
+   "state": "live"
+  }
+ ]
 }

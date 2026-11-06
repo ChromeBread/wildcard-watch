@@ -1,13 +1,23 @@
 {
  "streams": [
   {
+   "id": "yt:6qZ6wCuTGd0",
+   "platform": "youtube",
+   "member": "kanra-deity",
+   "title": "【#ゼルダの伝説時のオカリナ 】ドドンゴ来たよー！🔥今日も泣きながらやるぜ！✨#2.5【#甘楽デイティー 】",
+   "url": "https://www.youtube.com/watch?v=6qZ6wCuTGd0",
+   "thumb": "https://i.ytimg.com/vi/6qZ6wCuTGd0/mqdefault.jpg",
+   "startedAt": "2026-11-06T12:40:15Z"
+  },
+  {
    "id": "yt:YeSG-9hW8QM",
    "platform": "youtube",
    "member": "kanra-deity",
    "title": "【#ゼルダの伝説時のオカリナ 】ドドンゴ来たよー！🔥今日も泣きながらやるぜ！✨#2【#甘楽デイティー 】",
    "url": "https://www.youtube.com/watch?v=YeSG-9hW8QM",
    "thumb": "https://i.ytimg.com/vi/YeSG-9hW8QM/mqdefault.jpg",
-   "startedAt": "2026-11-06T10:37:18Z"
+   "startedAt": "2026-11-06T10:37:18Z",
+   "endedAt": "2026-11-06T12:33:18Z"
   },
   {
    "id": "tw:316238581096",
