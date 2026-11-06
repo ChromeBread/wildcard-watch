@@ -1,16 +1,6 @@
 {
  "youtube": [
   {
-   "id": "yt:bdz5dEyUYpQ",
-   "platform": "youtube",
-   "member": "alpha-betta",
-   "title": "1 HOUR CHALLENGE【KARAOKE】 #karaoke #歌枠",
-   "url": "https://www.youtube.com/watch?v=bdz5dEyUYpQ",
-   "thumb": "https://i.ytimg.com/vi/bdz5dEyUYpQ/mqdefault.jpg",
-   "startedAt": "2026-11-06T13:37:30Z",
-   "state": "live"
-  },
-  {
    "id": "yt:C3V0oySJ88A",
    "platform": "youtube",
    "member": "alpha-betta",
@@ -79,6 +69,16 @@
    "thumb": "https://i.ytimg.com/vi/cxCJcWXZafY/mqdefault.jpg",
    "startedAt": "2026-11-06T22:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:bdz5dEyUYpQ",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "1 HOUR CHALLENGE【KARAOKE】 #karaoke #歌枠",
+   "url": "https://www.youtube.com/watch?v=bdz5dEyUYpQ",
+   "thumb": "https://i.ytimg.com/vi/bdz5dEyUYpQ/mqdefault.jpg",
+   "startedAt": "2026-11-06T13:37:30Z",
+   "state": "live"
   },
   {
    "id": "yt:6qZ6wCuTGd0",
