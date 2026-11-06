@@ -41,16 +41,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:38vONnXnCTQ",
-   "platform": "youtube",
-   "member": "kirispica",
-   "title": "Playing Minecraft with Raki! 【StellarCraft Minecraft Server】",
-   "url": "https://www.youtube.com/watch?v=38vONnXnCTQ",
-   "thumb": "https://i.ytimg.com/vi/38vONnXnCTQ/mqdefault.jpg",
-   "startedAt": "2026-11-07T03:00:00Z",
-   "state": "upcoming"
-  },
-  {
    "id": "yt:x73rbpYlU50",
    "platform": "youtube",
    "member": "mage-mimi",
@@ -67,10 +57,22 @@
    "title": "【The Legend of Zelda: Ocarina of Time】 HEY! LISTEN! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
    "url": "https://www.youtube.com/watch?v=cxCJcWXZafY",
    "thumb": "https://i.ytimg.com/vi/cxCJcWXZafY/mqdefault.jpg",
-   "startedAt": "2026-11-06T22:00:00Z",
-   "state": "upcoming"
+   "startedAt": "2026-11-06T22:01:05Z",
+   "state": "live"
   }
  ],
- "twitch": [],
+ "twitch": [
+  {
+   "id": "tw:319818033111",
+   "platform": "twitch",
+   "member": "phoebe",
+   "title": "【The Legend of Zelda: Ocarina of Time】 HEY! LISTEN! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
+   "game": "The Legend of Zelda: Ocarina of Time",
+   "url": "https://www.twitch.tv/feebee",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feebee-320x180.jpg",
+   "startedAt": "2026-11-06T22:00:59Z",
+   "state": "live"
+  }
+ ],
  "chzzk": []
 }
