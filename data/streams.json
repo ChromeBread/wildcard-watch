@@ -1,6 +1,34 @@
 {
  "streams": [
   {
+   "id": "tw:316238581096",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【#DistricyV2 - Day3】Nya Ting and her long lost bro【RioFukai】 !original !cover !social",
+   "url": "https://www.twitch.tv/videos/2920739503",
+   "thumb": "https://vod-secure.twitch.tv/_404/404_processing_320x180.png",
+   "startedAt": "2026-11-06T01:10:24Z",
+   "endedAt": "2026-11-06T01:10:32Z"
+  },
+  {
+   "id": "yt:HYdC0U8lfcw",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【#DistricyV2 - Day3】Nya Ting and her long lost bro【RioFukai｜深海璃零】",
+   "url": "https://www.youtube.com/watch?v=HYdC0U8lfcw",
+   "thumb": "https://i.ytimg.com/vi/HYdC0U8lfcw/mqdefault.jpg",
+   "startedAt": "2026-11-06T01:09:56Z"
+  },
+  {
+   "id": "yt:GlE8vTr6VoU",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "Fight Night with Maeflowers! MULTIPLE GAMES!【TEKKEN 8 | MEMBERS ONLY】",
+   "url": "https://www.youtube.com/watch?v=GlE8vTr6VoU",
+   "thumb": "https://i.ytimg.com/vi/GlE8vTr6VoU/mqdefault.jpg",
+   "startedAt": "2026-11-06T01:01:11Z"
+  },
+  {
    "id": "yt:dx4Iy6Q8us4",
    "platform": "youtube",
    "member": "dokibird",
@@ -16,7 +44,8 @@
    "title": "【The Legend of Zelda: Ocarina of Time REMAKE】 RELEASE DAY! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
    "url": "https://www.youtube.com/watch?v=LrTJyjfsADY",
    "thumb": "https://i.ytimg.com/vi/LrTJyjfsADY/mqdefault.jpg",
-   "startedAt": "2026-11-05T22:00:30Z"
+   "startedAt": "2026-11-05T22:00:30Z",
+   "endedAt": "2026-11-06T01:05:32Z"
   },
   {
    "id": "tw:319807191127",
@@ -26,7 +55,8 @@
    "game": "The Legend of Zelda: Ocarina of Time",
    "url": "https://www.twitch.tv/feebee",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feebee-320x180.jpg",
-   "startedAt": "2026-11-05T22:00:23Z"
+   "startedAt": "2026-11-05T22:00:23Z",
+   "endedAt": "2026-11-06T01:10:32Z"
   },
   {
    "id": "tw:319804907863",
