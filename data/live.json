@@ -1,6 +1,16 @@
 {
  "youtube": [
   {
+   "id": "yt:bdz5dEyUYpQ",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "1 HOUR CHALLENGE【KARAOKE】 #karaoke #歌枠",
+   "url": "https://www.youtube.com/watch?v=bdz5dEyUYpQ",
+   "thumb": "https://i.ytimg.com/vi/bdz5dEyUYpQ/mqdefault.jpg",
+   "startedAt": "2026-11-06T13:45:00Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:C3V0oySJ88A",
    "platform": "youtube",
    "member": "alpha-betta",
