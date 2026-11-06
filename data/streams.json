@@ -1,6 +1,25 @@
 {
  "streams": [
   {
+   "id": "yt:B_MIvSGcyHs",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【#DistricyV2 - Day4】Just nya nya【RioFukai｜深海璃零】",
+   "url": "https://www.youtube.com/watch?v=B_MIvSGcyHs",
+   "thumb": "https://i.ytimg.com/vi/B_MIvSGcyHs/mqdefault.jpg",
+   "startedAt": "2026-11-06T23:37:35Z"
+  },
+  {
+   "id": "tw:316303719914",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【#DistricyV2 - Day4】Just nya nya【RioFukai】 !original !cover !social",
+   "game": "Grand Theft Auto V",
+   "url": "https://www.twitch.tv/riofukai",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
+   "startedAt": "2026-11-06T23:37:31Z"
+  },
+  {
    "id": "yt:cxCJcWXZafY",
    "platform": "youtube",
    "member": "phoebe",
