@@ -11,16 +11,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:o1o1sNFTV58",
-   "platform": "youtube",
-   "member": "kanra-deity",
-   "title": "【#ゼルダの伝説時のオカリナ 】ルト姫を助けに行く！🌊これ終わったら...?!✨【#甘楽デイティー 】",
-   "url": "https://www.youtube.com/watch?v=o1o1sNFTV58",
-   "thumb": "https://i.ytimg.com/vi/o1o1sNFTV58/mqdefault.jpg",
-   "startedAt": "2026-11-07T10:30:36Z",
-   "state": "live"
-  },
-  {
    "id": "yt:M8wHNd_WSUQ",
    "platform": "youtube",
    "member": "maefae",
@@ -49,6 +39,16 @@
    "thumb": "https://i.ytimg.com/vi/x73rbpYlU50/mqdefault.jpg",
    "startedAt": "2026-11-08T17:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:o1o1sNFTV58",
+   "platform": "youtube",
+   "member": "kanra-deity",
+   "title": "【#ゼルダの伝説時のオカリナ 】ルト姫を助けに行く！🌊これ終わったら...?!✨【#甘楽デイティー 】",
+   "url": "https://www.youtube.com/watch?v=o1o1sNFTV58",
+   "thumb": "https://i.ytimg.com/vi/o1o1sNFTV58/mqdefault.jpg",
+   "startedAt": "2026-11-07T10:30:36Z",
+   "state": "live"
   }
  ],
  "twitch": [
