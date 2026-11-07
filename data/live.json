@@ -17,8 +17,8 @@
    "title": "You All Have One Job... BREAK ME! (Viewer Matches)【TEKKEN 8】",
    "url": "https://www.youtube.com/watch?v=M8wHNd_WSUQ",
    "thumb": "https://i.ytimg.com/vi/M8wHNd_WSUQ/mqdefault.jpg",
-   "startedAt": "2026-11-07T19:00:00Z",
-   "state": "upcoming"
+   "startedAt": "2026-11-07T19:02:16Z",
+   "state": "live"
   },
   {
    "id": "yt:vif3A4x3EHY",
@@ -61,6 +61,17 @@
    "url": "https://www.twitch.tv/eerie",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eerie-320x180.jpg",
    "startedAt": "2026-11-07T17:28:52Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:321066573148",
+   "platform": "twitch",
+   "member": "maefae",
+   "title": "You All Have One Job... BREAK ME! (Viewer Matches)【TEKKEN 8】",
+   "game": "TEKKEN 8",
+   "url": "https://www.twitch.tv/maefaech",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
+   "startedAt": "2026-11-07T19:06:39Z",
    "state": "live"
   }
  ],
