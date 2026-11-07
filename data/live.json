@@ -11,16 +11,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:G_wRnunb3Xg",
-   "platform": "youtube",
-   "member": "maefae",
-   "title": "This Fighting Game Has NO BUSINESS Having a Good Story Mode!【MORTAL KOMBAT 1】",
-   "url": "https://www.youtube.com/watch?v=G_wRnunb3Xg",
-   "thumb": "https://i.ytimg.com/vi/G_wRnunb3Xg/mqdefault.jpg",
-   "startedAt": "2026-11-07T01:00:33Z",
-   "state": "live"
-  },
-  {
    "id": "yt:M8wHNd_WSUQ",
    "platform": "youtube",
    "member": "maefae",
@@ -41,6 +31,16 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:oJiDb8QBxUo",
+   "platform": "youtube",
+   "member": "tsunamicat",
+   "title": "[LIVE] HORROR GAME NIGHT!",
+   "url": "https://www.youtube.com/watch?v=oJiDb8QBxUo",
+   "thumb": "https://i.ytimg.com/vi/oJiDb8QBxUo/mqdefault.jpg",
+   "startedAt": null,
+   "state": "upcoming"
+  },
+  {
    "id": "yt:x73rbpYlU50",
    "platform": "youtube",
    "member": "mage-mimi",
@@ -49,6 +49,16 @@
    "thumb": "https://i.ytimg.com/vi/x73rbpYlU50/mqdefault.jpg",
    "startedAt": "2026-11-08T17:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:G_wRnunb3Xg",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "This Fighting Game Has NO BUSINESS Having a Good Story Mode!【MORTAL KOMBAT 1】",
+   "url": "https://www.youtube.com/watch?v=G_wRnunb3Xg",
+   "thumb": "https://i.ytimg.com/vi/G_wRnunb3Xg/mqdefault.jpg",
+   "startedAt": "2026-11-07T01:00:33Z",
+   "state": "live"
   },
   {
    "id": "yt:B_MIvSGcyHs",
