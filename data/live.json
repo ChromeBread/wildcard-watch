@@ -29,30 +29,8 @@
    "thumb": "https://i.ytimg.com/vi/x73rbpYlU50/mqdefault.jpg",
    "startedAt": "2026-11-08T17:00:00Z",
    "state": "upcoming"
-  },
-  {
-   "id": "yt:M8wHNd_WSUQ",
-   "platform": "youtube",
-   "member": "maefae",
-   "title": "You All Have One Job... BREAK ME! (Viewer Matches)【TEKKEN 8】",
-   "url": "https://www.youtube.com/watch?v=M8wHNd_WSUQ",
-   "thumb": "https://i.ytimg.com/vi/M8wHNd_WSUQ/mqdefault.jpg",
-   "startedAt": "2026-11-07T19:02:16Z",
-   "state": "live"
   }
  ],
- "twitch": [
-  {
-   "id": "tw:321066573148",
-   "platform": "twitch",
-   "member": "maefae",
-   "title": "You All Have One Job... BREAK ME! (Viewer Matches)【TEKKEN 8】",
-   "game": "TEKKEN 8",
-   "url": "https://www.twitch.tv/maefaech",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
-   "startedAt": "2026-11-07T19:06:39Z",
-   "state": "live"
-  }
- ],
+ "twitch": [],
  "chzzk": []
 }
