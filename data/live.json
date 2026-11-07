@@ -11,6 +11,16 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:G_wRnunb3Xg",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "This Fighting Game Has NO BUSINESS Having a Good Story Mode!【MORTAL KOMBAT 1】",
+   "url": "https://www.youtube.com/watch?v=G_wRnunb3Xg",
+   "thumb": "https://i.ytimg.com/vi/G_wRnunb3Xg/mqdefault.jpg",
+   "startedAt": "2026-11-07T01:00:22Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:M8wHNd_WSUQ",
    "platform": "youtube",
    "member": "maefae",
@@ -18,16 +28,6 @@
    "url": "https://www.youtube.com/watch?v=M8wHNd_WSUQ",
    "thumb": "https://i.ytimg.com/vi/M8wHNd_WSUQ/mqdefault.jpg",
    "startedAt": "2026-11-07T19:00:00Z",
-   "state": "upcoming"
-  },
-  {
-   "id": "yt:G_wRnunb3Xg",
-   "platform": "youtube",
-   "member": "maefae",
-   "title": "This Fighting Game Has NO BUSINESS Having a Good Story Mode!【MORTAL KOMBAT 1】",
-   "url": "https://www.youtube.com/watch?v=G_wRnunb3Xg",
-   "thumb": "https://i.ytimg.com/vi/G_wRnunb3Xg/mqdefault.jpg",
-   "startedAt": "2026-11-07T01:00:00Z",
    "state": "upcoming"
   },
   {
@@ -59,30 +59,9 @@
    "thumb": "https://i.ytimg.com/vi/B_MIvSGcyHs/mqdefault.jpg",
    "startedAt": "2026-11-06T23:37:35Z",
    "state": "live"
-  },
-  {
-   "id": "yt:cxCJcWXZafY",
-   "platform": "youtube",
-   "member": "phoebe",
-   "title": "【The Legend of Zelda: Ocarina of Time】 HEY! LISTEN! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
-   "url": "https://www.youtube.com/watch?v=cxCJcWXZafY",
-   "thumb": "https://i.ytimg.com/vi/cxCJcWXZafY/mqdefault.jpg",
-   "startedAt": "2026-11-06T22:01:05Z",
-   "state": "live"
   }
  ],
  "twitch": [
-  {
-   "id": "tw:319818033111",
-   "platform": "twitch",
-   "member": "phoebe",
-   "title": "【The Legend of Zelda: Ocarina of Time】 HEY! LISTEN! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
-   "game": "The Legend of Zelda: Ocarina of Time",
-   "url": "https://www.twitch.tv/feebee",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feebee-320x180.jpg",
-   "startedAt": "2026-11-06T22:00:59Z",
-   "state": "live"
-  },
   {
    "id": "tw:316303719914",
    "platform": "twitch",
@@ -92,6 +71,17 @@
    "url": "https://www.twitch.tv/riofukai",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
    "startedAt": "2026-11-06T23:37:31Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:321058275804",
+   "platform": "twitch",
+   "member": "maefae",
+   "title": "My Coach Teaches Me How to Get Inside Your Head! Ft  @HeavenlyUchiha  【TEKKEN 8】",
+   "game": "TEKKEN 8",
+   "url": "https://www.twitch.tv/maefaech",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
+   "startedAt": "2026-11-07T01:00:28Z",
    "state": "live"
   }
  ],

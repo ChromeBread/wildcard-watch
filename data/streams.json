@@ -1,6 +1,16 @@
 {
  "streams": [
   {
+   "id": "tw:321058275804",
+   "platform": "twitch",
+   "member": "maefae",
+   "title": "My Coach Teaches Me How to Get Inside Your Head! Ft  @HeavenlyUchiha  【TEKKEN 8】",
+   "game": "TEKKEN 8",
+   "url": "https://www.twitch.tv/maefaech",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
+   "startedAt": "2026-11-07T01:00:28Z"
+  },
+  {
    "id": "yt:B_MIvSGcyHs",
    "platform": "youtube",
    "member": "rio-fukai",
@@ -26,7 +36,8 @@
    "title": "【The Legend of Zelda: Ocarina of Time】 HEY! LISTEN! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
    "url": "https://www.youtube.com/watch?v=cxCJcWXZafY",
    "thumb": "https://i.ytimg.com/vi/cxCJcWXZafY/mqdefault.jpg",
-   "startedAt": "2026-11-06T22:01:05Z"
+   "startedAt": "2026-11-06T22:01:05Z",
+   "endedAt": "2026-11-07T00:53:05Z"
   },
   {
    "id": "tw:319818033111",
@@ -36,7 +47,8 @@
    "game": "The Legend of Zelda: Ocarina of Time",
    "url": "https://www.twitch.tv/feebee",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feebee-320x180.jpg",
-   "startedAt": "2026-11-06T22:00:59Z"
+   "startedAt": "2026-11-06T22:00:59Z",
+   "endedAt": "2026-11-07T01:00:50Z"
   },
   {
    "id": "yt:bdz5dEyUYpQ",
