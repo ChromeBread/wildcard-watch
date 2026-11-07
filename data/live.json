@@ -41,16 +41,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:oJiDb8QBxUo",
-   "platform": "youtube",
-   "member": "tsunamicat",
-   "title": "[LIVE] PLAYING HORROR DEMOS!",
-   "url": "https://www.youtube.com/watch?v=oJiDb8QBxUo",
-   "thumb": "https://i.ytimg.com/vi/oJiDb8QBxUo/mqdefault.jpg",
-   "startedAt": "2026-11-07T02:13:58Z",
-   "state": "live"
-  },
-  {
    "id": "yt:B_MIvSGcyHs",
    "platform": "youtube",
    "member": "rio-fukai",
@@ -71,17 +61,6 @@
    "url": "https://www.twitch.tv/hackerling",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hackerling-320x180.jpg",
    "startedAt": "2026-11-07T03:49:41Z",
-   "state": "live"
-  },
-  {
-   "id": "tw:318553714776",
-   "platform": "twitch",
-   "member": "tsunamicat",
-   "title": "🌊 WORMNAMI IS BACK 🌊 !wildcardclub  !newsong !subathon",
-   "game": "Beyond The Frame",
-   "url": "https://www.twitch.tv/tsunamicat",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsunamicat-320x180.jpg",
-   "startedAt": "2026-11-07T02:08:38Z",
    "state": "live"
   },
   {
