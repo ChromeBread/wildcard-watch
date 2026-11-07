@@ -51,6 +51,18 @@
    "state": "upcoming"
   }
  ],
- "twitch": [],
+ "twitch": [
+  {
+   "id": "tw:318264852579",
+   "platform": "twitch",
+   "member": "eerie",
+   "title": "D&D: Curse of Strahd -> Chapter 3  🌊🎧",
+   "game": "Dungeons & Dragons",
+   "url": "https://www.twitch.tv/eerie",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eerie-320x180.jpg",
+   "startedAt": "2026-11-07T17:28:52Z",
+   "state": "live"
+  }
+ ],
  "chzzk": []
 }
