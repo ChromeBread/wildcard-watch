@@ -39,41 +39,8 @@
    "thumb": "https://i.ytimg.com/vi/x73rbpYlU50/mqdefault.jpg",
    "startedAt": "2026-11-08T17:00:00Z",
    "state": "upcoming"
-  },
-  {
-   "id": "yt:B_MIvSGcyHs",
-   "platform": "youtube",
-   "member": "rio-fukai",
-   "title": "【#DistricyV2 - Day4】Just nya nya【RioFukai｜深海璃零】",
-   "url": "https://www.youtube.com/watch?v=B_MIvSGcyHs",
-   "thumb": "https://i.ytimg.com/vi/B_MIvSGcyHs/mqdefault.jpg",
-   "startedAt": "2026-11-06T23:37:35Z",
-   "state": "live"
   }
  ],
- "twitch": [
-  {
-   "id": "tw:319821885911",
-   "platform": "twitch",
-   "member": "hackerling",
-   "title": "it is my freaking. birthday???? !twc",
-   "game": "Animal Crossing: New Horizons",
-   "url": "https://www.twitch.tv/hackerling",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hackerling-320x180.jpg",
-   "startedAt": "2026-11-07T03:49:41Z",
-   "state": "live"
-  },
-  {
-   "id": "tw:316303719914",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "【#DistricyV2 - Day4】Just nya nya【RioFukai】 !original !cover !social",
-   "game": "Grand Theft Auto V",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-06T23:37:31Z",
-   "state": "live"
-  }
- ],
+ "twitch": [],
  "chzzk": []
 }
