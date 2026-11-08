@@ -34,7 +34,7 @@
    "id": "yt:b7oJtrjs_Fs",
    "platform": "youtube",
    "member": "tsunamicat",
-   "title": "[LIVE] PLAYING HORROR DEMOS!",
+   "title": "[LIVE] PLAYING HORROR GAMES!",
    "url": "https://www.youtube.com/watch?v=b7oJtrjs_Fs",
    "thumb": "https://i.ytimg.com/vi/b7oJtrjs_Fs/mqdefault.jpg",
    "startedAt": null,
@@ -62,6 +62,17 @@
   }
  ],
  "twitch": [
+  {
+   "id": "tw:318565652824",
+   "platform": "twitch",
+   "member": "tsunamicat",
+   "title": "🌊 CHAT STILL LOVES ME EVEN IF IM A WORM FOR SOME REASON 🌊 !wildcardclub  !newsong !subathon",
+   "game": "Out Fishing",
+   "url": "https://www.twitch.tv/tsunamicat",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsunamicat-320x180.jpg",
+   "startedAt": "2026-11-08T06:04:16Z",
+   "state": "live"
+  },
   {
    "id": "tw:316279458921",
    "platform": "twitch",

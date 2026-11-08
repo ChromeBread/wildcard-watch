@@ -1,6 +1,16 @@
 {
  "streams": [
   {
+   "id": "tw:318565652824",
+   "platform": "twitch",
+   "member": "tsunamicat",
+   "title": "🌊 CHAT STILL LOVES ME EVEN IF IM A WORM FOR SOME REASON 🌊 !wildcardclub  !newsong !subathon",
+   "game": "Out Fishing",
+   "url": "https://www.twitch.tv/tsunamicat",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsunamicat-320x180.jpg",
+   "startedAt": "2026-11-08T06:04:16Z"
+  },
+  {
    "id": "yt:fmd5mw8uZAc",
    "platform": "youtube",
    "member": "rio-fukai",
