@@ -17,8 +17,8 @@
    "title": "【#DistrictV2 - Day5】Nya Ting is in love【RioFukai｜深海璃零】",
    "url": "https://www.youtube.com/watch?v=fmd5mw8uZAc",
    "thumb": "https://i.ytimg.com/vi/fmd5mw8uZAc/mqdefault.jpg",
-   "startedAt": "2026-11-08T03:00:00Z",
-   "state": "upcoming"
+   "startedAt": "2026-11-08T03:02:31Z",
+   "state": "live"
   },
   {
    "id": "yt:vif3A4x3EHY",
@@ -62,6 +62,17 @@
    "url": "https://www.twitch.tv/amalee",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
    "startedAt": "2026-11-07T23:56:14Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:316279458921",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【#DistrictV2 - Day5】Nya Ting is in love【RioFukai】 !original !cover !social",
+   "game": "Grand Theft Auto V",
+   "url": "https://www.twitch.tv/riofukai",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
+   "startedAt": "2026-11-08T03:02:26Z",
    "state": "live"
   }
  ],
