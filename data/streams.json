@@ -7,7 +7,8 @@
    "title": "【#DistrictV2 - Day5 : part2】Nya Ting is in love【RioFukai｜深海璃零】",
    "url": "https://www.youtube.com/watch?v=KF8dUfduszM",
    "thumb": "https://i.ytimg.com/vi/KF8dUfduszM/mqdefault.jpg",
-   "startedAt": "2026-11-08T06:52:37Z"
+   "startedAt": "2026-11-08T06:52:37Z",
+   "endedAt": "2026-11-08T09:47:03Z"
   },
   {
    "id": "yt:b7oJtrjs_Fs",
@@ -30,6 +31,16 @@
    "endedAt": "2026-11-08T08:58:52Z"
   },
   {
+   "id": "tw:316279458921",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【#DistrictV2 - Day5】Nya Ting is in love【RioFukai】 !original !cover !social",
+   "url": "https://www.twitch.tv/videos/2922788348",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/8dde1d81291d30415fa5_riofukai_316279458921_1794106946//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-08T03:02:34Z",
+   "endedAt": "2026-11-08T09:46:24Z"
+  },
+  {
    "id": "yt:fmd5mw8uZAc",
    "platform": "youtube",
    "member": "rio-fukai",
@@ -38,16 +49,6 @@
    "thumb": "https://i.ytimg.com/vi/fmd5mw8uZAc/mqdefault.jpg",
    "startedAt": "2026-11-08T03:02:31Z",
    "endedAt": "2026-11-08T06:17:08Z"
-  },
-  {
-   "id": "tw:316279458921",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "【#DistrictV2 - Day5】Nya Ting is in love【RioFukai】 !original !cover !social",
-   "game": "Grand Theft Auto V",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-08T03:02:26Z"
   },
   {
    "id": "tw:319834132311",
