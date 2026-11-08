@@ -11,16 +11,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:KF8dUfduszM",
-   "platform": "youtube",
-   "member": "rio-fukai",
-   "title": "【#DistrictV2 - Day5 : part2】Nya Ting is in love【RioFukai｜深海璃零】",
-   "url": "https://www.youtube.com/watch?v=KF8dUfduszM",
-   "thumb": "https://i.ytimg.com/vi/KF8dUfduszM/mqdefault.jpg",
-   "startedAt": "2026-11-08T06:52:37Z",
-   "state": "live"
-  },
-  {
    "id": "yt:bFcQx-Oizsg",
    "platform": "youtube",
    "member": "dokibird",
@@ -49,6 +39,16 @@
    "thumb": "https://i.ytimg.com/vi/x73rbpYlU50/mqdefault.jpg",
    "startedAt": "2026-11-08T17:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:KF8dUfduszM",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【#DistrictV2 - Day5 : part2】Nya Ting is in love【RioFukai｜深海璃零】",
+   "url": "https://www.youtube.com/watch?v=KF8dUfduszM",
+   "thumb": "https://i.ytimg.com/vi/KF8dUfduszM/mqdefault.jpg",
+   "startedAt": "2026-11-08T06:52:37Z",
+   "state": "live"
   },
   {
    "id": "yt:b7oJtrjs_Fs",
