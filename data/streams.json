@@ -1,6 +1,16 @@
 {
  "streams": [
   {
+   "id": "tw:317839466103",
+   "platform": "twitch",
+   "member": "amalee",
+   "title": "🦋⚠️ NEW MODEL⚠️ DARK SOULS Seamless Co-Op with @cyyuvtuber | new !merch (CODE \"AMALEE\" FOR 10% OFF) | !cons !cover !va",
+   "game": "Dark Souls: Remastered",
+   "url": "https://www.twitch.tv/amalee",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
+   "startedAt": "2026-11-08T21:14:44Z"
+  },
+  {
    "id": "yt:x73rbpYlU50",
    "platform": "youtube",
    "member": "mage-mimi",
