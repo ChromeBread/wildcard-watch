@@ -1,6 +1,15 @@
 {
  "streams": [
   {
+   "id": "yt:bFcQx-Oizsg",
+   "platform": "youtube",
+   "member": "dokibird",
+   "title": "【DEADLOCK TOURNAMENT】Manhattan Mayhem LAST day【Dokibird】",
+   "url": "https://www.youtube.com/watch?v=bFcQx-Oizsg",
+   "thumb": "https://i.ytimg.com/vi/bFcQx-Oizsg/mqdefault.jpg",
+   "startedAt": "2026-11-08T21:58:20Z"
+  },
+  {
    "id": "tw:317839466103",
    "platform": "twitch",
    "member": "amalee",
