@@ -1,6 +1,16 @@
 {
  "youtube": [
   {
+   "id": "yt:u48i5q0_DjY",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "Maiden Voyage Through Hyrule🚢🐟【The Legend of Zelda: Ocarina of Time】",
+   "url": "https://www.youtube.com/watch?v=u48i5q0_DjY",
+   "thumb": "https://i.ytimg.com/vi/u48i5q0_DjY/mqdefault.jpg",
+   "startedAt": "2026-11-12T12:00:00Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:C3V0oySJ88A",
    "platform": "youtube",
    "member": "alpha-betta",
