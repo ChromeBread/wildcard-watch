@@ -1,6 +1,16 @@
 {
  "youtube": [
   {
+   "id": "yt:lW23Teo9roo",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "FIRST WILDCARD CLUB COLLAB!!  @LeeandLie @MaeFaeCh @KanraDeity @RioFukai_  【R.E.P.O.】",
+   "url": "https://www.youtube.com/watch?v=lW23Teo9roo",
+   "thumb": "https://i.ytimg.com/vi/lW23Teo9roo/mqdefault.jpg",
+   "startedAt": "2026-11-12T03:00:00Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:-xTPeuMYASg",
    "platform": "youtube",
    "member": "alpha-betta",
@@ -51,7 +61,19 @@
    "state": "upcoming"
   }
  ],
- "twitch": [],
+ "twitch": [
+  {
+   "id": "tw:316285511273",
+   "platform": "twitch",
+   "member": "rachie",
+   "title": "new week NEW ROOM | !pc !album !social !orisong",
+   "game": "Just Chatting",
+   "url": "https://www.twitch.tv/rachie",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rachie-320x180.jpg",
+   "startedAt": "2026-11-09T14:51:16Z",
+   "state": "live"
+  }
+ ],
  "chzzk": [
   {
    "id": "cz:live22116156",
