@@ -1,6 +1,16 @@
 {
  "streams": [
   {
+   "id": "tw:319855423703",
+   "platform": "twitch",
+   "member": "amalee",
+   "title": "🦋⚠️MALWARE ARC ⚠️ Marvel Rivals CELESTIAL push -> PRATFALL COLLAB | new !merch (USE CODE \"AMALEE\" 10% OFF) | !cons !cover !v",
+   "game": "Marvel Rivals",
+   "url": "https://www.twitch.tv/amalee",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
+   "startedAt": "2026-11-09T22:52:43Z"
+  },
+  {
    "id": "yt:vif3A4x3EHY",
    "platform": "youtube",
    "member": "dokibird",
