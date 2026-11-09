@@ -42,5 +42,16 @@
   }
  ],
  "twitch": [],
- "chzzk": []
+ "chzzk": [
+  {
+   "id": "cz:live22116156",
+   "platform": "chzzk",
+   "member": "terri",
+   "title": "스근허이 저챗할까요???🥰",
+   "url": "https://chzzk.naver.com/live/0a2020b09b8cc7f2285b7ae5de2ce4d3",
+   "thumb": "https://livecloud-thumb.akamaized.net/chzzk/livecloud/KR/stream/26867808/live/22116156/publish/68735793/thumbnail/image_480.jpg",
+   "startedAt": "2026-11-09T10:00:34Z",
+   "state": "live"
+  }
+ ]
 }
