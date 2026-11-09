@@ -1,23 +1,24 @@
 {
  "streams": [
   {
+   "id": "tw:316283355113",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【#DistrictV2 - Day6】Girl just forgot abt her mission-【RioFukai】 !original !cover !social",
+   "url": "https://www.twitch.tv/videos/2923769990",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/7d9eba7cd7d69bf5227e_riofukai_316283355113_1794194388//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-09T03:19:56Z",
+   "endedAt": "2026-11-09T07:31:37Z"
+  },
+  {
    "id": "yt:N7f2IDx3XR0",
    "platform": "youtube",
    "member": "rio-fukai",
    "title": "【#DistrictV2 - Day6】Girl just forgot abt her mission-【RioFukai｜深海璃零】",
    "url": "https://www.youtube.com/watch?v=N7f2IDx3XR0",
    "thumb": "https://i.ytimg.com/vi/N7f2IDx3XR0/mqdefault.jpg",
-   "startedAt": "2026-11-09T03:19:52Z"
-  },
-  {
-   "id": "tw:316283355113",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "【#DistrictV2 - Day6】Girl just forgot abt her mission-【RioFukai】 !original !cover !social",
-   "game": "Grand Theft Auto V",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-09T03:19:48Z"
+   "startedAt": "2026-11-09T03:19:52Z",
+   "endedAt": "2026-11-09T07:31:48Z"
   },
   {
    "id": "yt:bFcQx-Oizsg",
