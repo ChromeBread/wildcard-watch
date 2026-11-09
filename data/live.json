@@ -1,6 +1,16 @@
 {
  "youtube": [
   {
+   "id": "yt:-xTPeuMYASg",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "Singing Tuuuuuuunes🎤🐟【KARAOKE】#karaoke #歌枠",
+   "url": "https://www.youtube.com/watch?v=-xTPeuMYASg",
+   "thumb": "https://i.ytimg.com/vi/-xTPeuMYASg/mqdefault.jpg",
+   "startedAt": "2026-11-13T12:00:00Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:u48i5q0_DjY",
    "platform": "youtube",
    "member": "alpha-betta",
