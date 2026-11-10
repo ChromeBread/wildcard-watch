@@ -41,6 +41,36 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:qDQ-Sbs16dc",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "I'm Invested in My FIRST Zelda Adventure!【ZELDA: OCARINA OF TIME】",
+   "url": "https://www.youtube.com/watch?v=qDQ-Sbs16dc",
+   "thumb": "https://i.ytimg.com/vi/qDQ-Sbs16dc/mqdefault.jpg",
+   "startedAt": "2026-11-15T18:00:00Z",
+   "state": "upcoming"
+  },
+  {
+   "id": "yt:XAR4v05ahzo",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "I've NEVER Played Zelda Before. Is This The Best Place to Start?!【ZELDA: OCARINA OF TIME】",
+   "url": "https://www.youtube.com/watch?v=XAR4v05ahzo",
+   "thumb": "https://i.ytimg.com/vi/XAR4v05ahzo/mqdefault.jpg",
+   "startedAt": "2026-11-14T18:00:00Z",
+   "state": "upcoming"
+  },
+  {
+   "id": "yt:0d5sadrquIs",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "Did I Play the WRONG Melty Blood Game This Whole Time?【MELTY BLOOD: ACTRESS AGAIN: CURRENT CODE】",
+   "url": "https://www.youtube.com/watch?v=0d5sadrquIs",
+   "thumb": "https://i.ytimg.com/vi/0d5sadrquIs/mqdefault.jpg",
+   "startedAt": "2026-11-14T01:00:00Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:coGg1BzNDVo",
    "platform": "youtube",
    "member": "maefae",
@@ -61,6 +91,16 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:P4IrOuY3o80",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【#DistrictV2 - Day7 (Part2)】A little bit of power, a little bit of ranger nya【RioFukai｜深海璃零】",
+   "url": "https://www.youtube.com/watch?v=P4IrOuY3o80",
+   "thumb": "https://i.ytimg.com/vi/P4IrOuY3o80/mqdefault.jpg",
+   "startedAt": "2026-11-10T04:10:00Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:kPVRS3CnQ1A",
    "platform": "youtube",
    "member": "kirispica",
@@ -68,16 +108,6 @@
    "url": "https://www.youtube.com/watch?v=kPVRS3CnQ1A",
    "thumb": "https://i.ytimg.com/vi/kPVRS3CnQ1A/mqdefault.jpg",
    "startedAt": "2026-11-10T02:29:59Z",
-   "state": "live"
-  },
-  {
-   "id": "yt:wsCpgmgOpaA",
-   "platform": "youtube",
-   "member": "rio-fukai",
-   "title": "【#DistrictV2 - Day7】A little bit of power, a little bit of ranger nya【RioFukai｜深海璃零】",
-   "url": "https://www.youtube.com/watch?v=wsCpgmgOpaA",
-   "thumb": "https://i.ytimg.com/vi/wsCpgmgOpaA/mqdefault.jpg",
-   "startedAt": "2026-11-10T01:43:44Z",
    "state": "live"
   }
  ],
@@ -113,17 +143,6 @@
    "url": "https://www.twitch.tv/hypavox",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hypavox-320x180.jpg",
    "startedAt": "2026-11-10T03:28:56Z",
-   "state": "live"
-  },
-  {
-   "id": "tw:316256350056",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "【#DistrictV2 - Day7】A little bit of power, a little bit of ranger nya【RioFukai】 !original !cover !social",
-   "game": "Grand Theft Auto V",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-10T01:43:41Z",
    "state": "live"
   }
  ],
