@@ -103,17 +103,6 @@
  ],
  "twitch": [
   {
-   "id": "tw:316256579688",
-   "platform": "twitch",
-   "member": "hypa-vox",
-   "title": "⚡️⚠️YOU THERE! Approach... if you dare | !fortnite !merch !avatar sparkz !kofi !socials | !throne |",
-   "game": "Duskfade",
-   "url": "https://www.twitch.tv/hypavox",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hypavox-320x180.jpg",
-   "startedAt": "2026-11-10T03:28:56Z",
-   "state": "live"
-  },
-  {
    "id": "tw:316316417258",
    "platform": "twitch",
    "member": "rio-fukai",
