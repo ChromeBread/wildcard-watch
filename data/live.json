@@ -99,16 +99,6 @@
    "thumb": "https://i.ytimg.com/vi/oD80qjl8G4Q/mqdefault.jpg",
    "startedAt": "2026-11-13T13:00:00Z",
    "state": "upcoming"
-  },
-  {
-   "id": "yt:vfhaWumXpPA",
-   "platform": "youtube",
-   "member": "phoebe",
-   "title": "【Chat + TLoZ: Ocarina of Time】 Back From Seattle!!! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
-   "url": "https://www.youtube.com/watch?v=vfhaWumXpPA",
-   "thumb": "https://i.ytimg.com/vi/vfhaWumXpPA/mqdefault.jpg",
-   "startedAt": "2026-11-10T22:00:13Z",
-   "state": "live"
   }
  ],
  "twitch": [
@@ -121,17 +111,6 @@
    "url": "https://www.twitch.tv/amalee",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
    "startedAt": "2026-11-10T22:05:50Z",
-   "state": "live"
-  },
-  {
-   "id": "tw:317854500215",
-   "platform": "twitch",
-   "member": "phoebe",
-   "title": "【Chat + TLoZ: Ocarina of Time】 Back From Seattle!!! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
-   "game": "The Legend of Zelda: Ocarina of Time",
-   "url": "https://www.twitch.tv/feebee",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feebee-320x180.jpg",
-   "startedAt": "2026-11-10T22:00:05Z",
    "state": "live"
   }
  ],
