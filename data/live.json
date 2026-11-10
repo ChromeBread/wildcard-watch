@@ -89,30 +89,8 @@
    "thumb": "https://i.ytimg.com/vi/TaTof4Zj9K0/mqdefault.jpg",
    "startedAt": "2026-11-12T02:00:00Z",
    "state": "upcoming"
-  },
-  {
-   "id": "yt:P4IrOuY3o80",
-   "platform": "youtube",
-   "member": "rio-fukai",
-   "title": "【#DistrictV2 - Day7 (Part2)】A little bit of power, a little bit of ranger nya【RioFukai｜深海璃零】",
-   "url": "https://www.youtube.com/watch?v=P4IrOuY3o80",
-   "thumb": "https://i.ytimg.com/vi/P4IrOuY3o80/mqdefault.jpg",
-   "startedAt": "2026-11-10T04:10:56Z",
-   "state": "live"
   }
  ],
- "twitch": [
-  {
-   "id": "tw:316316417258",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "【#DistrictV2 - Day7】A little bit of power, a little bit of ranger nya【RioFukai】 !original !cover !social",
-   "game": "Grand Theft Auto V",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-10T04:10:53Z",
-   "state": "live"
-  }
- ],
+ "twitch": [],
  "chzzk": []
 }
