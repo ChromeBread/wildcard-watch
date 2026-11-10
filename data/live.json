@@ -47,8 +47,8 @@
    "title": "I composed Hani's 1st Original Song, \"Buttercup\"! Ask me anything!【SONGWRITING Q&A】",
    "url": "https://www.youtube.com/watch?v=kPVRS3CnQ1A",
    "thumb": "https://i.ytimg.com/vi/kPVRS3CnQ1A/mqdefault.jpg",
-   "startedAt": "2026-11-10T02:00:00Z",
-   "state": "upcoming"
+   "startedAt": "2026-11-10T02:29:59Z",
+   "state": "live"
   },
   {
    "id": "yt:wsCpgmgOpaA",
@@ -113,6 +113,17 @@
    "url": "https://www.twitch.tv/riofukai",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
    "startedAt": "2026-11-10T01:43:41Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:316286925801",
+   "platform": "twitch",
+   "member": "kirispica",
+   "title": "I composed Hani's 1st Original Song, \"Buttercup\"! Ask me anything!【SONGWRITING Q&A】",
+   "game": "Music",
+   "url": "https://www.twitch.tv/kirispica",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kirispica-320x180.jpg",
+   "startedAt": "2026-11-10T02:29:50Z",
    "state": "live"
   }
  ],
