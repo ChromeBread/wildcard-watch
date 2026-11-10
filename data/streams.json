@@ -1,6 +1,25 @@
 {
  "streams": [
   {
+   "id": "yt:P4IrOuY3o80",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【#DistrictV2 - Day7 (Part2)】A little bit of power, a little bit of ranger nya【RioFukai｜深海璃零】",
+   "url": "https://www.youtube.com/watch?v=P4IrOuY3o80",
+   "thumb": "https://i.ytimg.com/vi/P4IrOuY3o80/mqdefault.jpg",
+   "startedAt": "2026-11-10T04:10:56Z"
+  },
+  {
+   "id": "tw:316316417258",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【#DistrictV2 - Day7】A little bit of power, a little bit of ranger nya【RioFukai】 !original !cover !social",
+   "game": "Grand Theft Auto V",
+   "url": "https://www.twitch.tv/riofukai",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
+   "startedAt": "2026-11-10T04:10:53Z"
+  },
+  {
    "id": "tw:316256579688",
    "platform": "twitch",
    "member": "hypa-vox",
@@ -74,7 +93,7 @@
    "platform": "twitch",
    "member": "amalee",
    "title": "🦋⚠️MALWARE ARC ⚠️ Marvel Rivals CELESTIAL push -> PRATFALL COLLAB | new !merch (USE CODE \"AMALEE\" 10% OFF) | !cons !cover !v",
-   "game": "Pratfall",
+   "game": "Marvel Rivals",
    "url": "https://www.twitch.tv/amalee",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
    "startedAt": "2026-11-09T22:52:43Z"
