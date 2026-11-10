@@ -24,10 +24,20 @@
    "platform": "twitch",
    "member": "hypa-vox",
    "title": "⚡️⚠️YOU THERE! Approach... if you dare | !fortnite !merch !avatar sparkz !kofi !socials | !throne |",
-   "game": "Just Chatting",
+   "game": "Duskfade",
    "url": "https://www.twitch.tv/hypavox",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hypavox-320x180.jpg",
    "startedAt": "2026-11-10T03:28:56Z"
+  },
+  {
+   "id": "tw:316286925801",
+   "platform": "twitch",
+   "member": "kirispica",
+   "title": "I composed Hani's 1st Original Song, \"Buttercup\"! Ask me anything!【SONGWRITING Q&A】",
+   "url": "https://www.twitch.tv/videos/2924601889",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/8c659df0e0be0ca4743f_kirispica_316286925801_1794277790//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-10T02:30:00Z",
+   "endedAt": "2026-11-10T04:32:37Z"
   },
   {
    "id": "yt:kPVRS3CnQ1A",
@@ -36,17 +46,8 @@
    "title": "I composed Hani's 1st Original Song, \"Buttercup\"! Ask me anything!【SONGWRITING Q&A】",
    "url": "https://www.youtube.com/watch?v=kPVRS3CnQ1A",
    "thumb": "https://i.ytimg.com/vi/kPVRS3CnQ1A/mqdefault.jpg",
-   "startedAt": "2026-11-10T02:29:59Z"
-  },
-  {
-   "id": "tw:316286925801",
-   "platform": "twitch",
-   "member": "kirispica",
-   "title": "I composed Hani's 1st Original Song, \"Buttercup\"! Ask me anything!【SONGWRITING Q&A】",
-   "game": "Music",
-   "url": "https://www.twitch.tv/kirispica",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kirispica-320x180.jpg",
-   "startedAt": "2026-11-10T02:29:50Z"
+   "startedAt": "2026-11-10T02:29:59Z",
+   "endedAt": "2026-11-10T04:32:23Z"
   },
   {
    "id": "tw:316256350056",
