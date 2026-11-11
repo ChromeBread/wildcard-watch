@@ -1,6 +1,16 @@
 {
  "streams": [
   {
+   "id": "tw:318311142627",
+   "platform": "twitch",
+   "member": "eerie",
+   "title": "SECRET STAGE: BUNNY DASH! ->  one day to fill the timer 🎈🌊🎧",
+   "game": "Special Events",
+   "url": "https://www.twitch.tv/eerie",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eerie-320x180.jpg",
+   "startedAt": "2026-11-11T19:37:21Z"
+  },
+  {
    "id": "cz:16134298",
    "platform": "chzzk",
    "member": "terri",
@@ -54,11 +64,11 @@
    "id": "tw:318305614691",
    "platform": "twitch",
    "member": "eerie",
-   "title": "SECRET STAGE: BUNNY DASH! ->  one day to fill the timer 🎈🌊🎧",
-   "game": "Special Events",
-   "url": "https://www.twitch.tv/eerie",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eerie-320x180.jpg",
-   "startedAt": "2026-11-11T12:08:33Z"
+   "title": "SECRET STAGE: BUNNY DASH! ->  🌊🎧",
+   "url": "https://www.twitch.tv/videos/2925751825",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3stzm2eumvgb4/91567fb5c934f753fbeb_eerie_318305614691_1794398913//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-11T12:08:38Z",
+   "endedAt": "2026-11-11T19:36:39Z"
   },
   {
    "id": "tw:316321898730",
