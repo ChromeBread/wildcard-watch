@@ -133,14 +133,14 @@
  ],
  "twitch": [
   {
-   "id": "tw:316290995049",
+   "id": "tw:319871925591",
    "platform": "twitch",
-   "member": "kirispica",
-   "title": "Starting a new game!! In black and white!!",
-   "game": "Limbo",
-   "url": "https://www.twitch.tv/kirispica",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kirispica-320x180.jpg",
-   "startedAt": "2026-11-11T05:00:50Z",
+   "member": "dokibird",
+   "title": "Need to find more rank friends, forced to soloq... Coaching/tips appreciated!! | !song !merch !newvid",
+   "game": "Deadlock",
+   "url": "https://www.twitch.tv/dokibird",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dokibird-320x180.jpg",
+   "startedAt": "2026-11-11T07:26:29Z",
    "state": "live"
   },
   {
@@ -155,14 +155,14 @@
    "state": "live"
   },
   {
-   "id": "tw:319871925591",
+   "id": "tw:316290995049",
    "platform": "twitch",
-   "member": "dokibird",
-   "title": "Need to find more rank friends, forced to soloq... Coaching/tips appreciated!! | !song !merch !newvid",
-   "game": "Deadlock",
-   "url": "https://www.twitch.tv/dokibird",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dokibird-320x180.jpg",
-   "startedAt": "2026-11-11T07:26:29Z",
+   "member": "kirispica",
+   "title": "Starting a new game!! In black and white!!",
+   "game": "Limbo",
+   "url": "https://www.twitch.tv/kirispica",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kirispica-320x180.jpg",
+   "startedAt": "2026-11-11T05:00:50Z",
    "state": "live"
   }
  ],
