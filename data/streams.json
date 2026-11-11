@@ -1,6 +1,15 @@
 {
  "streams": [
   {
+   "id": "yt:Ju3Q15JIqtk",
+   "platform": "youtube",
+   "member": "rachie",
+   "title": "putting flaybubu through the meat grinder ✧ LoZ: Ocarina of Time #2 (ft. @MachinaXFlayon )",
+   "url": "https://www.youtube.com/watch?v=Ju3Q15JIqtk",
+   "thumb": "https://i.ytimg.com/vi/Ju3Q15JIqtk/mqdefault.jpg",
+   "startedAt": "2026-11-11T13:34:11Z"
+  },
+  {
    "id": "tw:316292800105",
    "platform": "twitch",
    "member": "rachie",
@@ -54,10 +63,10 @@
    "platform": "twitch",
    "member": "dokibird",
    "title": "Need to find more rank friends, forced to soloq... Coaching/tips appreciated!! | !song !merch !newvid",
-   "game": "Deadlock",
-   "url": "https://www.twitch.tv/dokibird",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dokibird-320x180.jpg",
-   "startedAt": "2026-11-11T07:26:29Z"
+   "url": "https://www.twitch.tv/videos/2925644002",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/78e06134f2be7e99edef_dokibird_319871925591_1794381989//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-11T07:26:33Z",
+   "endedAt": "2026-11-11T13:39:21Z"
   },
   {
    "id": "yt:kd1fGBGfoIw",
