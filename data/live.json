@@ -133,17 +133,6 @@
  ],
  "twitch": [
   {
-   "id": "tw:316290752489",
-   "platform": "twitch",
-   "member": "hypa-vox",
-   "title": "⚡️⚠️Hello i'd like to speak to you about- | !fortnite !merch !avatar sparkz !kofi !socials | !throne |",
-   "game": "Waterpark Simulator",
-   "url": "https://www.twitch.tv/hypavox",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hypavox-320x180.jpg",
-   "startedAt": "2026-11-11T03:24:03Z",
-   "state": "live"
-  },
-  {
    "id": "tw:316290995049",
    "platform": "twitch",
    "member": "kirispica",
@@ -163,6 +152,17 @@
    "url": "https://www.twitch.tv/riofukai",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
    "startedAt": "2026-11-11T01:09:28Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:319871925591",
+   "platform": "twitch",
+   "member": "dokibird",
+   "title": "Need to find more rank friends, forced to soloq... Coaching/tips appreciated!! | !song !merch !newvid",
+   "game": "Deadlock",
+   "url": "https://www.twitch.tv/dokibird",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dokibird-320x180.jpg",
+   "startedAt": "2026-11-11T07:26:29Z",
    "state": "live"
   }
  ],
