@@ -91,16 +91,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:kd1fGBGfoIw",
-   "platform": "youtube",
-   "member": "kirispica",
-   "title": "【LIMBO】 Starting a new game!! In... Black and White!!",
-   "url": "https://www.youtube.com/watch?v=kd1fGBGfoIw",
-   "thumb": "https://i.ytimg.com/vi/kd1fGBGfoIw/mqdefault.jpg",
-   "startedAt": "2026-11-11T05:01:01Z",
-   "state": "live"
-  },
-  {
    "id": "yt:oD80qjl8G4Q",
    "platform": "youtube",
    "member": "idna",
@@ -119,6 +109,16 @@
    "thumb": "https://i.ytimg.com/vi/tHjv1gbRo8Q/mqdefault.jpg",
    "startedAt": "2026-11-11T22:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:kd1fGBGfoIw",
+   "platform": "youtube",
+   "member": "kirispica",
+   "title": "【LIMBO】 Starting a new game!! In... Black and White!!",
+   "url": "https://www.youtube.com/watch?v=kd1fGBGfoIw",
+   "thumb": "https://i.ytimg.com/vi/kd1fGBGfoIw/mqdefault.jpg",
+   "startedAt": "2026-11-11T05:01:01Z",
+   "state": "live"
   },
   {
    "id": "yt:TU_uQRwglig",
