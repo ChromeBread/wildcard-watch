@@ -105,5 +105,16 @@
    "state": "live"
   }
  ],
- "chzzk": []
+ "chzzk": [
+  {
+   "id": "cz:live22166918",
+   "platform": "chzzk",
+   "member": "terri",
+   "title": "드디어 본다 니케 메인스 !!!!!!!!!!!!!!!!!!! 😭😭😭😭",
+   "url": "https://chzzk.naver.com/live/0a2020b09b8cc7f2285b7ae5de2ce4d3",
+   "thumb": "https://livecloud-thumb.akamaized.net/chzzk/livecloud/KR/stream/26867808/live/22166918/publish/68816389/thumbnail/image_480.jpg",
+   "startedAt": "2026-11-12T07:00:39Z",
+   "state": "live"
+  }
+ ]
 }
