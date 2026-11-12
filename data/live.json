@@ -79,16 +79,6 @@
    "thumb": "https://i.ytimg.com/vi/oD80qjl8G4Q/mqdefault.jpg",
    "startedAt": "2026-11-13T13:00:00Z",
    "state": "upcoming"
-  },
-  {
-   "id": "yt:Bb5gCyxHokc",
-   "platform": "youtube",
-   "member": "alpha-betta",
-   "title": "To Hyrule Castle Already?!🏰🐟【The Legend of Zelda: Ocarina of Time】",
-   "url": "https://www.youtube.com/watch?v=Bb5gCyxHokc",
-   "thumb": "https://i.ytimg.com/vi/Bb5gCyxHokc/mqdefault.jpg",
-   "startedAt": "2026-11-12T12:44:56Z",
-   "state": "live"
   }
  ],
  "twitch": [
@@ -101,17 +91,6 @@
    "url": "https://www.twitch.tv/michimochievee",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_michimochievee-320x180.jpg",
    "startedAt": "2026-11-12T12:55:38Z",
-   "state": "live"
-  },
-  {
-   "id": "tw:316702903665",
-   "platform": "twitch",
-   "member": "alpha-betta",
-   "title": "first time playthru! - !cover !music !555 !dono !throne !secret",
-   "game": "The Legend of Zelda: Ocarina of Time",
-   "url": "https://www.twitch.tv/alphabettavt",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alphabettavt-320x180.jpg",
-   "startedAt": "2026-11-12T12:44:44Z",
    "state": "live"
   }
  ],
