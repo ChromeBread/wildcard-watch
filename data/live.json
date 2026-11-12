@@ -61,6 +61,16 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:Dd8CucPTJsQ",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【#DistrictV2 - Day9 (Part2)】Something has changed in her.【RioFukai｜深海璃零】",
+   "url": "https://www.youtube.com/watch?v=Dd8CucPTJsQ",
+   "thumb": "https://i.ytimg.com/vi/Dd8CucPTJsQ/mqdefault.jpg",
+   "startedAt": "2026-11-12T05:26:28Z",
+   "state": "live"
+  },
+  {
    "id": "yt:oD80qjl8G4Q",
    "platform": "youtube",
    "member": "idna",
@@ -69,26 +79,6 @@
    "thumb": "https://i.ytimg.com/vi/oD80qjl8G4Q/mqdefault.jpg",
    "startedAt": "2026-11-13T13:00:00Z",
    "state": "upcoming"
-  },
-  {
-   "id": "yt:d1smDelNLGA",
-   "platform": "youtube",
-   "member": "rio-fukai",
-   "title": "TEAM AMALEE ASSEMBLE!!! The Wildcard Club first collab!!! 【REPO + ZATSU】",
-   "url": "https://www.youtube.com/watch?v=d1smDelNLGA",
-   "thumb": "https://i.ytimg.com/vi/d1smDelNLGA/mqdefault.jpg",
-   "startedAt": "2026-11-12T02:55:07Z",
-   "state": "live"
-  },
-  {
-   "id": "yt:TaTof4Zj9K0",
-   "platform": "youtube",
-   "member": "maefae",
-   "title": "I'm FINALLY Getting To Know My WILDCARD CLUB Team! #TeamAmaLee #TheWildcardClub【CHATTING + R.E.P.O.】",
-   "url": "https://www.youtube.com/watch?v=TaTof4Zj9K0",
-   "thumb": "https://i.ytimg.com/vi/TaTof4Zj9K0/mqdefault.jpg",
-   "startedAt": "2026-11-12T02:00:41Z",
-   "state": "live"
   },
   {
    "id": "yt:JhXJje4URhs",
@@ -114,25 +104,14 @@
    "state": "live"
   },
   {
-   "id": "tw:316294780777",
+   "id": "tw:316295178985",
    "platform": "twitch",
    "member": "rio-fukai",
    "title": "【#DistrictV2 - Day9】Something has changed in her.【RioFukai】 !original !cover !social",
    "game": "Grand Theft Auto V",
    "url": "https://www.twitch.tv/riofukai",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-12T02:55:05Z",
-   "state": "live"
-  },
-  {
-   "id": "tw:321316531936",
-   "platform": "twitch",
-   "member": "maefae",
-   "title": "I'm FINALLY Getting To Know My WILDCARD CLUB Team! #TeamAmaLee #TheWildcardClub【CHATTING + R.E.P.O.】",
-   "game": "R.E.P.O.",
-   "url": "https://www.twitch.tv/maefaech",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
-   "startedAt": "2026-11-12T02:00:42Z",
+   "startedAt": "2026-11-12T05:24:54Z",
    "state": "live"
   }
  ],
