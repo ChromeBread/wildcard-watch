@@ -128,7 +128,7 @@
    "platform": "twitch",
    "member": "amalee",
    "title": "🦋⚠️MALWARE ARC⚠️ Smash or Pass w/ @matarakan -> REPO w/ Wildcard Club team! !collab (! merch USE CODE \"AMALEE\" 10% OFF) | !cons !cover !va",
-   "game": "Just Chatting",
+   "game": "R.E.P.O.",
    "url": "https://www.twitch.tv/amalee",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
    "startedAt": "2026-11-11T23:57:57Z",
@@ -157,17 +157,6 @@
    "state": "live"
   },
   {
-   "id": "tw:316294780777",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "【#DistrictV2 - Day9 (part1)】Something has changed in her.【RioFukai】 !original !cover !social",
-   "game": "Grand Theft Auto V",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-12T02:55:05Z",
-   "state": "live"
-  },
-  {
    "id": "tw:316772784115",
    "platform": "twitch",
    "member": "kanra-deity",
@@ -176,6 +165,17 @@
    "url": "https://www.twitch.tv/kanradeity",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kanradeity-320x180.jpg",
    "startedAt": "2026-11-12T02:59:05Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:316294780777",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【#DistrictV2 - Day9 (part1)】Something has changed in her.【RioFukai】 !original !cover !social",
+   "game": "Grand Theft Auto V",
+   "url": "https://www.twitch.tv/riofukai",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
+   "startedAt": "2026-11-12T02:55:05Z",
    "state": "live"
   }
  ],
