@@ -157,17 +157,6 @@
    "state": "live"
   },
   {
-   "id": "tw:316772784115",
-   "platform": "twitch",
-   "member": "kanra-deity",
-   "title": "First time collaboring with the girls!!!",
-   "game": "R.E.P.O.",
-   "url": "https://www.twitch.tv/kanradeity",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kanradeity-320x180.jpg",
-   "startedAt": "2026-11-12T02:59:05Z",
-   "state": "live"
-  },
-  {
    "id": "tw:316294780777",
    "platform": "twitch",
    "member": "rio-fukai",
@@ -176,6 +165,17 @@
    "url": "https://www.twitch.tv/riofukai",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
    "startedAt": "2026-11-12T02:55:05Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:316772784115",
+   "platform": "twitch",
+   "member": "kanra-deity",
+   "title": "First time collaboring with the girls!!!",
+   "game": "R.E.P.O.",
+   "url": "https://www.twitch.tv/kanradeity",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kanradeity-320x180.jpg",
+   "startedAt": "2026-11-12T02:59:05Z",
    "state": "live"
   }
  ],
