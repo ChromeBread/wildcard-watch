@@ -69,16 +69,6 @@
    "thumb": "https://i.ytimg.com/vi/oD80qjl8G4Q/mqdefault.jpg",
    "startedAt": "2026-11-13T13:00:00Z",
    "state": "upcoming"
-  },
-  {
-   "id": "yt:Dd8CucPTJsQ",
-   "platform": "youtube",
-   "member": "rio-fukai",
-   "title": "【#DistrictV2 - Day9 (Part2)】Something has changed in her.【RioFukai｜深海璃零】",
-   "url": "https://www.youtube.com/watch?v=Dd8CucPTJsQ",
-   "thumb": "https://i.ytimg.com/vi/Dd8CucPTJsQ/mqdefault.jpg",
-   "startedAt": "2026-11-12T05:26:28Z",
-   "state": "live"
   }
  ],
  "twitch": [
@@ -91,17 +81,6 @@
    "url": "https://www.twitch.tv/ironmouse",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg",
    "startedAt": "2026-11-12T01:36:38Z",
-   "state": "live"
-  },
-  {
-   "id": "tw:316295178985",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "【#DistrictV2 - Day9】Something has changed in her.【RioFukai】 !original !cover !social",
-   "game": "Grand Theft Auto V",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-12T05:24:54Z",
    "state": "live"
   }
  ],
