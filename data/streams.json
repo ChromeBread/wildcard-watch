@@ -1,6 +1,15 @@
 {
  "streams": [
   {
+   "id": "yt:JhXJje4URhs",
+   "platform": "youtube",
+   "member": "dokibird",
+   "title": "【ZELDA OCARINA OF TIME】🍌【Dokibird】",
+   "url": "https://www.youtube.com/watch?v=JhXJje4URhs",
+   "thumb": "https://i.ytimg.com/vi/JhXJje4URhs/mqdefault.jpg",
+   "startedAt": "2026-11-12T01:09:38Z"
+  },
+  {
    "id": "tw:319877893847",
    "platform": "twitch",
    "member": "amalee",
@@ -17,7 +26,8 @@
    "title": "【TANUKI: Pon's Summer】 A Comfy and Cool Summer! 🐝🌸【Phoebe Chan | フィービー・チャン】 #sponsored",
    "url": "https://www.youtube.com/watch?v=tHjv1gbRo8Q",
    "thumb": "https://i.ytimg.com/vi/tHjv1gbRo8Q/mqdefault.jpg",
-   "startedAt": "2026-11-11T22:00:39Z"
+   "startedAt": "2026-11-11T22:00:39Z",
+   "endedAt": "2026-11-12T01:00:51Z"
   },
   {
    "id": "tw:318595888984",
@@ -27,7 +37,8 @@
    "game": "TANUKI: Pon's Summer",
    "url": "https://www.twitch.tv/feebee",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feebee-320x180.jpg",
-   "startedAt": "2026-11-11T22:00:33Z"
+   "startedAt": "2026-11-11T22:00:33Z",
+   "endedAt": "2026-11-12T01:10:31Z"
   },
   {
    "id": "tw:318313027427",
