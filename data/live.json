@@ -139,21 +139,10 @@
    "platform": "twitch",
    "member": "alpha-betta",
    "title": "team amalee collab! @amalee @riofukai @maefaech @kanradeity - !cover !music !555 !dono !throne !secret",
-   "game": "R.E.P.O.",
+   "game": "Just Chatting",
    "url": "https://www.twitch.tv/alphabettavt",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alphabettavt-320x180.jpg",
    "startedAt": "2026-11-12T02:59:10Z",
-   "state": "live"
-  },
-  {
-   "id": "tw:316772784115",
-   "platform": "twitch",
-   "member": "kanra-deity",
-   "title": "First time collaboring with the girls!!!",
-   "game": "R.E.P.O.",
-   "url": "https://www.twitch.tv/kanradeity",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kanradeity-320x180.jpg",
-   "startedAt": "2026-11-12T02:59:05Z",
    "state": "live"
   },
   {
@@ -165,6 +154,17 @@
    "url": "https://www.twitch.tv/maefaech",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
    "startedAt": "2026-11-12T02:00:42Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:316772784115",
+   "platform": "twitch",
+   "member": "kanra-deity",
+   "title": "First time collaboring with the girls!!!",
+   "game": "R.E.P.O.",
+   "url": "https://www.twitch.tv/kanradeity",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kanradeity-320x180.jpg",
+   "startedAt": "2026-11-12T02:59:05Z",
    "state": "live"
   }
  ],
