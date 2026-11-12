@@ -87,8 +87,8 @@
    "title": "【#DistrictV2 - Day9 (Part1)】Something has changed in her.【RioFukai｜深海璃零】",
    "url": "https://www.youtube.com/watch?v=uu5VbcO2S20",
    "thumb": "https://i.ytimg.com/vi/uu5VbcO2S20/mqdefault.jpg",
-   "startedAt": "2026-11-12T01:10:00Z",
-   "state": "upcoming"
+   "startedAt": "2026-11-12T01:17:12Z",
+   "state": "live"
   },
   {
    "id": "yt:d1smDelNLGA",
@@ -101,16 +101,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:JhXJje4URhs",
-   "platform": "youtube",
-   "member": "dokibird",
-   "title": "【ZELDA OCARINA OF TIME】🍌【Dokibird】",
-   "url": "https://www.youtube.com/watch?v=JhXJje4URhs",
-   "thumb": "https://i.ytimg.com/vi/JhXJje4URhs/mqdefault.jpg",
-   "startedAt": "2026-11-12T01:09:38Z",
-   "state": "live"
-  },
-  {
    "id": "yt:oD80qjl8G4Q",
    "platform": "youtube",
    "member": "idna",
@@ -119,6 +109,16 @@
    "thumb": "https://i.ytimg.com/vi/oD80qjl8G4Q/mqdefault.jpg",
    "startedAt": "2026-11-13T13:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:JhXJje4URhs",
+   "platform": "youtube",
+   "member": "dokibird",
+   "title": "【ZELDA OCARINA OF TIME】🍌【Dokibird】",
+   "url": "https://www.youtube.com/watch?v=JhXJje4URhs",
+   "thumb": "https://i.ytimg.com/vi/JhXJje4URhs/mqdefault.jpg",
+   "startedAt": "2026-11-12T01:09:38Z",
+   "state": "live"
   }
  ],
  "twitch": [
@@ -131,6 +131,17 @@
    "url": "https://www.twitch.tv/amalee",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
    "startedAt": "2026-11-11T23:57:57Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:316263680104",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【#DistrictV2 - Day9 (part1)】Something has changed in her.【RioFukai】 !original !cover !social",
+   "game": "Grand Theft Auto V",
+   "url": "https://www.twitch.tv/riofukai",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
+   "startedAt": "2026-11-12T01:17:09Z",
    "state": "live"
   }
  ],
