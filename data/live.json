@@ -63,17 +63,6 @@
  ],
  "twitch": [
   {
-   "id": "tw:318333530595",
-   "platform": "twitch",
-   "member": "rin-penrose",
-   "title": "PIKMIN ✧ !discord !longs !twc",
-   "game": "Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
-   "url": "https://www.twitch.tv/rinpenrose",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rinpenrose-320x180.jpg",
-   "startedAt": "2026-11-13T20:00:03Z",
-   "state": "live"
-  },
-  {
    "id": "tw:319898602711",
    "platform": "twitch",
    "member": "amalee",
@@ -82,6 +71,17 @@
    "url": "https://www.twitch.tv/amalee",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
    "startedAt": "2026-11-13T21:59:41Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:318333530595",
+   "platform": "twitch",
+   "member": "rin-penrose",
+   "title": "PIKMIN ✧ !discord !longs !twc",
+   "game": "Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
+   "url": "https://www.twitch.tv/rinpenrose",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rinpenrose-320x180.jpg",
+   "startedAt": "2026-11-13T20:00:03Z",
    "state": "live"
   }
  ],
