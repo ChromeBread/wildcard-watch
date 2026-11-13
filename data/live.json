@@ -39,6 +39,16 @@
    "thumb": "https://i.ytimg.com/vi/0d5sadrquIs/mqdefault.jpg",
    "startedAt": "2026-11-15T18:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:t2AfKi1ob0Y",
+   "platform": "youtube",
+   "member": "dokibird",
+   "title": "【WILDCARD CLUB HANGOUT】Meet the team!【Dokibird】",
+   "url": "https://www.youtube.com/watch?v=t2AfKi1ob0Y",
+   "thumb": "https://i.ytimg.com/vi/t2AfKi1ob0Y/mqdefault.jpg",
+   "startedAt": "2026-11-14T00:00:00Z",
+   "state": "upcoming"
   }
  ],
  "twitch": [
@@ -54,16 +64,5 @@
    "state": "live"
   }
  ],
- "chzzk": [
-  {
-   "id": "cz:live22188150",
-   "platform": "chzzk",
-   "member": "terri",
-   "title": "니케 메인스 50지 끝까지 달린다ㅏㅏ 😭😭😭😭",
-   "url": "https://chzzk.naver.com/live/0a2020b09b8cc7f2285b7ae5de2ce4d3",
-   "thumb": "https://livecloud-thumb.akamaized.net/chzzk/livecloud/KR/stream/26867808/live/22188150/publish/68851453/thumbnail/image_480.jpg",
-   "startedAt": "2026-11-13T10:00:06Z",
-   "state": "live"
-  }
- ]
+ "chzzk": []
 }
