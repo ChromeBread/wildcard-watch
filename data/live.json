@@ -59,30 +59,8 @@
    "thumb": "https://i.ytimg.com/vi/oD80qjl8G4Q/mqdefault.jpg",
    "startedAt": "2026-11-13T13:00:00Z",
    "state": "upcoming"
-  },
-  {
-   "id": "yt:ggawgmvu__8",
-   "platform": "youtube",
-   "member": "rio-fukai",
-   "title": "【#DistrictV2 - Day10 (part2)】Mask on, mask off.【RioFukai｜深海璃零】",
-   "url": "https://www.youtube.com/watch?v=ggawgmvu__8",
-   "thumb": "https://i.ytimg.com/vi/ggawgmvu__8/mqdefault.jpg",
-   "startedAt": "2026-11-13T02:07:33Z",
-   "state": "live"
   }
  ],
- "twitch": [
-  {
-   "id": "tw:316328938730",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "【#DistrictV2 - Day10】Mask on, mask off.【RioFukai】 !original !cover !social",
-   "game": "Grand Theft Auto V",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-13T02:07:26Z",
-   "state": "live"
-  }
- ],
+ "twitch": [],
  "chzzk": []
 }
