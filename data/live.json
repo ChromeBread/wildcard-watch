@@ -51,14 +51,24 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:ggawgmvu__8",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【#DistrictV2 - Day10 (part2)】Mask on, mask off.【RioFukai｜深海璃零】",
+   "url": "https://www.youtube.com/watch?v=ggawgmvu__8",
+   "thumb": "https://i.ytimg.com/vi/ggawgmvu__8/mqdefault.jpg",
+   "startedAt": "2026-11-13T02:07:33Z",
+   "state": "live"
+  },
+  {
    "id": "yt:iHAA2OriL8o",
    "platform": "youtube",
    "member": "kirispica",
    "title": "【LIMBO】 OKAY I WILL USE A CONTROLLER FOR THE FIRST TIME!!! (featuring Spica in Black & White)",
    "url": "https://www.youtube.com/watch?v=iHAA2OriL8o",
    "thumb": "https://i.ytimg.com/vi/iHAA2OriL8o/mqdefault.jpg",
-   "startedAt": "2026-11-13T02:00:00Z",
-   "state": "upcoming"
+   "startedAt": "2026-11-13T02:04:26Z",
+   "state": "live"
   },
   {
    "id": "yt:oD80qjl8G4Q",
@@ -78,16 +88,6 @@
    "url": "https://www.youtube.com/watch?v=coGg1BzNDVo",
    "thumb": "https://i.ytimg.com/vi/coGg1BzNDVo/mqdefault.jpg",
    "startedAt": "2026-11-13T01:00:44Z",
-   "state": "live"
-  },
-  {
-   "id": "yt:B9WECQpqUvs",
-   "platform": "youtube",
-   "member": "rio-fukai",
-   "title": "【#DistrictV2 - Day10】Mask on, mask off.【RioFukai｜深海璃零】",
-   "url": "https://www.youtube.com/watch?v=B9WECQpqUvs",
-   "thumb": "https://i.ytimg.com/vi/B9WECQpqUvs/mqdefault.jpg",
-   "startedAt": "2026-11-13T00:10:16Z",
    "state": "live"
   }
  ],
@@ -112,6 +112,28 @@
    "url": "https://www.twitch.tv/maefaech",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
    "startedAt": "2026-11-13T01:00:47Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:316299169513",
+   "platform": "twitch",
+   "member": "kirispica",
+   "title": "OKAY I WILL USE A CONTROLLER FOR THE FIRST TIME!!! (featuring Spica in Black & White)",
+   "game": "Limbo",
+   "url": "https://www.twitch.tv/kirispica",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kirispica-320x180.jpg",
+   "startedAt": "2026-11-13T02:04:17Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:316328938730",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【#DistrictV2 - Day10】Mask on, mask off.【RioFukai】 !original !cover !social",
+   "game": "Grand Theft Auto V",
+   "url": "https://www.twitch.tv/riofukai",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
+   "startedAt": "2026-11-13T02:07:26Z",
    "state": "live"
   }
  ],
