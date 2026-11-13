@@ -1,16 +1,6 @@
 {
  "youtube": [
   {
-   "id": "yt:-xTPeuMYASg",
-   "platform": "youtube",
-   "member": "alpha-betta",
-   "title": "Singing Tuuuuuuunes🎤🐟【KARAOKE】#karaoke #歌枠",
-   "url": "https://www.youtube.com/watch?v=-xTPeuMYASg",
-   "thumb": "https://i.ytimg.com/vi/-xTPeuMYASg/mqdefault.jpg",
-   "startedAt": "2026-11-13T12:03:25Z",
-   "state": "live"
-  },
-  {
    "id": "yt:C3V0oySJ88A",
    "platform": "youtube",
    "member": "alpha-betta",
@@ -59,6 +49,16 @@
    "thumb": "https://i.ytimg.com/vi/oD80qjl8G4Q/mqdefault.jpg",
    "startedAt": "2026-11-13T13:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:-xTPeuMYASg",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "Singing Tuuuuuuunes🎤🐟【KARAOKE】#karaoke #歌枠",
+   "url": "https://www.youtube.com/watch?v=-xTPeuMYASg",
+   "thumb": "https://i.ytimg.com/vi/-xTPeuMYASg/mqdefault.jpg",
+   "startedAt": "2026-11-13T12:03:25Z",
+   "state": "live"
   }
  ],
  "twitch": [
