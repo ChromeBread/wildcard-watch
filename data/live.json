@@ -21,6 +21,16 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:coGg1BzNDVo",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "THE KANGAROO IS FINALLY HERE. LET'S PLAY ROGER JR.!【TEKKEN 8】",
+   "url": "https://www.youtube.com/watch?v=coGg1BzNDVo",
+   "thumb": "https://i.ytimg.com/vi/coGg1BzNDVo/mqdefault.jpg",
+   "startedAt": "2026-11-13T01:00:42Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:qDQ-Sbs16dc",
    "platform": "youtube",
    "member": "maefae",
@@ -48,16 +58,6 @@
    "url": "https://www.youtube.com/watch?v=0d5sadrquIs",
    "thumb": "https://i.ytimg.com/vi/0d5sadrquIs/mqdefault.jpg",
    "startedAt": "2026-11-14T01:00:00Z",
-   "state": "upcoming"
-  },
-  {
-   "id": "yt:coGg1BzNDVo",
-   "platform": "youtube",
-   "member": "maefae",
-   "title": "THE KANGAROO IS FINALLY HERE. LET'S PLAY ROGER JR.!【TEKKEN 8】",
-   "url": "https://www.youtube.com/watch?v=coGg1BzNDVo",
-   "thumb": "https://i.ytimg.com/vi/coGg1BzNDVo/mqdefault.jpg",
-   "startedAt": "2026-11-13T01:00:00Z",
    "state": "upcoming"
   },
   {

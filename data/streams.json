@@ -1,6 +1,16 @@
 {
  "streams": [
   {
+   "id": "tw:321335115232",
+   "platform": "twitch",
+   "member": "maefae",
+   "title": "THE KANGAROO IS FINALLY HERE. LET'S PLAY ROGER JR.!【TEKKEN 8】",
+   "url": "https://www.twitch.tv/videos/2927215946",
+   "thumb": "https://vod-secure.twitch.tv/_404/404_processing_320x180.png",
+   "startedAt": "2026-11-13T01:00:56Z",
+   "endedAt": "2026-11-13T01:00:56Z"
+  },
+  {
    "id": "tw:316328593258",
    "platform": "twitch",
    "member": "rio-fukai",
