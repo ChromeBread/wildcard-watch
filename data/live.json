@@ -51,6 +51,16 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:oD80qjl8G4Q",
+   "platform": "youtube",
+   "member": "idna",
+   "title": "[ STUDY STREAM ] Studying Korean with Duolingo for Terri!!",
+   "url": "https://www.youtube.com/watch?v=oD80qjl8G4Q",
+   "thumb": "https://i.ytimg.com/vi/oD80qjl8G4Q/mqdefault.jpg",
+   "startedAt": "2026-11-13T13:00:00Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:ggawgmvu__8",
    "platform": "youtube",
    "member": "rio-fukai",
@@ -69,16 +79,6 @@
    "thumb": "https://i.ytimg.com/vi/iHAA2OriL8o/mqdefault.jpg",
    "startedAt": "2026-11-13T02:04:26Z",
    "state": "live"
-  },
-  {
-   "id": "yt:oD80qjl8G4Q",
-   "platform": "youtube",
-   "member": "idna",
-   "title": "[ STUDY STREAM ] Studying Korean with Duolingo for Terri!!",
-   "url": "https://www.youtube.com/watch?v=oD80qjl8G4Q",
-   "thumb": "https://i.ytimg.com/vi/oD80qjl8G4Q/mqdefault.jpg",
-   "startedAt": "2026-11-13T13:00:00Z",
-   "state": "upcoming"
   },
   {
    "id": "yt:coGg1BzNDVo",
