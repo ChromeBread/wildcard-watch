@@ -51,6 +51,18 @@
    "state": "upcoming"
   }
  ],
- "twitch": [],
+ "twitch": [
+  {
+   "id": "tw:318333530595",
+   "platform": "twitch",
+   "member": "rin-penrose",
+   "title": "PIKMIN ✧ !discord !longs !twc",
+   "game": "Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
+   "url": "https://www.twitch.tv/rinpenrose",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rinpenrose-320x180.jpg",
+   "startedAt": "2026-11-13T20:00:03Z",
+   "state": "live"
+  }
+ ],
  "chzzk": []
 }
