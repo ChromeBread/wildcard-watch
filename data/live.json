@@ -27,8 +27,8 @@
    "title": "THE KANGAROO IS FINALLY HERE. LET'S PLAY ROGER JR.!【TEKKEN 8】",
    "url": "https://www.youtube.com/watch?v=coGg1BzNDVo",
    "thumb": "https://i.ytimg.com/vi/coGg1BzNDVo/mqdefault.jpg",
-   "startedAt": "2026-11-13T01:00:42Z",
-   "state": "upcoming"
+   "startedAt": "2026-11-13T01:00:44Z",
+   "state": "live"
   },
   {
    "id": "yt:qDQ-Sbs16dc",
@@ -112,6 +112,17 @@
    "url": "https://www.twitch.tv/riofukai",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
    "startedAt": "2026-11-13T00:10:18Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:321335115232",
+   "platform": "twitch",
+   "member": "maefae",
+   "title": "THE KANGAROO IS FINALLY HERE. LET'S PLAY ROGER JR.!【TEKKEN 8】",
+   "game": "TEKKEN 8",
+   "url": "https://www.twitch.tv/maefaech",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
+   "startedAt": "2026-11-13T01:00:47Z",
    "state": "live"
   }
  ],
