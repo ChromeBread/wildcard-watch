@@ -1,6 +1,15 @@
 {
  "streams": [
   {
+   "id": "yt:55Q5ud8L8GY",
+   "platform": "youtube",
+   "member": "tsunamicat",
+   "title": "[LIVE] THE WILDCARD CLUB - JUST CHATTING WITH DOKIBIRD, MONII, AND KIRISPICA",
+   "url": "https://www.youtube.com/watch?v=55Q5ud8L8GY",
+   "thumb": "https://i.ytimg.com/vi/55Q5ud8L8GY/mqdefault.jpg",
+   "startedAt": "2026-11-14T00:43:38Z"
+  },
+  {
    "id": "yt:fEVYB4suSeI",
    "platform": "youtube",
    "member": "rio-fukai",
