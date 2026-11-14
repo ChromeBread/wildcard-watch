@@ -74,17 +74,6 @@
    "state": "live"
   },
   {
-   "id": "tw:316333527018",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "【#DistrictV2 - Day11】I don't care what it takes.【RioFukai】 !original !cover !social",
-   "game": "Grand Theft Auto V",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-14T00:40:14Z",
-   "state": "live"
-  },
-  {
    "id": "tw:321355393632",
    "platform": "twitch",
    "member": "maefae",
@@ -93,6 +82,17 @@
    "url": "https://www.twitch.tv/maefaech",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
    "startedAt": "2026-11-14T01:01:04Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:316333527018",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【#DistrictV2 - Day11】I don't care what it takes.【RioFukai】 !original !cover !social",
+   "game": "Grand Theft Auto V",
+   "url": "https://www.twitch.tv/riofukai",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
+   "startedAt": "2026-11-14T00:40:14Z",
    "state": "live"
   }
  ],
