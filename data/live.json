@@ -1,6 +1,16 @@
 {
  "youtube": [
   {
+   "id": "yt:Y4q7FbZxFWE",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "Goron City and Beyond!【The Legend of Zelda: Ocarina of Time】",
+   "url": "https://www.youtube.com/watch?v=Y4q7FbZxFWE",
+   "thumb": "https://i.ytimg.com/vi/Y4q7FbZxFWE/mqdefault.jpg",
+   "startedAt": "2026-11-14T12:15:00Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:C3V0oySJ88A",
    "platform": "youtube",
    "member": "alpha-betta",
