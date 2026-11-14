@@ -11,6 +11,16 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:XAR4v05ahzo",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "I've NEVER Played Zelda Before. Is This The Best Place to Start?!【ZELDA: OCARINA OF TIME】",
+   "url": "https://www.youtube.com/watch?v=XAR4v05ahzo",
+   "thumb": "https://i.ytimg.com/vi/XAR4v05ahzo/mqdefault.jpg",
+   "startedAt": "2026-11-14T01:01:00Z",
+   "state": "live"
+  },
+  {
    "id": "yt:qDQ-Sbs16dc",
    "platform": "youtube",
    "member": "maefae",
@@ -18,16 +28,6 @@
    "url": "https://www.youtube.com/watch?v=qDQ-Sbs16dc",
    "thumb": "https://i.ytimg.com/vi/qDQ-Sbs16dc/mqdefault.jpg",
    "startedAt": "2026-11-14T18:00:00Z",
-   "state": "upcoming"
-  },
-  {
-   "id": "yt:XAR4v05ahzo",
-   "platform": "youtube",
-   "member": "maefae",
-   "title": "I've NEVER Played Zelda Before. Is This The Best Place to Start?!【ZELDA: OCARINA OF TIME】",
-   "url": "https://www.youtube.com/watch?v=XAR4v05ahzo",
-   "thumb": "https://i.ytimg.com/vi/XAR4v05ahzo/mqdefault.jpg",
-   "startedAt": "2026-11-14T01:00:00Z",
    "state": "upcoming"
   },
   {
@@ -113,6 +113,17 @@
    "url": "https://www.twitch.tv/riofukai",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
    "startedAt": "2026-11-14T00:40:14Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:321355393632",
+   "platform": "twitch",
+   "member": "maefae",
+   "title": "I've NEVER Played Zelda Before. Is This The Best Place to Start?!【ZELDA: OCARINA OF TIME】",
+   "game": "The Legend of Zelda: Ocarina of Time",
+   "url": "https://www.twitch.tv/maefaech",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
+   "startedAt": "2026-11-14T01:01:04Z",
    "state": "live"
   }
  ],
