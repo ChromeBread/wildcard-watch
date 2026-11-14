@@ -1,6 +1,25 @@
 {
  "streams": [
   {
+   "id": "tw:321367989472",
+   "platform": "twitch",
+   "member": "maefae",
+   "title": "I'm Invested in My FIRST Zelda Adventure!【ZELDA: OCARINA OF TIME】",
+   "game": "The Legend of Zelda: Ocarina of Time",
+   "url": "https://www.twitch.tv/maefaech",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
+   "startedAt": "2026-11-14T18:01:03Z"
+  },
+  {
+   "id": "yt:qDQ-Sbs16dc",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "I'm Invested in My FIRST Zelda Adventure!【ZELDA: OCARINA OF TIME】",
+   "url": "https://www.youtube.com/watch?v=qDQ-Sbs16dc",
+   "thumb": "https://i.ytimg.com/vi/qDQ-Sbs16dc/mqdefault.jpg",
+   "startedAt": "2026-11-14T18:00:56Z"
+  },
+  {
    "id": "tw:318347408484",
    "platform": "twitch",
    "member": "rin-penrose",
