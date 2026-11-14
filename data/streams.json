@@ -1,6 +1,44 @@
 {
  "streams": [
   {
+   "id": "yt:fEVYB4suSeI",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【#DistrictV2 - Day11】I don't care what it takes.【RioFukai｜深海璃零】",
+   "url": "https://www.youtube.com/watch?v=fEVYB4suSeI",
+   "thumb": "https://i.ytimg.com/vi/fEVYB4suSeI/mqdefault.jpg",
+   "startedAt": "2026-11-14T00:40:22Z"
+  },
+  {
+   "id": "tw:316333527018",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【#DistrictV2 - Day11】I don't care what it takes.【RioFukai】 !original !cover !social",
+   "game": "Grand Theft Auto V",
+   "url": "https://www.twitch.tv/riofukai",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
+   "startedAt": "2026-11-14T00:40:14Z"
+  },
+  {
+   "id": "tw:319900109271",
+   "platform": "twitch",
+   "member": "tsunamicat",
+   "title": "🌊 HANGING WITH THE WILDCARD CLUB @dokibird @moniibagel @kirispica 🌊 !wildcardclub !newsong",
+   "game": "Just Chatting",
+   "url": "https://www.twitch.tv/tsunamicat",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsunamicat-320x180.jpg",
+   "startedAt": "2026-11-14T00:38:56Z"
+  },
+  {
+   "id": "yt:t2AfKi1ob0Y",
+   "platform": "youtube",
+   "member": "dokibird",
+   "title": "【WILDCARD CLUB HANGOUT】Meet Team Dokibird!【Dokibird】",
+   "url": "https://www.youtube.com/watch?v=t2AfKi1ob0Y",
+   "thumb": "https://i.ytimg.com/vi/t2AfKi1ob0Y/mqdefault.jpg",
+   "startedAt": "2026-11-14T00:37:38Z"
+  },
+  {
    "id": "tw:319898602711",
    "platform": "twitch",
    "member": "amalee",
