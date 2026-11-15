@@ -11,16 +11,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:V-VPKaDaGME",
-   "platform": "youtube",
-   "member": "kirispica",
-   "title": "【Singing & Piano】 Hi! I'm Spica! Request a song!",
-   "url": "https://www.youtube.com/watch?v=V-VPKaDaGME",
-   "thumb": "https://i.ytimg.com/vi/V-VPKaDaGME/mqdefault.jpg",
-   "startedAt": "2026-11-15T04:18:36Z",
-   "state": "live"
-  },
-  {
    "id": "yt:tjhLOBDhYqo",
    "platform": "youtube",
    "member": "kirispica",
@@ -29,6 +19,16 @@
    "thumb": "https://i.ytimg.com/vi/tjhLOBDhYqo/mqdefault.jpg",
    "startedAt": "2026-11-16T02:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:V-VPKaDaGME",
+   "platform": "youtube",
+   "member": "kirispica",
+   "title": "【Singing & Piano】 Hi! I'm Spica! Request a song!",
+   "url": "https://www.youtube.com/watch?v=V-VPKaDaGME",
+   "thumb": "https://i.ytimg.com/vi/V-VPKaDaGME/mqdefault.jpg",
+   "startedAt": "2026-11-15T04:18:36Z",
+   "state": "live"
   },
   {
    "id": "yt:eWU4wG6iGDU",
@@ -75,17 +75,6 @@
    "state": "live"
   },
   {
-   "id": "tw:316310726889",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "【#DistrictV2 - Day12 (Finale)】Filming some nice scenes before the end!【RioFukai】 !original !cover !social",
-   "game": "Grand Theft Auto V",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-15T03:51:50Z",
-   "state": "live"
-  },
-  {
    "id": "tw:316282002920",
    "platform": "twitch",
    "member": "kirispica",
@@ -94,6 +83,17 @@
    "url": "https://www.twitch.tv/kirispica",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kirispica-320x180.jpg",
    "startedAt": "2026-11-15T04:18:26Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:316310726889",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【#DistrictV2 - Day12 (Finale)】Filming some nice scenes before the end!【RioFukai】 !original !cover !social",
+   "game": "Grand Theft Auto V",
+   "url": "https://www.twitch.tv/riofukai",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
+   "startedAt": "2026-11-15T03:51:50Z",
    "state": "live"
   }
  ],
