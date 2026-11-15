@@ -1,6 +1,26 @@
 {
  "youtube": [
   {
+   "id": "yt:jRPXcrlhBqc",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "What Should I Sing Next?💙【KARAOKE】 #karaoke #歌枠",
+   "url": "https://www.youtube.com/watch?v=jRPXcrlhBqc",
+   "thumb": "https://i.ytimg.com/vi/jRPXcrlhBqc/mqdefault.jpg",
+   "startedAt": "2026-11-22T02:00:00Z",
+   "state": "upcoming"
+  },
+  {
+   "id": "yt:PKleML42uCA",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "One More Song...🎤🐟【KARAOKE】#karaoke #歌枠",
+   "url": "https://www.youtube.com/watch?v=PKleML42uCA",
+   "thumb": "https://i.ytimg.com/vi/PKleML42uCA/mqdefault.jpg",
+   "startedAt": "2026-11-20T12:00:00Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:0d5sadrquIs",
    "platform": "youtube",
    "member": "maefae",
