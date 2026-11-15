@@ -1,14 +1,24 @@
 {
  "streams": [
   {
-   "id": "tw:321103281758",
+   "id": "tw:321103476062",
    "platform": "twitch",
    "member": "maefae",
    "title": "Did I Play the WRONG Melty Blood Game This Whole Time?【MELTY BLOOD: ACTRESS AGAIN: CURRENT CODE】",
    "game": "Melty Blood Actress Again Current Code",
    "url": "https://www.twitch.tv/maefaech",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
-   "startedAt": "2026-11-15T18:00:20Z"
+   "startedAt": "2026-11-15T18:17:02Z"
+  },
+  {
+   "id": "tw:321103281758",
+   "platform": "twitch",
+   "member": "maefae",
+   "title": "Did I Play the WRONG Melty Blood Game This Whole Time?【MELTY BLOOD: ACTRESS AGAIN: CURRENT CODE】",
+   "url": "https://www.twitch.tv/videos/2929798924",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d2vi6trrdongqn/5ee85635e0de3c6a834f_maefaech_321103281758_1794765620//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-15T18:00:30Z",
+   "endedAt": "2026-11-15T18:13:45Z"
   },
   {
    "id": "yt:0d5sadrquIs",
