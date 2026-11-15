@@ -1,6 +1,35 @@
 {
  "streams": [
   {
+   "id": "yt:C3V0oySJ88A",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "A Fish Sings Your Requests💙【KARAOKE】 #karaoke #歌枠",
+   "url": "https://www.youtube.com/watch?v=C3V0oySJ88A",
+   "thumb": "https://i.ytimg.com/vi/C3V0oySJ88A/mqdefault.jpg",
+   "startedAt": "2026-11-15T02:07:32Z"
+  },
+  {
+   "id": "tw:316787177203",
+   "platform": "twitch",
+   "member": "alpha-betta",
+   "title": "karaoke! singing! !s - !cover !music !555 !dono !throne !secret",
+   "game": "Music",
+   "url": "https://www.twitch.tv/alphabettavt",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alphabettavt-320x180.jpg",
+   "startedAt": "2026-11-15T02:07:10Z"
+  },
+  {
+   "id": "tw:321378579168",
+   "platform": "twitch",
+   "member": "ironmouse",
+   "title": "BEST VTUBER 2026. WOMAN. LATINA. PLASMA HOARDER | !ironmart !glamb !youtooz !omocat !fox !cheeky !ht !starforge !tts !merch !razer",
+   "game": "Just Chatting",
+   "url": "https://www.twitch.tv/ironmouse",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg",
+   "startedAt": "2026-11-15T02:04:57Z"
+  },
+  {
    "id": "tw:318622438616",
    "platform": "twitch",
    "member": "ironmouse",
