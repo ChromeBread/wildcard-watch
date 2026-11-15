@@ -1,6 +1,16 @@
 {
  "youtube": [
   {
+   "id": "yt:cq9N7DkmY0w",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "HMM WHERE WILL WE BE ON SATURDAY【The Legend of Zelda: Ocarina of Time】",
+   "url": "https://www.youtube.com/watch?v=cq9N7DkmY0w",
+   "thumb": "https://i.ytimg.com/vi/cq9N7DkmY0w/mqdefault.jpg",
+   "startedAt": "2026-11-21T12:00:00Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:jRPXcrlhBqc",
    "platform": "youtube",
    "member": "alpha-betta",
