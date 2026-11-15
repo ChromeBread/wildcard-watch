@@ -40,23 +40,24 @@
    "endedAt": "2026-11-15T01:59:39Z"
   },
   {
+   "id": "tw:321092447198",
+   "platform": "twitch",
+   "member": "monii",
+   "title": "Chat and game :D Low energy & chill / !EP !bagel",
+   "url": "https://www.twitch.tv/videos/2929083410",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d2vi6trrdongqn/1dee0e7222c62c844f8b_moniibagel_321092447198_1794699034//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-14T23:30:39Z",
+   "endedAt": "2026-11-15T02:12:23Z"
+  },
+  {
    "id": "yt:DET9f6dkNDs",
    "platform": "youtube",
    "member": "monii",
    "title": "Chat and game :D Low energy & chill / !EP !bagel",
    "url": "https://www.youtube.com/watch?v=DET9f6dkNDs",
    "thumb": "https://i.ytimg.com/vi/DET9f6dkNDs/mqdefault.jpg",
-   "startedAt": "2026-11-14T23:30:38Z"
-  },
-  {
-   "id": "tw:321092447198",
-   "platform": "twitch",
-   "member": "monii",
-   "title": "Chat and game :D Low energy & chill / !EP !bagel",
-   "game": "League of Legends",
-   "url": "https://www.twitch.tv/moniibagel",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_moniibagel-320x180.jpg",
-   "startedAt": "2026-11-14T23:30:34Z"
+   "startedAt": "2026-11-14T23:30:38Z",
+   "endedAt": "2026-11-15T02:12:30Z"
   },
   {
    "id": "tw:317884594167",
