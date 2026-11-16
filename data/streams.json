@@ -1,6 +1,16 @@
 {
  "streams": [
   {
+   "id": "tw:318368454244",
+   "platform": "twitch",
+   "member": "rin-penrose",
+   "title": "HAPPY RINDEPENDENCE DAY ✧ !discord !longs !twc",
+   "game": "Just Chatting",
+   "url": "https://www.twitch.tv/rinpenrose",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rinpenrose-320x180.jpg",
+   "startedAt": "2026-11-16T18:59:50Z"
+  },
+  {
    "id": "yt:Yz-CVnIBVJQ",
    "platform": "youtube",
    "member": "alpha-betta",
@@ -2368,6 +2378,7 @@
   "3CtkJClqlnE",
   "3Ri1m0Kjb_Y",
   "4WSm9YfktII",
+  "4ymy5JzRpLI",
   "510cOLbBNcY",
   "54t97ZCGp-8",
   "5WqGg14IktQ",
