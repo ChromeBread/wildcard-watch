@@ -1,16 +1,6 @@
 {
  "youtube": [
   {
-   "id": "yt:nt9o5IsWjw8",
-   "platform": "youtube",
-   "member": "alpha-betta",
-   "title": "Temple Two HERE WE GO! Guerilla probably🐟【The Legend of Zelda: Ocarina of Time】",
-   "url": "https://www.youtube.com/watch?v=nt9o5IsWjw8",
-   "thumb": "https://i.ytimg.com/vi/nt9o5IsWjw8/mqdefault.jpg",
-   "startedAt": "2026-11-17T12:01:28Z",
-   "state": "live"
-  },
-  {
    "id": "yt:TY1woxuKhBs",
    "platform": "youtube",
    "member": "alpha-betta",
@@ -101,16 +91,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:9bNFacnfMcg",
-   "platform": "youtube",
-   "member": "rio-fukai",
-   "title": "【Karaoke歌枠】2 weeks no karaoke? HAIYAAA【RioFukai｜深海璃零】",
-   "url": "https://www.youtube.com/watch?v=9bNFacnfMcg",
-   "thumb": "https://i.ytimg.com/vi/9bNFacnfMcg/mqdefault.jpg",
-   "startedAt": "2026-11-17T12:04:10Z",
-   "state": "live"
-  },
-  {
    "id": "yt:jJUMcfIRWIQ",
    "platform": "youtube",
    "member": "phoebe",
@@ -169,6 +149,26 @@
    "thumb": "https://i.ytimg.com/vi/obJw7bVi4NA/mqdefault.jpg",
    "startedAt": "2026-11-17T15:30:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:9bNFacnfMcg",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【Karaoke歌枠】2 weeks no karaoke? HAIYAAA【RioFukai｜深海璃零】",
+   "url": "https://www.youtube.com/watch?v=9bNFacnfMcg",
+   "thumb": "https://i.ytimg.com/vi/9bNFacnfMcg/mqdefault.jpg",
+   "startedAt": "2026-11-17T12:04:10Z",
+   "state": "live"
+  },
+  {
+   "id": "yt:nt9o5IsWjw8",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "Temple Two HERE WE GO! Guerilla probably🐟【The Legend of Zelda: Ocarina of Time】",
+   "url": "https://www.youtube.com/watch?v=nt9o5IsWjw8",
+   "thumb": "https://i.ytimg.com/vi/nt9o5IsWjw8/mqdefault.jpg",
+   "startedAt": "2026-11-17T12:01:28Z",
+   "state": "live"
   }
  ],
  "twitch": [
