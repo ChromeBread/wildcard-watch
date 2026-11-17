@@ -1,6 +1,16 @@
 {
  "streams": [
   {
+   "id": "tw:317901617527",
+   "platform": "twitch",
+   "member": "amalee",
+   "title": "🦋⚠️CPU OVERHEATING⚠️ Playing WOW for the first time ever! | LAST DAY TO GET MY MERCH (!merch CODE \"AMALEE\" 10% OFF) | !cons !cover !va",
+   "game": "World of Warcraft",
+   "url": "https://www.twitch.tv/amalee",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
+   "startedAt": "2026-11-17T02:14:46Z"
+  },
+  {
    "id": "tw:318368454244",
    "platform": "twitch",
    "member": "rin-penrose",
