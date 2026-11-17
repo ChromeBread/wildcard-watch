@@ -30,23 +30,24 @@
    "startedAt": "2026-11-17T12:21:33Z"
   },
   {
+   "id": "tw:316323669609",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【Karaoke歌枠】2 weeks no karaoke? HAIYAAA【RioFukai】 !original !cover !social",
+   "url": "https://www.twitch.tv/videos/2931332573",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/9af26661c2d18ed4e2c4_riofukai_316323669609_1794917045//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-17T12:04:12Z",
+   "endedAt": "2026-11-17T15:22:17Z"
+  },
+  {
    "id": "yt:9bNFacnfMcg",
    "platform": "youtube",
    "member": "rio-fukai",
    "title": "【Karaoke歌枠】2 weeks no karaoke? HAIYAAA【RioFukai｜深海璃零】",
    "url": "https://www.youtube.com/watch?v=9bNFacnfMcg",
    "thumb": "https://i.ytimg.com/vi/9bNFacnfMcg/mqdefault.jpg",
-   "startedAt": "2026-11-17T12:04:10Z"
-  },
-  {
-   "id": "tw:316323669609",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "【Karaoke歌枠】2 weeks no karaoke? HAIYAAA【RioFukai】 !original !cover !social",
-   "game": "Music",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-17T12:04:05Z"
+   "startedAt": "2026-11-17T12:04:10Z",
+   "endedAt": "2026-11-17T15:22:20Z"
   },
   {
    "id": "yt:nt9o5IsWjw8",
