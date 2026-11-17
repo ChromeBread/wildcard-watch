@@ -129,20 +129,18 @@
    "thumb": "https://i.ytimg.com/vi/2CBESbFid7A/mqdefault.jpg",
    "startedAt": "2026-11-17T22:00:00Z",
    "state": "upcoming"
-  }
- ],
- "twitch": [
+  },
   {
-   "id": "tw:317901617527",
-   "platform": "twitch",
-   "member": "amalee",
-   "title": "🦋⚠️CPU OVERHEATING⚠️ Playing WOW for the first time ever! | LAST DAY TO GET MY MERCH (!merch CODE \"AMALEE\" 10% OFF) | !cons !cover !va",
-   "game": "World of Warcraft",
-   "url": "https://www.twitch.tv/amalee",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
-   "startedAt": "2026-11-17T02:14:46Z",
-   "state": "live"
+   "id": "yt:obJw7bVi4NA",
+   "platform": "youtube",
+   "member": "rachie",
+   "title": "rachie nation cannot stop winning...",
+   "url": "https://www.youtube.com/watch?v=obJw7bVi4NA",
+   "thumb": "https://i.ytimg.com/vi/obJw7bVi4NA/mqdefault.jpg",
+   "startedAt": "2026-11-17T15:30:00Z",
+   "state": "upcoming"
   }
  ],
+ "twitch": [],
  "chzzk": []
 }
