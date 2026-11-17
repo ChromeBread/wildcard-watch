@@ -1,6 +1,16 @@
 {
  "streams": [
   {
+   "id": "tw:318317033442",
+   "platform": "twitch",
+   "member": "rin-penrose",
+   "title": "Calm cozy sorting game where nothing goes wrong ✧ !discord !longs !twc",
+   "game": "Dice Hoarder",
+   "url": "https://www.twitch.tv/rinpenrose",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rinpenrose-320x180.jpg",
+   "startedAt": "2026-11-17T19:00:04Z"
+  },
+  {
    "id": "tw:318315561826",
    "platform": "twitch",
    "member": "eerie",
@@ -2585,6 +2595,7 @@
   "vsaroJsBOPQ",
   "w5DzWQk2lnc",
   "w5jDfExZhZ8",
+  "wZQ2HC2ObM4",
   "xv8n5O_EgoI"
  ]
 }
