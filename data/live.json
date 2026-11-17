@@ -101,6 +101,16 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:26-EaH74ors",
+   "platform": "youtube",
+   "member": "monii",
+   "title": "【KARAOKE】Cozy Singing ~",
+   "url": "https://www.youtube.com/watch?v=26-EaH74ors",
+   "thumb": "https://i.ytimg.com/vi/26-EaH74ors/mqdefault.jpg",
+   "startedAt": "2026-11-17T20:45:40Z",
+   "state": "live"
+  },
+  {
    "id": "yt:VapVHAip0iY",
    "platform": "youtube",
    "member": "idna",
@@ -182,6 +192,17 @@
    "url": "https://www.twitch.tv/eerie",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eerie-320x180.jpg",
    "startedAt": "2026-11-17T16:23:28Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:321196981980",
+   "platform": "twitch",
+   "member": "monii",
+   "title": "Cozy Karaoke ~ / !EP !bagel",
+   "game": "Music",
+   "url": "https://www.twitch.tv/moniibagel",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_moniibagel-320x180.jpg",
+   "startedAt": "2026-11-17T20:45:35Z",
    "state": "live"
   }
  ],
