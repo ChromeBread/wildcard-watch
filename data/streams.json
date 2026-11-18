@@ -1,6 +1,16 @@
 {
  "streams": [
   {
+   "id": "cz:16246567",
+   "platform": "chzzk",
+   "member": "terri",
+   "title": "제가 한국어 선생님이라구요?🤔(w.IDN/A, Eerie)",
+   "url": "https://chzzk.naver.com/video/16246567",
+   "thumb": "https://video-phinf.pstatic.net/20261118_249/1795013564085qqGzT_JPEG/IV5Rfi2l4X_03.jpg",
+   "startedAt": "2026-11-18T12:09:28Z",
+   "endedAt": "2026-11-18T14:54:36Z"
+  },
+  {
    "id": "tw:318322999394",
    "platform": "twitch",
    "member": "eerie",
@@ -17,17 +27,18 @@
    "title": "[ COLLAB ] Korean Class in Session with Terri & Eerie",
    "url": "https://www.youtube.com/watch?v=VapVHAip0iY",
    "thumb": "https://i.ytimg.com/vi/VapVHAip0iY/mqdefault.jpg",
-   "startedAt": "2026-11-18T12:04:02Z"
+   "startedAt": "2026-11-18T12:04:02Z",
+   "endedAt": "2026-11-18T14:50:41Z"
   },
   {
    "id": "tw:319448592614",
    "platform": "twitch",
    "member": "idna",
    "title": "[Collab] Korean Class in Session with Terri & Eerie",
-   "game": "Just Chatting",
-   "url": "https://www.twitch.tv/whoisidna",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whoisidna-320x180.jpg",
-   "startedAt": "2026-11-18T12:03:53Z"
+   "url": "https://www.twitch.tv/videos/2932269973",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/76fd7836dca0113ff8b6_whoisidna_319448592614_1795003433//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-18T12:03:58Z",
+   "endedAt": "2026-11-18T14:50:31Z"
   },
   {
    "id": "yt:nrwFSBgZjKI",
