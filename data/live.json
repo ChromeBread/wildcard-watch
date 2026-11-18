@@ -1,6 +1,16 @@
 {
  "youtube": [
   {
+   "id": "yt:GfrNbPdtzvg",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "We Gotta Get Into TEMPLE FOUR!👻【The Legend of Zelda: Ocarina of Time】",
+   "url": "https://www.youtube.com/watch?v=GfrNbPdtzvg",
+   "thumb": "https://i.ytimg.com/vi/GfrNbPdtzvg/mqdefault.jpg",
+   "startedAt": "2026-11-19T12:00:00Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:cq9N7DkmY0w",
    "platform": "youtube",
    "member": "alpha-betta",
