@@ -1,16 +1,6 @@
 {
  "youtube": [
   {
-   "id": "yt:TY1woxuKhBs",
-   "platform": "youtube",
-   "member": "alpha-betta",
-   "title": "YAPPING... and BREAKING THINGS?! @LeeandLie @RioFukai_ @MaeFaeCh @KanraDeity",
-   "url": "https://www.youtube.com/watch?v=TY1woxuKhBs",
-   "thumb": "https://i.ytimg.com/vi/TY1woxuKhBs/mqdefault.jpg",
-   "startedAt": "2026-11-18T03:00:51Z",
-   "state": "live"
-  },
-  {
    "id": "yt:nrwFSBgZjKI",
    "platform": "youtube",
    "member": "alpha-betta",
@@ -91,16 +81,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:Ojuj5A_mHVQ",
-   "platform": "youtube",
-   "member": "rio-fukai",
-   "title": "TEAM AMALEE COLLAB 2.0!! NO SCUFF!!【GAME + ZATSU】",
-   "url": "https://www.youtube.com/watch?v=Ojuj5A_mHVQ",
-   "thumb": "https://i.ytimg.com/vi/Ojuj5A_mHVQ/mqdefault.jpg",
-   "startedAt": "2026-11-18T03:01:36Z",
-   "state": "live"
-  },
-  {
    "id": "yt:VapVHAip0iY",
    "platform": "youtube",
    "member": "idna",
@@ -151,6 +131,26 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:Ojuj5A_mHVQ",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "TEAM AMALEE COLLAB 2.0!! NO SCUFF!!【GAME + ZATSU】",
+   "url": "https://www.youtube.com/watch?v=Ojuj5A_mHVQ",
+   "thumb": "https://i.ytimg.com/vi/Ojuj5A_mHVQ/mqdefault.jpg",
+   "startedAt": "2026-11-18T03:01:36Z",
+   "state": "live"
+  },
+  {
+   "id": "yt:TY1woxuKhBs",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "YAPPING... and BREAKING THINGS?! @LeeandLie @RioFukai_ @MaeFaeCh @KanraDeity",
+   "url": "https://www.youtube.com/watch?v=TY1woxuKhBs",
+   "thumb": "https://i.ytimg.com/vi/TY1woxuKhBs/mqdefault.jpg",
+   "startedAt": "2026-11-18T03:00:51Z",
+   "state": "live"
+  },
+  {
    "id": "yt:clvBTNEFLPo",
    "platform": "youtube",
    "member": "maefae",
@@ -196,17 +196,6 @@
    "state": "live"
   },
   {
-   "id": "tw:316326992873",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "TEAM AMALEE COLLAB 2.0!! NO SCUFF!!【GAME + ZATSU】【RioFukai】 !original !cover !social",
-   "game": "Just Chatting",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-18T03:07:19Z",
-   "state": "live"
-  },
-  {
    "id": "tw:321139260894",
    "platform": "twitch",
    "member": "maefae",
@@ -215,6 +204,17 @@
    "url": "https://www.twitch.tv/maefaech",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
    "startedAt": "2026-11-18T03:00:22Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:316326992873",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "TEAM AMALEE COLLAB 2.0!! NO SCUFF!!【GAME + ZATSU】【RioFukai】 !original !cover !social",
+   "game": "Just Chatting",
+   "url": "https://www.twitch.tv/riofukai",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
+   "startedAt": "2026-11-18T03:07:19Z",
    "state": "live"
   }
  ],
