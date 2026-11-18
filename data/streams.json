@@ -1,6 +1,16 @@
 {
  "streams": [
   {
+   "id": "tw:319946061527",
+   "platform": "twitch",
+   "member": "amalee",
+   "title": "🦋⚠️MALWARE ARC⚠️ Chatting with my WIldcardClub team + REPO!! (!collab) | NEW FLAVOR LABEL (!merch CODE \"AMALEE\" 10% OFF) | !cons !cover !va",
+   "game": "Just Chatting",
+   "url": "https://www.twitch.tv/amalee",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_amalee-320x180.jpg",
+   "startedAt": "2026-11-18T02:06:43Z"
+  },
+  {
    "id": "yt:2CBESbFid7A",
    "platform": "youtube",
    "member": "phoebe",
