@@ -7,8 +7,8 @@
    "title": "Temple THREE Already?! Guerilla probably🔥【The Legend of Zelda: Ocarina of Time】",
    "url": "https://www.youtube.com/watch?v=nrwFSBgZjKI",
    "thumb": "https://i.ytimg.com/vi/nrwFSBgZjKI/mqdefault.jpg",
-   "startedAt": "2026-11-18T12:00:30Z",
-   "state": "upcoming"
+   "startedAt": "2026-11-18T12:01:47Z",
+   "state": "live"
   },
   {
    "id": "yt:cq9N7DkmY0w",
@@ -87,8 +87,8 @@
    "title": "[ COLLAB ] Korean Class in Session with Terri & Eerie",
    "url": "https://www.youtube.com/watch?v=VapVHAip0iY",
    "thumb": "https://i.ytimg.com/vi/VapVHAip0iY/mqdefault.jpg",
-   "startedAt": "2026-11-18T12:00:00Z",
-   "state": "upcoming"
+   "startedAt": "2026-11-18T12:04:02Z",
+   "state": "live"
   },
   {
    "id": "yt:jJUMcfIRWIQ",
@@ -133,6 +133,17 @@
  ],
  "twitch": [
   {
+   "id": "tw:318322999394",
+   "platform": "twitch",
+   "member": "eerie",
+   "title": "Wildcard Girls & a Korean lesson! Team Ironmouse!~ 🌊🎧",
+   "game": "Just Chatting",
+   "url": "https://www.twitch.tv/eerie",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eerie-320x180.jpg",
+   "startedAt": "2026-11-18T12:05:13Z",
+   "state": "live"
+  },
+  {
    "id": "tw:316728602481",
    "platform": "twitch",
    "member": "alpha-betta",
@@ -142,7 +153,29 @@
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alphabettavt-320x180.jpg",
    "startedAt": "2026-11-18T12:00:26Z",
    "state": "live"
+  },
+  {
+   "id": "tw:319448592614",
+   "platform": "twitch",
+   "member": "idna",
+   "title": "[Collab] Korean Class in Session with Terri & Eerie",
+   "game": "Just Chatting",
+   "url": "https://www.twitch.tv/whoisidna",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whoisidna-320x180.jpg",
+   "startedAt": "2026-11-18T12:03:53Z",
+   "state": "live"
   }
  ],
- "chzzk": []
+ "chzzk": [
+  {
+   "id": "cz:live22284518",
+   "platform": "chzzk",
+   "member": "terri",
+   "title": "제가 한국어 선생님이라구요?🤔(w.IDN/A, Eerie)",
+   "url": "https://chzzk.naver.com/live/0a2020b09b8cc7f2285b7ae5de2ce4d3",
+   "thumb": "https://livecloud-thumb.akamaized.net/chzzk/livecloud/KR/stream/26867808/live/22284518/publish/69084864/thumbnail/image_480.jpg",
+   "startedAt": "2026-11-18T12:04:35Z",
+   "state": "live"
+  }
+ ]
 }
