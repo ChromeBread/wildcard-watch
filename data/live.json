@@ -131,26 +131,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:em4lt6xU5KI",
-   "platform": "youtube",
-   "member": "tsunamicat",
-   "title": "[LIVE] WORMING FROM HOME!",
-   "url": "https://www.youtube.com/watch?v=em4lt6xU5KI",
-   "thumb": "https://i.ytimg.com/vi/em4lt6xU5KI/mqdefault.jpg",
-   "startedAt": "2026-11-19T03:44:30Z",
-   "state": "live"
-  },
-  {
-   "id": "yt:jgeZmDRdNbI",
-   "platform": "youtube",
-   "member": "kirispica",
-   "title": "【Letter W Karaoke】Only Singing Songs That Start With W! #歌枠 #karaoke",
-   "url": "https://www.youtube.com/watch?v=jgeZmDRdNbI",
-   "thumb": "https://i.ytimg.com/vi/jgeZmDRdNbI/mqdefault.jpg",
-   "startedAt": "2026-11-19T03:04:10Z",
-   "state": "live"
-  },
-  {
    "id": "yt:0t5Ke-eSzZE",
    "platform": "youtube",
    "member": "maefae",
@@ -171,28 +151,6 @@
    "url": "https://www.twitch.tv/ironmouse",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg",
    "startedAt": "2026-11-19T00:32:40Z",
-   "state": "live"
-  },
-  {
-   "id": "tw:319959742167",
-   "platform": "twitch",
-   "member": "tsunamicat",
-   "title": "🌊 Chat still loves me when I'm a worm (maybe) 🌊 !wildcardclub !newsong !coffee",
-   "game": "Worming from Home",
-   "url": "https://www.twitch.tv/tsunamicat",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsunamicat-320x180.jpg",
-   "startedAt": "2026-11-19T03:35:12Z",
-   "state": "live"
-  },
-  {
-   "id": "tw:316304527464",
-   "platform": "twitch",
-   "member": "kirispica",
-   "title": "Only Singing Songs That Start With W!  Letter W Karaoke!!",
-   "game": "Music",
-   "url": "https://www.twitch.tv/kirispica",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kirispica-320x180.jpg",
-   "startedAt": "2026-11-19T03:04:00Z",
    "state": "live"
   },
   {
