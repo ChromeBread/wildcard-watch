@@ -151,16 +151,6 @@
    "state": "live"
   },
   {
-   "id": "yt:MgNz8hPzpoc",
-   "platform": "youtube",
-   "member": "phoebe",
-   "title": "【Warframe】 I'm New To Warframe! Help me, Ironmouse Senpai! #ad",
-   "url": "https://www.youtube.com/watch?v=MgNz8hPzpoc",
-   "thumb": "https://i.ytimg.com/vi/MgNz8hPzpoc/mqdefault.jpg",
-   "startedAt": "2026-11-19T01:52:36Z",
-   "state": "live"
-  },
-  {
    "id": "yt:0t5Ke-eSzZE",
    "platform": "youtube",
    "member": "maefae",
@@ -192,17 +182,6 @@
    "url": "https://www.twitch.tv/tsunamicat",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsunamicat-320x180.jpg",
    "startedAt": "2026-11-19T03:35:12Z",
-   "state": "live"
-  },
-  {
-   "id": "tw:319957965015",
-   "platform": "twitch",
-   "member": "phoebe",
-   "title": "【!Warframe】 I'm New To Warframe! Help me, Ironmouse Senpai! #ad",
-   "game": "Warframe",
-   "url": "https://www.twitch.tv/feebee",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feebee-320x180.jpg",
-   "startedAt": "2026-11-19T01:52:29Z",
    "state": "live"
   },
   {
