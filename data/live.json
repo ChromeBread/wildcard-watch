@@ -91,6 +91,16 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:24FZXILE0HQ",
+   "platform": "youtube",
+   "member": "phoebe",
+   "title": "【TANUKI: Pon's Summer】 A Comfy and Cool Summer! 🐝🌸【Phoebe Chan | フィービー・チャン】 #sponsored",
+   "url": "https://www.youtube.com/watch?v=24FZXILE0HQ",
+   "thumb": "https://i.ytimg.com/vi/24FZXILE0HQ/mqdefault.jpg",
+   "startedAt": "2026-11-19T22:00:45Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:jJUMcfIRWIQ",
    "platform": "youtube",
    "member": "phoebe",
@@ -98,16 +108,6 @@
    "url": "https://www.youtube.com/watch?v=jJUMcfIRWIQ",
    "thumb": "https://i.ytimg.com/vi/jJUMcfIRWIQ/mqdefault.jpg",
    "startedAt": "2026-11-20T22:00:00Z",
-   "state": "upcoming"
-  },
-  {
-   "id": "yt:24FZXILE0HQ",
-   "platform": "youtube",
-   "member": "phoebe",
-   "title": "【TANUKI: Pon's Summer】 A Comfy and Cool Summer! 🐝🌸【Phoebe Chan | フィービー・チャン】 #sponsored",
-   "url": "https://www.youtube.com/watch?v=24FZXILE0HQ",
-   "thumb": "https://i.ytimg.com/vi/24FZXILE0HQ/mqdefault.jpg",
-   "startedAt": "2026-11-19T22:00:00Z",
    "state": "upcoming"
   },
   {
@@ -121,6 +121,18 @@
    "state": "upcoming"
   }
  ],
- "twitch": [],
+ "twitch": [
+  {
+   "id": "tw:319974497879",
+   "platform": "twitch",
+   "member": "phoebe",
+   "title": "【TANUKI: Pon's Summer】 A Comfy and Cool Summer! 🐝🌸【Phoebe Chan | フィービー・チャン】 #sponsored",
+   "game": "TANUKI: Pon's Summer",
+   "url": "https://www.twitch.tv/feebee",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feebee-320x180.jpg",
+   "startedAt": "2026-11-19T22:00:41Z",
+   "state": "live"
+  }
+ ],
  "chzzk": []
 }
