@@ -61,16 +61,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:jJUMcfIRWIQ",
-   "platform": "youtube",
-   "member": "phoebe",
-   "title": "【Karaoke】I just really, really wanna sing for you!!!🐝🌸【Phoebe Chan | フィービー・チャン】#densetsuexe",
-   "url": "https://www.youtube.com/watch?v=jJUMcfIRWIQ",
-   "thumb": "https://i.ytimg.com/vi/jJUMcfIRWIQ/mqdefault.jpg",
-   "startedAt": "2026-11-20T22:01:04Z",
-   "state": "live"
-  },
-  {
    "id": "yt:8wx1-NnVpp4",
    "platform": "youtube",
    "member": "rachie",
@@ -79,6 +69,16 @@
    "thumb": "https://i.ytimg.com/vi/8wx1-NnVpp4/mqdefault.jpg",
    "startedAt": "2026-11-23T14:30:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:jJUMcfIRWIQ",
+   "platform": "youtube",
+   "member": "phoebe",
+   "title": "【Karaoke】I just really, really wanna sing for you!!!🐝🌸【Phoebe Chan | フィービー・チャン】#densetsuexe",
+   "url": "https://www.youtube.com/watch?v=jJUMcfIRWIQ",
+   "thumb": "https://i.ytimg.com/vi/jJUMcfIRWIQ/mqdefault.jpg",
+   "startedAt": "2026-11-20T22:01:04Z",
+   "state": "live"
   }
  ],
  "twitch": [
