@@ -81,6 +81,18 @@
    "state": "upcoming"
   }
  ],
- "twitch": [],
+ "twitch": [
+  {
+   "id": "tw:318417724516",
+   "platform": "twitch",
+   "member": "rin-penrose",
+   "title": "BIG NEWS. BIG REVEAL. BIG SONG RELEASE. This stream has, if not everything, then many things ✧ !discord !longs !twc",
+   "game": "Special Events",
+   "url": "https://www.twitch.tv/rinpenrose",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rinpenrose-320x180.jpg",
+   "startedAt": "2026-11-20T19:00:06Z",
+   "state": "live"
+  }
+ ],
  "chzzk": []
 }
