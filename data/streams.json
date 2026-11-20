@@ -1,6 +1,25 @@
 {
  "streams": [
   {
+   "id": "yt:AIifQHAhn2Y",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "I FOUND ALL 3 SPIRITUAL STONES... What Happens Next?【ZELDA: OCARINA OF TIME】「PART 3」",
+   "url": "https://www.youtube.com/watch?v=AIifQHAhn2Y",
+   "thumb": "https://i.ytimg.com/vi/AIifQHAhn2Y/mqdefault.jpg",
+   "startedAt": "2026-11-20T02:00:25Z"
+  },
+  {
+   "id": "tw:321486121952",
+   "platform": "twitch",
+   "member": "maefae",
+   "title": "I FOUND ALL 3 SPIRITUAL STONES... What Happens Next?【ZELDA: OCARINA OF TIME】「PART 3」",
+   "game": "The Legend of Zelda: Ocarina of Time",
+   "url": "https://www.twitch.tv/maefaech",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
+   "startedAt": "2026-11-20T02:00:20Z"
+  },
+  {
    "id": "yt:3VXYh1zifU4",
    "platform": "youtube",
    "member": "dokibird",
