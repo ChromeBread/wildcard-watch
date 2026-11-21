@@ -59,30 +59,8 @@
    "thumb": "https://i.ytimg.com/vi/8wx1-NnVpp4/mqdefault.jpg",
    "startedAt": "2026-11-23T14:30:00Z",
    "state": "upcoming"
-  },
-  {
-   "id": "yt:pdk9b7vljlw",
-   "platform": "youtube",
-   "member": "maefae",
-   "title": "Can I Finally Make My Opponents Crack Under Pressure in RANKED?【TEKKEN 8】",
-   "url": "https://www.youtube.com/watch?v=pdk9b7vljlw",
-   "thumb": "https://i.ytimg.com/vi/pdk9b7vljlw/mqdefault.jpg",
-   "startedAt": "2026-11-21T18:02:03Z",
-   "state": "live"
   }
  ],
- "twitch": [
-  {
-   "id": "tw:321222342750",
-   "platform": "twitch",
-   "member": "maefae",
-   "title": "Can I Finally Make My Opponents Crack Under Pressure in RANKED?【TEKKEN 8】",
-   "game": "TEKKEN 8",
-   "url": "https://www.twitch.tv/maefaech",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
-   "startedAt": "2026-11-21T18:03:14Z",
-   "state": "live"
-  }
- ],
+ "twitch": [],
  "chzzk": []
 }
