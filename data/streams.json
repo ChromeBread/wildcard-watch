@@ -1,6 +1,15 @@
 {
  "streams": [
   {
+   "id": "yt:BSwqPL8j_sU",
+   "platform": "youtube",
+   "member": "tsunamicat",
+   "title": "[LIVE] FIRST TIME PLAYTHROUGH - THE LEGEND OF ZELDA: OCARINA OF TIME REMAKE",
+   "url": "https://www.youtube.com/watch?v=BSwqPL8j_sU",
+   "thumb": "https://i.ytimg.com/vi/BSwqPL8j_sU/mqdefault.jpg",
+   "startedAt": "2026-11-21T04:32:53Z"
+  },
+  {
    "id": "tw:319994195799",
    "platform": "twitch",
    "member": "tsunamicat",
