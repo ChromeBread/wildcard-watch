@@ -71,18 +71,6 @@
    "state": "upcoming"
   }
  ],
- "twitch": [
-  {
-   "id": "tw:319989843287",
-   "platform": "twitch",
-   "member": "phoebe",
-   "title": "【Karaoke】I just really, really wanna sing for you!!!🐝🌸【Phoebe Chan | フィービー・チャン】#densetsuexe",
-   "game": "Music",
-   "url": "https://www.twitch.tv/feebee",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feebee-320x180.jpg",
-   "startedAt": "2026-11-20T22:00:57Z",
-   "state": "live"
-  }
- ],
+ "twitch": [],
  "chzzk": []
 }
