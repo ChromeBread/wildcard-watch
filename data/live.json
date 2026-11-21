@@ -1,16 +1,6 @@
 {
  "youtube": [
   {
-   "id": "yt:cq9N7DkmY0w",
-   "platform": "youtube",
-   "member": "alpha-betta",
-   "title": "BOSS FIGHT!! THEN LAST TEMPLE!【The Legend of Zelda: Ocarina of Time】",
-   "url": "https://www.youtube.com/watch?v=cq9N7DkmY0w",
-   "thumb": "https://i.ytimg.com/vi/cq9N7DkmY0w/mqdefault.jpg",
-   "startedAt": "2026-11-21T12:02:43Z",
-   "state": "live"
-  },
-  {
    "id": "yt:jRPXcrlhBqc",
    "platform": "youtube",
    "member": "alpha-betta",
@@ -69,6 +59,16 @@
    "thumb": "https://i.ytimg.com/vi/8wx1-NnVpp4/mqdefault.jpg",
    "startedAt": "2026-11-23T14:30:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:cq9N7DkmY0w",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "BOSS FIGHT!! THEN LAST TEMPLE!【The Legend of Zelda: Ocarina of Time】",
+   "url": "https://www.youtube.com/watch?v=cq9N7DkmY0w",
+   "thumb": "https://i.ytimg.com/vi/cq9N7DkmY0w/mqdefault.jpg",
+   "startedAt": "2026-11-21T12:02:43Z",
+   "state": "live"
   }
  ],
  "twitch": [
