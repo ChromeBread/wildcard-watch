@@ -84,16 +84,5 @@
    "state": "live"
   }
  ],
- "chzzk": [
-  {
-   "id": "cz:live22331580",
-   "platform": "chzzk",
-   "member": "terri",
-   "title": "오버더월은 오버워치를 잘하나요? 테하하ㅣ😏",
-   "url": "https://chzzk.naver.com/live/0a2020b09b8cc7f2285b7ae5de2ce4d3",
-   "thumb": "https://livecloud-thumb.akamaized.net/chzzk/livecloud/KR/stream/26867808/live/22331580/publish/69183314/thumbnail/image_480.jpg",
-   "startedAt": "2026-11-21T04:01:15Z",
-   "state": "live"
-  }
- ]
+ "chzzk": []
 }
