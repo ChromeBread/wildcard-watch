@@ -1,6 +1,16 @@
 {
  "youtube": [
   {
+   "id": "yt:RNnSQbi7kTI",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "INSIDE THE CASTLE!!! MAYBE FINAL BOSS?!🏰【The Legend of Zelda: Ocarina of Time】",
+   "url": "https://www.youtube.com/watch?v=RNnSQbi7kTI",
+   "thumb": "https://i.ytimg.com/vi/RNnSQbi7kTI/mqdefault.jpg",
+   "startedAt": "2026-11-22T12:00:00Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:KMaJ71v69zc",
    "platform": "youtube",
    "member": "maefae",
