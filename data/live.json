@@ -39,16 +39,6 @@
    "thumb": "https://i.ytimg.com/vi/8wx1-NnVpp4/mqdefault.jpg",
    "startedAt": "2026-11-23T14:30:00Z",
    "state": "upcoming"
-  },
-  {
-   "id": "yt:Rkjwb-M1rhY",
-   "platform": "youtube",
-   "member": "kirispica",
-   "title": "Song requests are... OPEN!! ✨🎩【Singing & Piano】  Request a song! #karaoke #piano",
-   "url": "https://www.youtube.com/watch?v=Rkjwb-M1rhY",
-   "thumb": "https://i.ytimg.com/vi/Rkjwb-M1rhY/mqdefault.jpg",
-   "startedAt": "2026-11-22T03:23:41Z",
-   "state": "live"
   }
  ],
  "twitch": [
@@ -61,17 +51,6 @@
    "url": "https://www.twitch.tv/ironmouse",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-320x180.jpg",
    "startedAt": "2026-11-22T02:40:29Z",
-   "state": "live"
-  },
-  {
-   "id": "tw:316351965161",
-   "platform": "twitch",
-   "member": "kirispica",
-   "title": "Request a song!! Singing & Piano! !songlist",
-   "game": "Music",
-   "url": "https://www.twitch.tv/kirispica",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kirispica-320x180.jpg",
-   "startedAt": "2026-11-22T03:26:09Z",
    "state": "live"
   }
  ],
