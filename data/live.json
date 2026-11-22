@@ -1,6 +1,26 @@
 {
  "youtube": [
   {
+   "id": "yt:g7MQexcBZrM",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "oFISHial Requests Day💙【KARAOKE】 #karaoke #歌枠",
+   "url": "https://www.youtube.com/watch?v=g7MQexcBZrM",
+   "thumb": "https://i.ytimg.com/vi/g7MQexcBZrM/mqdefault.jpg",
+   "startedAt": "2026-11-29T02:00:00Z",
+   "state": "upcoming"
+  },
+  {
+   "id": "yt:7vlDeRCKnUo",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "What Are You Grateful For?🎤🐟【KARAOKE】#karaoke #歌枠",
+   "url": "https://www.youtube.com/watch?v=7vlDeRCKnUo",
+   "thumb": "https://i.ytimg.com/vi/7vlDeRCKnUo/mqdefault.jpg",
+   "startedAt": "2026-11-27T12:00:00Z",
+   "state": "upcoming"
+  },
+  {
    "id": "yt:vgnHE9Ilm_M",
    "platform": "youtube",
    "member": "idna",
