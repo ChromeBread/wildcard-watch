@@ -34,11 +34,11 @@
    "id": "yt:IV06NhyeGB8",
    "platform": "youtube",
    "member": "monii",
-   "title": "【STRAY】I'm a kitty psst psst psst",
+   "title": "STRAY! I'm a kitty psst psst psst / !EP !bagel",
    "url": "https://www.youtube.com/watch?v=IV06NhyeGB8",
    "thumb": "https://i.ytimg.com/vi/IV06NhyeGB8/mqdefault.jpg",
-   "startedAt": "2026-11-22T22:00:00Z",
-   "state": "upcoming"
+   "startedAt": "2026-11-22T21:49:21Z",
+   "state": "live"
   },
   {
    "id": "yt:vgnHE9Ilm_M",
@@ -71,6 +71,17 @@
    "url": "https://www.twitch.tv/hackerling",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hackerling-320x180.jpg",
    "startedAt": "2026-11-22T18:22:02Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:321546011360",
+   "platform": "twitch",
+   "member": "monii",
+   "title": "STRAY! I'm a kitty psst psst psst / !EP !bagel",
+   "game": "Stray",
+   "url": "https://www.twitch.tv/moniibagel",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_moniibagel-320x180.jpg",
+   "startedAt": "2026-11-22T21:49:16Z",
    "state": "live"
   }
  ],
