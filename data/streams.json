@@ -1,6 +1,16 @@
 {
  "streams": [
   {
+   "id": "tw:317950207607",
+   "platform": "twitch",
+   "member": "tsunamicat",
+   "title": "🌊 first time playthrough! 🌊 no spoilers/backseating pls 🌊 !gamersupps !wildcardclub !newsong !coffee",
+   "game": "The Legend of Zelda: Ocarina of Time",
+   "url": "https://www.twitch.tv/tsunamicat",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tsunamicat-320x180.jpg",
+   "startedAt": "2026-11-23T05:06:11Z"
+  },
+  {
    "id": "yt:XJNZUgaUIBc",
    "platform": "youtube",
    "member": "kirispica",
