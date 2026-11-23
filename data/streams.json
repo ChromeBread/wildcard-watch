@@ -1,6 +1,25 @@
 {
  "streams": [
   {
+   "id": "yt:XJNZUgaUIBc",
+   "platform": "youtube",
+   "member": "kirispica",
+   "title": "yapping about a strange show i just watched【Zatsudan/Chatting】",
+   "url": "https://www.youtube.com/watch?v=XJNZUgaUIBc",
+   "thumb": "https://i.ytimg.com/vi/XJNZUgaUIBc/mqdefault.jpg",
+   "startedAt": "2026-11-23T04:03:58Z"
+  },
+  {
+   "id": "tw:316327350248",
+   "platform": "twitch",
+   "member": "kirispica",
+   "title": "yapping about a strange show i just watched【Zatsudan/Chatting】",
+   "game": "Just Chatting",
+   "url": "https://www.twitch.tv/kirispica",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kirispica-320x180.jpg",
+   "startedAt": "2026-11-23T04:03:49Z"
+  },
+  {
    "id": "tw:321553197152",
    "platform": "twitch",
    "member": "ironmouse",
