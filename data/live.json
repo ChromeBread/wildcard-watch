@@ -61,16 +61,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:q5RHLcmcpJ0",
-   "platform": "youtube",
-   "member": "monii",
-   "title": "I'm A KITTY AGAIN!  / !EP !bagel",
-   "url": "https://www.youtube.com/watch?v=q5RHLcmcpJ0",
-   "thumb": "https://i.ytimg.com/vi/q5RHLcmcpJ0/mqdefault.jpg",
-   "startedAt": "2026-11-24T19:45:35Z",
-   "state": "live"
-  },
-  {
    "id": "yt:lfoidbv1S-Y",
    "platform": "youtube",
    "member": "phoebe",
@@ -99,6 +89,16 @@
    "thumb": "https://i.ytimg.com/vi/y2dPcnsrMhg/mqdefault.jpg",
    "startedAt": "2026-11-24T22:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:q5RHLcmcpJ0",
+   "platform": "youtube",
+   "member": "monii",
+   "title": "I'm A KITTY AGAIN!  / !EP !bagel",
+   "url": "https://www.youtube.com/watch?v=q5RHLcmcpJ0",
+   "thumb": "https://i.ytimg.com/vi/q5RHLcmcpJ0/mqdefault.jpg",
+   "startedAt": "2026-11-24T19:45:35Z",
+   "state": "live"
   },
   {
    "id": "yt:vgnHE9Ilm_M",
