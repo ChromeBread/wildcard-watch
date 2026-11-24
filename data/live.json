@@ -64,11 +64,11 @@
    "id": "yt:q5RHLcmcpJ0",
    "platform": "youtube",
    "member": "monii",
-   "title": "【STRAY】KITTY TIME! Episode 2",
+   "title": "I'm A KITTY AGAIN!  / !EP !bagel",
    "url": "https://www.youtube.com/watch?v=q5RHLcmcpJ0",
    "thumb": "https://i.ytimg.com/vi/q5RHLcmcpJ0/mqdefault.jpg",
-   "startedAt": "2026-11-24T19:45:00Z",
-   "state": "upcoming"
+   "startedAt": "2026-11-24T19:45:35Z",
+   "state": "live"
   },
   {
    "id": "yt:lfoidbv1S-Y",
@@ -121,6 +121,17 @@
    "url": "https://www.twitch.tv/whoisidna",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whoisidna-320x180.jpg",
    "startedAt": "2026-11-24T19:01:47Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:321341057244",
+   "platform": "twitch",
+   "member": "monii",
+   "title": "I'm A KITTY AGAIN!  / !EP !bagel",
+   "game": "Stray",
+   "url": "https://www.twitch.tv/moniibagel",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_moniibagel-320x180.jpg",
+   "startedAt": "2026-11-24T19:45:31Z",
    "state": "live"
   }
  ],
