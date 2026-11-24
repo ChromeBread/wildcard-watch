@@ -26,17 +26,18 @@
    "title": "[ CHATTING ] Lots of cool stuff I wanna yap about",
    "url": "https://www.youtube.com/watch?v=vgnHE9Ilm_M",
    "thumb": "https://i.ytimg.com/vi/vgnHE9Ilm_M/mqdefault.jpg",
-   "startedAt": "2026-11-24T19:01:57Z"
+   "startedAt": "2026-11-24T19:01:57Z",
+   "endedAt": "2026-11-24T21:13:37Z"
   },
   {
    "id": "tw:319355301735",
    "platform": "twitch",
    "member": "idna",
    "title": "[Chatting] Lots of cool things happening recently",
-   "game": "Just Chatting",
-   "url": "https://www.twitch.tv/whoisidna",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_whoisidna-320x180.jpg",
-   "startedAt": "2026-11-24T19:01:47Z"
+   "url": "https://www.twitch.tv/videos/2939584020",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/52eac86ff4bfee4e12e0_whoisidna_319355301735_1795546906//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-24T19:01:52Z",
+   "endedAt": "2026-11-24T21:13:30Z"
   },
   {
    "id": "yt:avPM5z8AHBk",
