@@ -1,6 +1,25 @@
 {
  "streams": [
   {
+   "id": "yt:y2dPcnsrMhg",
+   "platform": "youtube",
+   "member": "phoebe",
+   "title": "【TLoZ: Ocarina of Time】 Play and Yap!!! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
+   "url": "https://www.youtube.com/watch?v=y2dPcnsrMhg",
+   "thumb": "https://i.ytimg.com/vi/y2dPcnsrMhg/mqdefault.jpg",
+   "startedAt": "2026-11-24T22:01:57Z"
+  },
+  {
+   "id": "tw:320037753175",
+   "platform": "twitch",
+   "member": "phoebe",
+   "title": "【TLoZ: Ocarina of Time】 Play and Yap!!! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
+   "game": "The Legend of Zelda: Ocarina of Time",
+   "url": "https://www.twitch.tv/feebee",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feebee-320x180.jpg",
+   "startedAt": "2026-11-24T22:01:49Z"
+  },
+  {
    "id": "yt:q5RHLcmcpJ0",
    "platform": "youtube",
    "member": "monii",
