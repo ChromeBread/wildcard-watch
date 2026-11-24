@@ -31,16 +31,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:AXJYaSJdGk0",
-   "platform": "youtube",
-   "member": "rio-fukai",
-   "title": "【Karaoke歌枠】Rio Radio time!!【RioFukai｜深海璃零】",
-   "url": "https://www.youtube.com/watch?v=AXJYaSJdGk0",
-   "thumb": "https://i.ytimg.com/vi/AXJYaSJdGk0/mqdefault.jpg",
-   "startedAt": "2026-11-24T11:30:53Z",
-   "state": "live"
-  },
-  {
    "id": "yt:vgnHE9Ilm_M",
    "platform": "youtube",
    "member": "idna",
@@ -79,6 +69,16 @@
    "thumb": "https://i.ytimg.com/vi/y2dPcnsrMhg/mqdefault.jpg",
    "startedAt": "2026-11-24T22:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:AXJYaSJdGk0",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【Karaoke歌枠】Rio Radio time!!【RioFukai｜深海璃零】",
+   "url": "https://www.youtube.com/watch?v=AXJYaSJdGk0",
+   "thumb": "https://i.ytimg.com/vi/AXJYaSJdGk0/mqdefault.jpg",
+   "startedAt": "2026-11-24T11:30:53Z",
+   "state": "live"
   }
  ],
  "twitch": [
