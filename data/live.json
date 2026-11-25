@@ -31,6 +31,16 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:KMaJ71v69zc",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "I'M WAKING UP THE SAGES AND SAVING HYRULE! (First Run)【ZELDA: OCARINA OF TIME】「PART 4」",
+   "url": "https://www.youtube.com/watch?v=KMaJ71v69zc",
+   "thumb": "https://i.ytimg.com/vi/KMaJ71v69zc/mqdefault.jpg",
+   "startedAt": "2026-11-25T23:01:25Z",
+   "state": "live"
+  },
+  {
    "id": "yt:eXMELAkvzmg",
    "platform": "youtube",
    "member": "maefae",
@@ -38,16 +48,6 @@
    "url": "https://www.youtube.com/watch?v=eXMELAkvzmg",
    "thumb": "https://i.ytimg.com/vi/eXMELAkvzmg/mqdefault.jpg",
    "startedAt": "2026-11-28T04:00:00Z",
-   "state": "upcoming"
-  },
-  {
-   "id": "yt:KMaJ71v69zc",
-   "platform": "youtube",
-   "member": "maefae",
-   "title": "I'M WAKING UP THE SAGES AND SAVING HYRULE! (First Run)【ZELDA: OCARINA OF TIME】「PART 4」",
-   "url": "https://www.youtube.com/watch?v=KMaJ71v69zc",
-   "thumb": "https://i.ytimg.com/vi/KMaJ71v69zc/mqdefault.jpg",
-   "startedAt": "2026-11-25T23:00:00Z",
    "state": "upcoming"
   },
   {
@@ -91,6 +91,17 @@
    "url": "https://www.twitch.tv/feebee",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feebee-320x180.jpg",
    "startedAt": "2026-11-25T22:09:34Z",
+   "state": "live"
+  },
+  {
+   "id": "tw:321601405280",
+   "platform": "twitch",
+   "member": "maefae",
+   "title": "I'M WAKING UP THE SAGES AND SAVING HYRULE! (First Run)【ZELDA: OCARINA OF TIME】「PART 4」",
+   "game": "The Legend of Zelda: Ocarina of Time",
+   "url": "https://www.twitch.tv/maefaech",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
+   "startedAt": "2026-11-25T23:01:27Z",
    "state": "live"
   }
  ],
