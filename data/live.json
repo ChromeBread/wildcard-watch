@@ -81,18 +81,6 @@
    "state": "upcoming"
   }
  ],
- "twitch": [
-  {
-   "id": "tw:320043879639",
-   "platform": "twitch",
-   "member": "dokibird",
-   "title": "soloq rem, not by choice. adopt a rem duo today. Coaching/tips appreciated!! | !song !merch !newvid",
-   "game": "Deadlock",
-   "url": "https://www.twitch.tv/dokibird",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dokibird-320x180.jpg",
-   "startedAt": "2026-11-25T06:33:55Z",
-   "state": "live"
-  }
- ],
+ "twitch": [],
  "chzzk": []
 }
