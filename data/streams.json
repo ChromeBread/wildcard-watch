@@ -1,6 +1,15 @@
 {
  "streams": [
   {
+   "id": "yt:Bi7WXgISV9Y",
+   "platform": "youtube",
+   "member": "dokibird",
+   "title": "【POTATO PLEASE】Lord of the Flies【Dokibird】",
+   "url": "https://www.youtube.com/watch?v=Bi7WXgISV9Y",
+   "thumb": "https://i.ytimg.com/vi/Bi7WXgISV9Y/mqdefault.jpg",
+   "startedAt": "2026-11-25T01:02:59Z"
+  },
+  {
    "id": "tw:321346942044",
    "platform": "twitch",
    "member": "maefae",
@@ -26,7 +35,8 @@
    "title": "【TLoZ: Ocarina of Time】 Play and Yap!!! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
    "url": "https://www.youtube.com/watch?v=y2dPcnsrMhg",
    "thumb": "https://i.ytimg.com/vi/y2dPcnsrMhg/mqdefault.jpg",
-   "startedAt": "2026-11-24T22:01:57Z"
+   "startedAt": "2026-11-24T22:01:57Z",
+   "endedAt": "2026-11-25T01:02:32Z"
   },
   {
    "id": "tw:320037753175",
@@ -36,7 +46,8 @@
    "game": "The Legend of Zelda: Ocarina of Time",
    "url": "https://www.twitch.tv/feebee",
    "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feebee-320x180.jpg",
-   "startedAt": "2026-11-24T22:01:49Z"
+   "startedAt": "2026-11-24T22:01:49Z",
+   "endedAt": "2026-11-25T01:10:36Z"
   },
   {
    "id": "yt:q5RHLcmcpJ0",

@@ -31,16 +31,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:BbcOsOAzhOk",
-   "platform": "youtube",
-   "member": "maefae",
-   "title": "My Coach Says I Play on Autopilot... Let's Fix That! 【TEKKEN 8】",
-   "url": "https://www.youtube.com/watch?v=BbcOsOAzhOk",
-   "thumb": "https://i.ytimg.com/vi/BbcOsOAzhOk/mqdefault.jpg",
-   "startedAt": "2026-11-25T01:00:09Z",
-   "state": "live"
-  },
-  {
    "id": "yt:eXMELAkvzmg",
    "platform": "youtube",
    "member": "maefae",
@@ -67,8 +57,8 @@
    "title": "【POTATO PLEASE】Lord of the Flies【Dokibird】",
    "url": "https://www.youtube.com/watch?v=Bi7WXgISV9Y",
    "thumb": "https://i.ytimg.com/vi/Bi7WXgISV9Y/mqdefault.jpg",
-   "startedAt": "2026-11-25T01:00:00Z",
-   "state": "upcoming"
+   "startedAt": "2026-11-25T01:02:59Z",
+   "state": "live"
   },
   {
    "id": "yt:xktfm7sfMcg",
@@ -91,38 +81,17 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:bkQrMDcy92w",
+   "id": "yt:BbcOsOAzhOk",
    "platform": "youtube",
-   "member": "phoebe",
-   "title": "【MEMBERS ONLY】 Chiikawa Watchalong!!! 🐝🌸【Phoebe Chan | フィービー・チャン 】",
-   "url": "https://www.youtube.com/watch?v=bkQrMDcy92w",
-   "thumb": "https://i.ytimg.com/vi/bkQrMDcy92w/mqdefault.jpg",
-   "startedAt": "2026-11-25T01:00:00Z",
-   "state": "upcoming"
-  },
-  {
-   "id": "yt:y2dPcnsrMhg",
-   "platform": "youtube",
-   "member": "phoebe",
-   "title": "【TLoZ: Ocarina of Time】 Play and Yap!!! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
-   "url": "https://www.youtube.com/watch?v=y2dPcnsrMhg",
-   "thumb": "https://i.ytimg.com/vi/y2dPcnsrMhg/mqdefault.jpg",
-   "startedAt": "2026-11-24T22:01:57Z",
+   "member": "maefae",
+   "title": "My Coach Says I Play on Autopilot... Let's Fix That! 【TEKKEN 8】",
+   "url": "https://www.youtube.com/watch?v=BbcOsOAzhOk",
+   "thumb": "https://i.ytimg.com/vi/BbcOsOAzhOk/mqdefault.jpg",
+   "startedAt": "2026-11-25T01:00:09Z",
    "state": "live"
   }
  ],
  "twitch": [
-  {
-   "id": "tw:320037753175",
-   "platform": "twitch",
-   "member": "phoebe",
-   "title": "【TLoZ: Ocarina of Time】 Play and Yap!!! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
-   "game": "The Legend of Zelda: Ocarina of Time",
-   "url": "https://www.twitch.tv/feebee",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feebee-320x180.jpg",
-   "startedAt": "2026-11-24T22:01:49Z",
-   "state": "live"
-  },
   {
    "id": "tw:321346942044",
    "platform": "twitch",
