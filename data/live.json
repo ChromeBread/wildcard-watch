@@ -67,8 +67,8 @@
    "title": "Ironmouse Shows Densetsu.EXE Warframe for the FIRST TIME",
    "url": "https://www.youtube.com/watch?v=xktfm7sfMcg",
    "thumb": "https://i.ytimg.com/vi/xktfm7sfMcg/mqdefault.jpg",
-   "startedAt": "2026-11-25T16:00:00Z",
-   "state": "upcoming"
+   "startedAt": "2026-11-25T16:00:07Z",
+   "state": "live"
   },
   {
    "id": "yt:lfoidbv1S-Y",
@@ -81,26 +81,26 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:N6r_xqNGuiU",
+   "id": "yt:74oI-PAk-Ow",
    "platform": "youtube",
    "member": "rachie",
-   "title": "hello. we are under da water ✧ LoZ: Ocarina of Time #4",
-   "url": "https://www.youtube.com/watch?v=N6r_xqNGuiU",
-   "thumb": "https://i.ytimg.com/vi/N6r_xqNGuiU/mqdefault.jpg",
-   "startedAt": "2026-11-25T13:40:01Z",
+   "title": "hello. we are under da water ✧ LoZ: Ocarina of Time #4.5",
+   "url": "https://www.youtube.com/watch?v=74oI-PAk-Ow",
+   "thumb": "https://i.ytimg.com/vi/74oI-PAk-Ow/mqdefault.jpg",
+   "startedAt": "2026-11-25T16:09:38Z",
    "state": "live"
   }
  ],
  "twitch": [
   {
-   "id": "tw:316370199785",
+   "id": "tw:318416374626",
    "platform": "twitch",
-   "member": "rachie",
-   "title": "blub blub blub we're under da water (w @machinaxflayon) // OoT #4 | !pc !album !social !orisong",
-   "game": "The Legend of Zelda: Ocarina of Time",
-   "url": "https://www.twitch.tv/rachie",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rachie-320x180.jpg",
-   "startedAt": "2026-11-25T13:45:51Z",
+   "member": "eerie",
+   "title": "a hangout with you~! 🌊🎧",
+   "game": "Just Chatting",
+   "url": "https://www.twitch.tv/eerie",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eerie-320x180.jpg",
+   "startedAt": "2026-11-25T16:06:56Z",
    "state": "live"
   }
  ],
