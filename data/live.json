@@ -51,16 +51,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:Bi7WXgISV9Y",
-   "platform": "youtube",
-   "member": "dokibird",
-   "title": "【POTATO PLEASE】Lord of the Flies【Dokibird】",
-   "url": "https://www.youtube.com/watch?v=Bi7WXgISV9Y",
-   "thumb": "https://i.ytimg.com/vi/Bi7WXgISV9Y/mqdefault.jpg",
-   "startedAt": "2026-11-25T01:02:59Z",
-   "state": "live"
-  },
-  {
    "id": "yt:xktfm7sfMcg",
    "platform": "youtube",
    "member": "ironmouse",
@@ -79,6 +69,16 @@
    "thumb": "https://i.ytimg.com/vi/lfoidbv1S-Y/mqdefault.jpg",
    "startedAt": "2026-11-25T22:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:Bi7WXgISV9Y",
+   "platform": "youtube",
+   "member": "dokibird",
+   "title": "【POTATO PLEASE】Lord of the Flies【Dokibird】",
+   "url": "https://www.youtube.com/watch?v=Bi7WXgISV9Y",
+   "thumb": "https://i.ytimg.com/vi/Bi7WXgISV9Y/mqdefault.jpg",
+   "startedAt": "2026-11-25T01:02:59Z",
+   "state": "live"
   },
   {
    "id": "yt:BbcOsOAzhOk",
