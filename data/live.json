@@ -81,6 +81,18 @@
    "state": "upcoming"
   }
  ],
- "twitch": [],
+ "twitch": [
+  {
+   "id": "tw:320043879639",
+   "platform": "twitch",
+   "member": "dokibird",
+   "title": "Playing the !WERWULF Discord Horror Quest with Chat | #FocusFeaturesPartner #ad",
+   "game": "Just Chatting",
+   "url": "https://www.twitch.tv/dokibird",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dokibird-320x180.jpg",
+   "startedAt": "2026-11-25T06:33:55Z",
+   "state": "live"
+  }
+ ],
  "chzzk": []
 }
