@@ -1,6 +1,25 @@
 {
  "streams": [
   {
+   "id": "tw:321346942044",
+   "platform": "twitch",
+   "member": "maefae",
+   "title": "My Coach Says I Play on Autopilot... Let's Fix That! 【TEKKEN 8】",
+   "game": "TEKKEN 8",
+   "url": "https://www.twitch.tv/maefaech",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maefaech-320x180.jpg",
+   "startedAt": "2026-11-25T01:00:20Z"
+  },
+  {
+   "id": "yt:BbcOsOAzhOk",
+   "platform": "youtube",
+   "member": "maefae",
+   "title": "My Coach Says I Play on Autopilot... Let's Fix That! 【TEKKEN 8】",
+   "url": "https://www.youtube.com/watch?v=BbcOsOAzhOk",
+   "thumb": "https://i.ytimg.com/vi/BbcOsOAzhOk/mqdefault.jpg",
+   "startedAt": "2026-11-25T01:00:09Z"
+  },
+  {
    "id": "yt:y2dPcnsrMhg",
    "platform": "youtube",
    "member": "phoebe",
