@@ -61,16 +61,6 @@
    "state": "live"
   },
   {
-   "id": "yt:lfoidbv1S-Y",
-   "platform": "youtube",
-   "member": "phoebe",
-   "title": "Thanksgiving Feast and Yap Time! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
-   "url": "https://www.youtube.com/watch?v=lfoidbv1S-Y",
-   "thumb": "https://i.ytimg.com/vi/lfoidbv1S-Y/mqdefault.jpg",
-   "startedAt": "2026-11-25T22:09:41Z",
-   "state": "live"
-  },
-  {
    "id": "yt:iyZEcAwqB6s",
    "platform": "youtube",
    "member": "dokibird",
@@ -82,17 +72,6 @@
   }
  ],
  "twitch": [
-  {
-   "id": "tw:318718293976",
-   "platform": "twitch",
-   "member": "phoebe",
-   "title": "Thanksgiving Feast and Yap Time! 🐝🌸【Phoebe Chan | フィービー・チャン】 #densetsuexe",
-   "game": "Just Chatting",
-   "url": "https://www.twitch.tv/feebee",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_feebee-320x180.jpg",
-   "startedAt": "2026-11-25T22:09:34Z",
-   "state": "live"
-  },
   {
    "id": "tw:321601405280",
    "platform": "twitch",
