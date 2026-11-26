@@ -1,6 +1,16 @@
 {
  "streams": [
   {
+   "id": "tw:318484115300",
+   "platform": "twitch",
+   "member": "eerie",
+   "title": "bunnygirl says HI!!~ 🌊🎧",
+   "game": "Just Chatting",
+   "url": "https://www.twitch.tv/eerie",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_eerie-320x180.jpg",
+   "startedAt": "2026-11-26T16:09:36Z"
+  },
+  {
    "id": "yt:pE2r1AaN_ns",
    "platform": "youtube",
    "member": "rio-fukai",
