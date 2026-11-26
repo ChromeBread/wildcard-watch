@@ -11,23 +11,24 @@
    "startedAt": "2026-11-26T16:09:36Z"
   },
   {
+   "id": "tw:316346513896",
+   "platform": "twitch",
+   "member": "rio-fukai",
+   "title": "【GTAV - Story mode】Not VI.【RioFukai】 !original !cover !social",
+   "url": "https://www.twitch.tv/videos/2941205951",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/fd1271b3ba2f0010cefe_riofukai_316346513896_1795687279//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-26T10:01:26Z",
+   "endedAt": "2026-11-26T16:18:03Z"
+  },
+  {
    "id": "yt:pE2r1AaN_ns",
    "platform": "youtube",
    "member": "rio-fukai",
    "title": "【GTAV - Story mode】Not VI.【RioFukai】",
    "url": "https://www.youtube.com/watch?v=pE2r1AaN_ns",
    "thumb": "https://i.ytimg.com/vi/pE2r1AaN_ns/mqdefault.jpg",
-   "startedAt": "2026-11-26T10:01:19Z"
-  },
-  {
-   "id": "tw:316346513896",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "【GTAV - Story mode】Not VI.【RioFukai】 !original !cover !social",
-   "game": "Grand Theft Auto V",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-26T10:01:19Z"
+   "startedAt": "2026-11-26T10:01:19Z",
+   "endedAt": "2026-11-26T16:18:12Z"
   },
   {
    "id": "cz:16375063",
