@@ -1,6 +1,16 @@
 {
  "streams": [
   {
+   "id": "tw:316372754153",
+   "platform": "twitch",
+   "member": "kirispica",
+   "title": "sing?",
+   "url": "https://www.twitch.tv/videos/2941075679",
+   "thumb": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/85701aa2cfffd1175fda_kirispica_316372754153_1795669289//thumb/thumb0-320x180.jpg",
+   "startedAt": "2026-11-26T05:01:39Z",
+   "endedAt": "2026-11-26T07:41:04Z"
+  },
+  {
    "id": "yt:xuPd3H506Vk",
    "platform": "youtube",
    "member": "kirispica",
@@ -9,16 +19,6 @@
    "thumb": "https://i.ytimg.com/vi/xuPd3H506Vk/mqdefault.jpg",
    "startedAt": "2026-11-26T05:01:38Z",
    "endedAt": "2026-11-26T07:39:53Z"
-  },
-  {
-   "id": "tw:316372754153",
-   "platform": "twitch",
-   "member": "kirispica",
-   "title": "sing?",
-   "game": "Music",
-   "url": "https://www.twitch.tv/kirispica",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kirispica-320x180.jpg",
-   "startedAt": "2026-11-26T05:01:29Z"
   },
   {
    "id": "tw:320051389399",
