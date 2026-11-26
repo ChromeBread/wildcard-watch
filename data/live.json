@@ -59,6 +59,16 @@
    "thumb": "https://i.ytimg.com/vi/m2QwnQd1T6c/mqdefault.jpg",
    "startedAt": "2026-11-27T01:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:xuPd3H506Vk",
+   "platform": "youtube",
+   "member": "kirispica",
+   "title": "sing?",
+   "url": "https://www.youtube.com/watch?v=xuPd3H506Vk",
+   "thumb": "https://i.ytimg.com/vi/xuPd3H506Vk/mqdefault.jpg",
+   "startedAt": "2026-11-26T05:00:00Z",
+   "state": "upcoming"
   }
  ],
  "twitch": [
