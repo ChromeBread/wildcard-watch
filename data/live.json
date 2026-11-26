@@ -41,16 +41,6 @@
    "state": "upcoming"
   },
   {
-   "id": "yt:pE2r1AaN_ns",
-   "platform": "youtube",
-   "member": "rio-fukai",
-   "title": "【GTAV - Story mode】Not VI.【RioFukai】",
-   "url": "https://www.youtube.com/watch?v=pE2r1AaN_ns",
-   "thumb": "https://i.ytimg.com/vi/pE2r1AaN_ns/mqdefault.jpg",
-   "startedAt": "2026-11-26T10:01:19Z",
-   "state": "live"
-  },
-  {
    "id": "yt:m2QwnQd1T6c",
    "platform": "youtube",
    "member": "dokibird",
@@ -69,6 +59,16 @@
    "thumb": "https://i.ytimg.com/vi/6kOjrK2QXN0/mqdefault.jpg",
    "startedAt": "2026-11-27T02:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:pE2r1AaN_ns",
+   "platform": "youtube",
+   "member": "rio-fukai",
+   "title": "【GTAV - Story mode】Not VI.【RioFukai】",
+   "url": "https://www.youtube.com/watch?v=pE2r1AaN_ns",
+   "thumb": "https://i.ytimg.com/vi/pE2r1AaN_ns/mqdefault.jpg",
+   "startedAt": "2026-11-26T10:01:19Z",
+   "state": "live"
   }
  ],
  "twitch": [
