@@ -1,6 +1,15 @@
 {
  "streams": [
   {
+   "id": "yt:m2QwnQd1T6c",
+   "platform": "youtube",
+   "member": "dokibird",
+   "title": "【ZELDA OCARINA OF TIME】Adult link = Horse time【Dokibird】",
+   "url": "https://www.youtube.com/watch?v=m2QwnQd1T6c",
+   "thumb": "https://i.ytimg.com/vi/m2QwnQd1T6c/mqdefault.jpg",
+   "startedAt": "2026-11-27T01:09:18Z"
+  },
+  {
    "id": "tw:318484115300",
    "platform": "twitch",
    "member": "eerie",
