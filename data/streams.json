@@ -1,6 +1,16 @@
 {
  "streams": [
   {
+   "id": "tw:316842758899",
+   "platform": "twitch",
+   "member": "alpha-betta",
+   "title": "karaoke !s giving thanks - !cover !music !555 !dono !throne !secret",
+   "url": "https://www.twitch.tv/videos/2942179657",
+   "thumb": "https://vod-secure.twitch.tv/_404/404_processing_320x180.png",
+   "startedAt": "2026-11-27T12:30:44Z",
+   "endedAt": "2026-11-27T12:30:47Z"
+  },
+  {
    "id": "yt:jmbpDzQUlGE",
    "platform": "youtube",
    "member": "rio-fukai",
