@@ -39,30 +39,8 @@
    "thumb": "https://i.ytimg.com/vi/vAC_JfNfLkw/mqdefault.jpg",
    "startedAt": "2026-11-28T13:00:00Z",
    "state": "upcoming"
-  },
-  {
-   "id": "yt:jmbpDzQUlGE",
-   "platform": "youtube",
-   "member": "rio-fukai",
-   "title": "【#DistrictV2 - Recap】Doomed yuri cinema (Jacyee, Hikki, Nya Ting)【RioFukai 】",
-   "url": "https://www.youtube.com/watch?v=jmbpDzQUlGE",
-   "thumb": "https://i.ytimg.com/vi/jmbpDzQUlGE/mqdefault.jpg",
-   "startedAt": "2026-11-27T11:02:09Z",
-   "state": "live"
   }
  ],
- "twitch": [
-  {
-   "id": "tw:316351101544",
-   "platform": "twitch",
-   "member": "rio-fukai",
-   "title": "【DistrictV2 - Recap】Doomed yuri cinema (Jacyee, Hikki, Nya Ting)【RioFukai】 !original !cover !social",
-   "game": "Just Chatting",
-   "url": "https://www.twitch.tv/riofukai",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riofukai-320x180.jpg",
-   "startedAt": "2026-11-27T11:02:05Z",
-   "state": "live"
-  }
- ],
+ "twitch": [],
  "chzzk": []
 }
