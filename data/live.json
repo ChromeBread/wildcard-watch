@@ -47,8 +47,8 @@
    "title": "Cooking for YOU for Thanksgiving!! MODDED!! let's make a hotpot house!!【Plate Up】",
    "url": "https://www.youtube.com/watch?v=6kOjrK2QXN0",
    "thumb": "https://i.ytimg.com/vi/6kOjrK2QXN0/mqdefault.jpg",
-   "startedAt": "2026-11-27T02:00:00Z",
-   "state": "upcoming"
+   "startedAt": "2026-11-27T02:05:59Z",
+   "state": "live"
   },
   {
    "id": "yt:vAC_JfNfLkw",
@@ -71,6 +71,18 @@
    "state": "live"
   }
  ],
- "twitch": [],
+ "twitch": [
+  {
+   "id": "tw:316376690025",
+   "platform": "twitch",
+   "member": "kirispica",
+   "title": "Cooking for YOU for Thanksgiving!! !visit !order - twitch chat integration on!! MODDED PLATEUP!! let's make a hotpot house!!",
+   "game": "PlateUp!",
+   "url": "https://www.twitch.tv/kirispica",
+   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kirispica-320x180.jpg",
+   "startedAt": "2026-11-27T02:05:49Z",
+   "state": "live"
+  }
+ ],
  "chzzk": []
 }
