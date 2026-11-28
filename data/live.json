@@ -21,6 +21,16 @@
    "state": "upcoming"
   },
   {
+   "id": "yt:IgbDf6PmINI",
+   "platform": "youtube",
+   "member": "tsunamicat",
+   "title": "[LIVE] FIRST TIME PLAYTHROUGH - THE LEGEND OF ZELDA: OCARINA OF TIME REMAKE",
+   "url": "https://www.youtube.com/watch?v=IgbDf6PmINI",
+   "thumb": "https://i.ytimg.com/vi/IgbDf6PmINI/mqdefault.jpg",
+   "startedAt": null,
+   "state": "upcoming"
+  },
+  {
    "id": "yt:lMRhJVQcAwc",
    "platform": "youtube",
    "member": "idna",
@@ -39,30 +49,8 @@
    "thumb": "https://i.ytimg.com/vi/vAC_JfNfLkw/mqdefault.jpg",
    "startedAt": "2026-11-28T13:00:00Z",
    "state": "upcoming"
-  },
-  {
-   "id": "yt:BXRHn0QWclE",
-   "platform": "youtube",
-   "member": "alpha-betta",
-   "title": "Voice of Destiny Singing Relay💙【MAEFAE'S MUSIC BOX】 #karaoke #歌枠",
-   "url": "https://www.youtube.com/watch?v=BXRHn0QWclE",
-   "thumb": "https://i.ytimg.com/vi/BXRHn0QWclE/mqdefault.jpg",
-   "startedAt": "2026-11-28T02:06:06Z",
-   "state": "live"
   }
  ],
- "twitch": [
-  {
-   "id": "tw:316771350769",
-   "platform": "twitch",
-   "member": "alpha-betta",
-   "title": "MAEFAE'S MUSIC BOX: VOICE OF DESTINY KARAOKE MEDLEY - !cover !music !555 !dono !throne !secret",
-   "game": "Music",
-   "url": "https://www.twitch.tv/alphabettavt",
-   "thumb": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alphabettavt-320x180.jpg",
-   "startedAt": "2026-11-28T02:05:53Z",
-   "state": "live"
-  }
- ],
+ "twitch": [],
  "chzzk": []
 }
