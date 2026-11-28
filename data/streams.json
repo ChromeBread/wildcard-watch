@@ -1,6 +1,15 @@
 {
  "streams": [
   {
+   "id": "yt:vAC_JfNfLkw",
+   "platform": "youtube",
+   "member": "hypa-vox",
+   "title": "SAWTOWNE - LOVELY♥CAVITY | ft. Hatsune Miku  (Cover by Hypa Vox)",
+   "url": "https://www.youtube.com/watch?v=vAC_JfNfLkw",
+   "thumb": "https://i.ytimg.com/vi/vAC_JfNfLkw/mqdefault.jpg",
+   "startedAt": "2026-11-28T13:00:07Z"
+  },
+  {
    "id": "yt:6mZ-NFHsTYE",
    "platform": "youtube",
    "member": "kanra-deity",
