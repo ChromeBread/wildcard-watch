@@ -1,16 +1,6 @@
 {
  "youtube": [
   {
-   "id": "yt:BXRHn0QWclE",
-   "platform": "youtube",
-   "member": "alpha-betta",
-   "title": "Voice of Destiny Singing Relay💙【MAEFAE'S MUSIC BOX】 #karaoke #歌枠",
-   "url": "https://www.youtube.com/watch?v=BXRHn0QWclE",
-   "thumb": "https://i.ytimg.com/vi/BXRHn0QWclE/mqdefault.jpg",
-   "startedAt": "2026-11-28T02:06:06Z",
-   "state": "live"
-  },
-  {
    "id": "yt:g7MQexcBZrM",
    "platform": "youtube",
    "member": "alpha-betta",
@@ -49,6 +39,16 @@
    "thumb": "https://i.ytimg.com/vi/vAC_JfNfLkw/mqdefault.jpg",
    "startedAt": "2026-11-28T13:00:00Z",
    "state": "upcoming"
+  },
+  {
+   "id": "yt:BXRHn0QWclE",
+   "platform": "youtube",
+   "member": "alpha-betta",
+   "title": "Voice of Destiny Singing Relay💙【MAEFAE'S MUSIC BOX】 #karaoke #歌枠",
+   "url": "https://www.youtube.com/watch?v=BXRHn0QWclE",
+   "thumb": "https://i.ytimg.com/vi/BXRHn0QWclE/mqdefault.jpg",
+   "startedAt": "2026-11-28T02:06:06Z",
+   "state": "live"
   }
  ],
  "twitch": [
